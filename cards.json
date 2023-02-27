@@ -1,101 +1,83 @@
 {
   "n1ty_nz": [{
-    "name": "`⬛` NCT 127 **Taeyong** - NCT #127 Neo Zone",
-    "idol": "Taeyong",
+    "idol": "`⬛` NCT 127 **Taeyong** - NCT #127 Neo Zone",
+    "name": "Taeyong",
     "group": "NCT 127",
     "theme": "NCT #127 Neo Zone",
     "rarity": "`⬛`",
-    "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404005789727/n1ty_nz.pn?width=226&height=318g"
+    "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404005789727/n1ty_nz.png?width=226&height=318"
   }],
   "aegi_bm": [{
-      "name": "Giselle",
-      "idol": ":regalo: aespa **Giselle** - Beautiful Christmas",
-      "group": "aespa",
-      "theme": "Beautiful Christmas",
-      "rarity": ":regalo:",
-      "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755789790347264/Untitled1078_20221223155350.png?width=226&height=318"
+    "mame": "Giselle",
+    "idol": "<:regalo:1054709946928873512> aespa **Giselle** - Beautiful Christmas",
+    "group": "aespa",
+    "theme": "Beautiful Christmas",
+    "rarity": ":regalo:",
+    "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755789790347264/Untitled1078_20221223155350.png?width=226&height=318"
   }],
   "aenn_bm": [{
-      "name": "<:regalo:1054709946928873512> aespa **Ningning** - Beautiful Christmas",
-      "idol": "Ningning",
-      "group": "aespa",
-      "theme": "Beautiful Christmas",
-      "rarity": "<:regalo:1054709946928873512>",
-      "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055754759207919677/Untitled1078_20221223155211.png"
+    "idol": "<:regalo:1054709946928873512> aespa **Ningning** - Beautiful Christmas",
+    "name": "Ningning",
+    "group": "aespa",
+    "theme": "Beautiful Christmas",
+    "rarity": "<:regalo:1054709946928873512>",
+    "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055754759207919677/Untitled1078_20221223155211.png"
   }],
   "aewi_bm": [{
-    "name": "<:regalo:1054709946928873512> aespa **Winter** - Beautiful Christmas",
-    "idol": "Winter",
+    "idol": "<:regalo:1054709946928873512> aespa **Winter** - Beautiful Christmas",
+    "name": "Winter",
     "group": "aespa",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755776720916480/Untitled1078_20221223155314.png"
   }],
   "aeka_bm": [{
-    "name": "<:regalo:1054709946928873512> aespa **Karina** - Beautiful Christmas",
-    "idol": "Karina",
+    "idol": "<:regalo:1054709946928873512> aespa **Karina** - Beautiful Christmas",
+    "name": "Karina",
     "group": "aespa",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
-    "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755806181687296/Untitled1078_20221223155442.png"
+    "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755806181687296/Untitled1078_20221223155442.png?width=226&height=318"
   }],
   "rvir_bm": [{
-    "name": "<:regalo:1054709946928873512> Red Velvet **Irene** - Beautiful Christmas",
-    "idol": "Irene",
+    "idol": "<:regalo:1054709946928873512> Red Velvet **Irene** - Beautiful Christmas",
+    "name": "Irene",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697333096448060/Photopea_20_Dec_2022_4_54_22_pm_.png"
   }],
   "rvsl_bm": [{
-    "name": "<:regalo:1054709946928873512> Red Velvet **Seulgi** - Beautiful Christmas",
-    "idol": "Seulgi",
+    "idol": "<:regalo:1054709946928873512> Red Velvet **Seulgi** - Beautiful Christmas",
+    "name": "Seulgi",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697352906145872/Photopea_20_Dec_2022_5_41_52_pm_.png"
   }],
   "rvwe_bm": [{
-    "name": "<:regalo:1054709946928873512> Red Velvet **Wendy** - Beautiful Christmas",
-    "idol": "Wendy",
+    "idol": "<:regalo:1054709946928873512> Red Velvet **Wendy** - Beautiful Christmas",
+    "name": "Wendy",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697378466242612/Photopea_20_Dec_2022_5_06_18_pm_.png"
   }],
   "rvjo_bm": [{
-    "name": "<:regalo:1054709946928873512> Red Velvet **Joy** - Beautiful Christmas",
-    "idol": "Joy",
+    "idol": "<:regalo:1054709946928873512> Red Velvet **Joy** - Beautiful Christmas",
+    "name": "Joy",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755820714967050/Untitled1078_20221223155616.png"
   }],
   "rvye_bm": [{
-    "name": "<:regalo:1054709946928873512> Red Velvet **Yeri** - Beautiful Christmas",
-    "idol": "Yeri",
+    "idol": "<:regalo:1054709946928873512> Red Velvet **Yeri** - Beautiful Christmas",
+    "name": "Yeri",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697436997754952/Photopea_20_Dec_2022_4_45_14_pm_.png"
-  }],
-  "exsh_xm": [
-    {
-      "name": "Sehun",
-      "idol": "🎄 EXO **Sehun** - Christmas 2022",
-      "group": "EXO",
-      "theme": "Christmas 2022",
-      "rarity": "🎄",
-      "image": "https://media.discordapp.net/attachments/1045665511414956103/1045687832641011753/sehun_final.png"
-  }],
-  "ensh_xm": [
-    {
-      "name": "Sunghoon",
-      "idol": "🎄 ENHYPEN **Sunghoon** - Christmas 2022",
-      "group": "ENHYPEN",
-      "theme": "Christmas 2022",
-      "rarity": "🎄",
-      "image": "https://media.discordapp.net/attachments/1045665511414956103/1046059225949937754/Sunghoon_final.png"
   }],
   "txhk_ss": [{
     "name": "Huening Kai",
@@ -129,13 +111,140 @@
     "rarity": "`☄️`",
     "image": "https://cdn.discordapp.com/attachments/934667648170594324/954690047750311956/a558c251-4b9f-4730-a6ab-62e2810f305b.gif"
 }],
-"txye_ss": [
-  {
+"txye_ss": [{
     "name": "Yeonjun",
     "idol": "`☄️` TXT **Yeonjun** - The Star Seekers `🌟`",
     "group": "TXT",
     "theme": "The Star Seekers `🌟`",
     "rarity": "`☄️`",
     "image": "https://cdn.discordapp.com/attachments/934667648170594324/954687187549577316/1736f6b0-f85d-4048-b1c7-eed8e84f58fd.gif"
+}],
+"exsh_xm": [{
+  "name": "Sehun",
+  "idol": "🎄 EXO **Sehun** - Christmas 2022",
+  "group": "EXO",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1045687832641011753/sehun_final.png"
+}],
+"ensh_xm": [{
+  "name": "Sunghoon",
+  "idol": "🎄 ENHYPEN **Sunghoon** - Christmas 2022",
+  "group": "ENHYPEN",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1046059225949937754/Sunghoon_final.png"
+}],
+"d6wp_xm": [{
+  "name": "Wonpil",
+  "idol": "🎄 DAY6 **Wonpil** - Christmas 2022",
+  "group": "DAY6",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1045687954284224522/wonpil_last.png"
+}],
+"izcy_xm": [{
+  "name": "Chaeryeong",
+  "idol": "🎄 ITZY **Chaeryeong** - Christmas 2022",
+  "group": "ITZY",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1050031893581664257/chaeryeong_xmas.png"
+}],
+"soch_xm": [{
+  "name": "CHUNG HA",
+  "idol": "🎄 Soloist **CHUNG HA** - Christmas 2022",
+  "group": "Soloist",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1049241405014429707/Chungha-XMAS-2022.png"
+}],
+"loch_xm": [{
+  "name": "Chuu",
+  "idol": "🎄 LOONA **Chuu** - Christmas 2022",
+  "group": "LOONA",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1048761846871621692/Photopea_4_Dec_2022_8_44_45_am_.png"
+}],
+"twdh_xm": [{
+  "name": "Dahyun",
+  "idol": "🎄 TWICE **Dahyun** - Christmas 2022",
+  "group": "TWICE",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1050048803190878238/DAYY.png"
+}],
+"lohj_xm": [{
+  "name": "Hyunjin",
+  "idol": "🎄 LOONA **Hyunjin** - Christmas 2022",
+  "group": "LOONA",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1045989840472248372/Hyunjin-XMAS-2022.png"
+}],
+"dcji_xm": [{
+  "name": "JiU",
+  "idol": "🎄 Dreamcatcher **JiU** - Christmas 2022",
+  "group": "Dreamcatcher",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1049241191813763102/JiU-XMAS-2022.png"
+}],
+"ivli_xm": [{
+  "name": "Liz",
+  "idol": "🎄 IVE **Liz** - Christmas 2022",
+  "group": "IVE",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1048846209726554182/liz_xmas_AB5265C.png"
+}],
+"gimy_xm": [{
+  "name": "Miyeon",
+  "idol": "🎄 (G)I-dle **Miyeon** - Christmas 2022",
+  "group": "(G)I-dle",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1050337894176399461/gidle_miyeon_xmas.png"
+}],
+"iona_xm": [{
+  "name": "Nako",
+  "idol": "🎄 IZ * ONE **Nako** - Christmas 2022",
+  "group": "IZ * ONE",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1045988869255999488/Nako-XMAS-2022.png"
+}],
+"f9sy_xm": [{
+  "name": "Seoyeon",
+  "idol": "🎄 fromis_9 **Seoyeon** - Christmas 2022",
+  "group": "fromis_9",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1048981062128255046/seoyeon_xmas.png"
+}],
+"egsy_xm": [{
+  "name": "Sihyeon",
+  "idol": "🎄 EVERGLOW **Sihyeon** - Christmas 2022",
+  "group": "EVERGLOW",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1050327332746969128/sihyeon_xmas.png"
+}],
+"wjxy_xm": [{
+  "name": "Xuan Yi",
+  "idol": "🎄 WJSN **Xuan Yi** - Christmas 2022",
+  "group": "WJSN",
+  "theme": "Christmas 2022",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1050301255433592842/xuan_yi_xmas_1D527AF.png"
+}],
+"spmc_xm": [{
+  "name": "Mariah Carey",
+  "idol": "🎄 Soloist **Mariah Carey** - Christmas 2022 (Special)",
+  "group": "Soloist",
+  "theme": "Christmas 2022 (Special)",
+  "rarity": "🎄",
+  "image": "https://media.discordapp.net/attachments/1045665511414956103/1049615634184556604/Mariah_Carey-XMAS-2022.png"
 }]
 }
