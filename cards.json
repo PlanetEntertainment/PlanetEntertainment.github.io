@@ -1,60 +1,60 @@
 {
-  "n1ty_nz": {
+  "n1ty_nz": [{
     "idol": "Taeyong",
     "group": "NCT 127",
     "theme": "NCT #127 NEO ZONE",
     "rarity": "`⬛`",
     "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404005789727/n1ty_nz.png"
-  },
-  "aewi_bm": {
+  }],
+  "aewi_bm": [{
     "name": "<:regalo:1054709946928873512> aespa **Winter** - Beautiful Christmas",
     "idol": "Winter",
     "group": "aespa",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755776720916480/Untitled1078_20221223155314.png"
-  },
-  "aeka_bm": {
+  }],
+  "aeka_bm": [{
     "idol": "Karina",
     "group": "aespa",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755806181687296/Untitled1078_20221223155442.png"
-  },
-  "rvir_bm": {
+  }],
+  "rvir_bm": [{
     "idol": "Irene",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697333096448060/Photopea_20_Dec_2022_4_54_22_pm_.png"
-  },
-  "rvsl_bm": {
+  }],
+  "rvsl_bm": [{
     "idol": "Seulgi",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697352906145872/Photopea_20_Dec_2022_5_41_52_pm_.png"
-  },
-  "rvwe_bm": {
+  }],
+  "rvwe_bm": [{
     "idol": "Wendy",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697378466242612/Photopea_20_Dec_2022_5_06_18_pm_.png"
-  },
-  "rvjo_bm": {
+  }],
+  "rvjo_bm": [{
     "idol": "Joy",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755820714967050/Untitled1078_20221223155616.png"
-  },
-  "rvye_bm": {
+  }],
+  "rvye_bm": [{
     "name": "<:regalo:1054709946928873512> Red Velvet **Yeri** - Beautiful Christmas",
     "idol": "Yeri",
     "group": "Red Velvet",
     "theme": "Beautiful Christmas",
     "rarity": "<:regalo:1054709946928873512>",
     "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697436997754952/Photopea_20_Dec_2022_4_45_14_pm_.png"
-  }
+  }]
 }
