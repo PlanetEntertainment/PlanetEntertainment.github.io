@@ -1,5 +1,7 @@
 {
     "drop" :[{
-        "bm": "aeka_bm;aewi_bm;rvir_bm;rvjo_bm;rvsl_bm;rvwe_bm;rvye_bm"
+        "bm": "aegi_bm;aenn_bm;aeka_bm;aewi_bm;rvir_bm;rvjo_bm;rvsl_bm;rvwe_bm;rvye_bm",
+        "common": "",
+        "cp": "n1ty_nz;"
     }]
 }
