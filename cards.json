@@ -2,6 +2,14 @@
   "cardbook": [{
       "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
   }],
+  "a6da_co": [{
+      "name": "Daehwi",
+      "idol": "`⬜` AB6IX **Daehwi** - Common",
+      "group": "AB6IX",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/966625029599146006/971334302698733608/common_daehwi.png"
+  }],
   "n1ty_nz": [{
     "idol": "`⬛` NCT 127 **Taeyong** - NCT #127 Neo Zone",
     "name": "Taeyong",
