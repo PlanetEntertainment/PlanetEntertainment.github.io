@@ -4,5 +4,11 @@
           "group": "aespa",
           "theme": "Next Level",
           "image": "https://cdn.discordapp.com/attachments/1058031884560519209/1058031925509509211/Aespa_Next_Level_Banner.png"
+    }],
+    "BN0001": [{
+          "name": "aespa - Savage",
+          "group": "aespa",
+          "theme": "Savage",
+          "image": "https://cdn.discordapp.com/attachments/1058025325646336041/1058025367094439966/aespa_Savage_banner.png"
     }]
 }
