@@ -10,5 +10,30 @@
           "group": "aespa",
           "theme": "Savage",
           "image": "https://cdn.discordapp.com/attachments/1058025325646336041/1058025367094439966/aespa_Savage_banner.png"
+    }],
+    "BN0002": [{
+          "name": "NCT 127 - #127 Neo Zone",
+          "group": "NCT 127",
+          "theme": "#127 Neo Zone",
+          "image": "https://cdn.discordapp.com/attachments/1058350762448650303/1058350821835821087/nct127_neozone_banner.png"
+    }],
+    "BN0003": [
+        {
+          "name": "Xdinary Hereos - Happy ||Death|| Day",
+          "group": "Xdinary Hereos",
+          "theme": "Happy ||Death|| Day",
+          "image": "https://cdn.discordapp.com/attachments/1058032342846947449/1058348921895784489/xdinaryheroes_hdd_banner.png"
+    }],
+    "BN0004": [{
+          "name": "TWICE - #Twice4",
+          "group": "TWICE",
+          "theme": "#Twice4",
+          "image": "https://cdn.discordapp.com/attachments/1058031507043790918/1058068705126396024/Twice_Twice4_Banner_1.png"
+    }],
+    "BN0005": [{
+          "name": "TXT - Minisode1 : Blue Hour",
+          "group": "TXT",
+          "theme": "Minisode1 : Blue Hour",
+          "image": "https://cdn.discordapp.com/attachments/1058020969790316654/1058021033384345660/TXT_Blue_Hour_Banner.png"
     }]
 }
