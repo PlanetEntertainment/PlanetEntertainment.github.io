@@ -1,7 +1,72 @@
 {
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
-  }],
+}],
+"bpli_hy": [{
+  "name": "`⬛` BLACKPINK **Lisa** - The Album",
+  "idol": "Lisa",
+  "group": "BLACKPINK",
+  "theme": "The Album",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965813537966522378/971407566573817896/bpli_hy.png"
+}],
+"bpro_hy": [{
+  "name": "`⬛` BLACKPINK **Rosé** - The Album",
+  "idol": "Rosé",
+  "group": "BLACKPINK",
+  "theme": "The Album",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965813537966522378/971407567567872060/bpro_hy.png"
+}],
+"bpje_hy": [{
+  "name": "`⬛` BLACKPINK **Jennie** - The Album",
+  "idol": "Jennie",
+  "group": "BLACKPINK",
+  "theme": "The Album",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965813537966522378/971407568624840724/bpje_hy.png"
+}],
+"bpji_hy": [{
+  "name": "`⬛` BLACKPINK **Jisoo** - The Album",
+  "idol": "Jisoo",
+  "group": "BLACKPINK",
+  "theme": "The Album",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965813537966522378/971407565965651998/bpji_hy.png"
+}],
+"bpli_co": [{
+  "name": "`⬜` BLACKPINK **Lisa** - Common",
+  "idol": "Lisa",
+  "group": "BLACKPINK",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/968418561267761163/968418715446161458/bpli_co.png"
+}],
+"bpro_co": [{
+  "name": "`⬜` BLACKPINK **Rosé** - Common",
+  "idol": "Rosé",
+  "group": "BLACKPINK",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/968418561267761163/968418714972192818/bpro_co.png"
+}
+],
+"bpje_co": [{
+  "name": "`⬜` BLACKPINK **Jennie** - Common",
+  "idol": "Jennie",
+  "group": "BLACKPINK",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/968418561267761163/968418713915232256/bpje_co.png"
+}],
+"bpji_co": [{
+  "name": "`⬜` BLACKPINK **Jisoo** - Common",
+  "idol": "Jisoo",
+  "group": "BLACKPINK",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/968418561267761163/968418714477285437/bpji_co.png"
+}],
 "a6da_co": [{
   "name": "Daehwi",
   "idol": "`⬜` AB6IX **Daehwi** - Common",
@@ -9,7 +74,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/966625029599146006/971334302698733608/common_daehwi.png"
-  }],
+}],
   "n1ty_nz": [{
   "idol": "`⬛` NCT 127 **Taeyong** - NCT #127 Neo Zone",
   "name":   "taeyong",
@@ -17,7 +82,7 @@
   "theme":   "nCT #127 Neo Zone",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404005789727/n1ty_nz.png?width=226&height=318"
-  }],
+}],
 "aegi_bm": [{
   "mame":   "giselle",
   "idol": "<:regalo:1054709946928873512> aespa **Giselle** - Beautiful Christmas",
@@ -25,7 +90,7 @@
   "theme": "Beautiful Christmas",
   "rarity": ":regalo:",
   "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755789790347264/Untitled1078_20221223155350.png?width=226&height=318"
-  }],
+}],
 "aenn_bm": [{
   "idol": "<:regalo:1054709946928873512> aespa **Ningning** - Beautiful Christmas",
   "name":   "ningning",
@@ -33,7 +98,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055754759207919677/Untitled1078_20221223155211.png"
-  }],
+}],
 "aewi_bm": [{
   "idol": "<:regalo:1054709946928873512> aespa **Winter** - Beautiful Christmas",
   "name": "Winter",
@@ -41,7 +106,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755776720916480/Untitled1078_20221223155314.png"
-  }],
+}],
 "aeka_bm": [{
   "idol": "<:regalo:1054709946928873512> aespa **Karina** - Beautiful Christmas",
   "name": "Karina",
@@ -49,7 +114,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755806181687296/Untitled1078_20221223155442.png?width=226&height=318"
-  }],
+}],
   "rvir_bm": [{
   "idol": "<:regalo:1054709946928873512> Red Velvet **Irene** - Beautiful Christmas",
   "name":   "irene",
@@ -57,7 +122,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697333096448060/Photopea_20_Dec_2022_4_54_22_pm_.png"
-  }],
+}],
   "rvsl_bm": [{
   "idol": "<:regalo:1054709946928873512> Red Velvet **Seulgi** - Beautiful Christmas",
   "name": "Seulgi",
@@ -65,7 +130,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697352906145872/Photopea_20_Dec_2022_5_41_52_pm_.png"
-  }],
+}],
   "rvwe_bm": [{
   "idol": "<:regalo:1054709946928873512> Red Velvet **Wendy** - Beautiful Christmas",
   "name": "Wendy",
@@ -73,7 +138,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697378466242612/Photopea_20_Dec_2022_5_06_18_pm_.png"
-  }],
+}],
   "rvjo_bm": [{
   "idol": "<:regalo:1054709946928873512> Red Velvet **Joy** - Beautiful Christmas",
   "name": "Joy",
@@ -81,7 +146,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://cdn.discordapp.com/attachments/963756546213425152/1055755820714967050/Untitled1078_20221223155616.png"
-  }],
+}],
   "rvye_bm": [{
   "idol": "<:regalo:1054709946928873512> Red Velvet **Yeri** - Beautiful Christmas",
   "name": "Yeri",
@@ -89,7 +154,7 @@
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
   "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697436997754952/Photopea_20_Dec_2022_4_45_14_pm_.png"
-  }],
+}],
   "txhk_ss": [{
   "name": "Huening Kai",
   "idol": "`☄️` TXT **Huening Kai** - The Star Seekers `🌟`",
@@ -97,7 +162,7 @@
   "theme":   "the Star Seekers `🌟`",
   "rarity": "`☄️`",
   "image": "https://cdn.discordapp.com/attachments/934667648170594324/954693438601826334/83d4001c-c0df-4d2b-be01-23090415f7bd.gif"
-  }],
+}],
   "txta_ss": [{
   "name":   "taehyun",
   "idol": "`☄️` TXT **Taehyun** - The Star Seekers `🌟`",
