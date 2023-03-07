@@ -1,8 +1,11 @@
 {
-    "drop" :[{
-        "bm": "aegi_bm;aenn_bm;aeka_bm;aewi_bm;rvir_bm;rvjo_bm;rvsl_bm;rvwe_bm;rvye_bm",
-        "common": "",
-        "cp": "n1ty_nz;",
-        "valentines23": "lokl_vl23;iosk_vl23;txta_vl23;f9hy_vl23;dcga_vl23;ptki_vl23;atsa_vl23;izrj_vl23;svjh_vl23;shjh_vl23;btv_vl23;trjk_vl23;k1ch_vl23;skhj_vl23;mmso_vl23;asmb_vl23;twsa_vl23;nmji_vl23"
-    }]
+"drop" :[{
+    "bm": "aegi_bm;aenn_bm;aeka_bm;aewi_bm;rvir_bm;rvjo_bm;rvsl_bm;rvwe_bm;rvye_bm",
+    "common": "",
+    "cp": "n1ty_nz;",
+    "valentines23": "lokl_vl23;iosk_vl23;txta_vl23;f9hy_vl23;dcga_vl23;ptki_vl23;atsa_vl23;izrj_vl23;svjh_vl23;shjh_vl23;btv_vl23;trjk_vl23;k1ch_vl23;skhj_vl23;mmso_vl23;asmb_vl23;twsa_vl23;nmji_vl23"
+}],
+"letters" :[{
+    "love": "I wish that you always stay close to me and keep making me feel lucky every day.;It is difficult to imagine my life without you because you are the one who rules it.;I promise to always be there for you, to keep you happy and smiling.;Thank you for choosing and loving me beyond conditions.;Whenever I am with you, every moment feels extra special.;I have found the love of my life and my best friend in you.I was so alone in this whole wide world, but I found a companion for life in you when you arrived."
+}]
 }
