@@ -2,6 +2,62 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"omhj_co": [{
+  "name": "`⬜` Oh My Girl **Hyojung** - Common",
+  "idol": "Hyojung",
+  "group": "Oh My Girl",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079280284341641276/1079282472078024764/HyojungCommon.png"
+}],
+"omyb_co": [{
+  "name": "`⬜` Oh My Girl **Yubin** - Common",
+  "idol": "Yubin",
+  "group": "Oh My Girl",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1079280284341641276/1082907096338665542/YubinCommon.png"
+}],
+"omar_co": [{
+  "name": "`⬜` Oh My Girl **Arin** - Common",
+  "idol": "Arin",
+  "group": "Oh My Girl",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1079280284341641276/1082907096841998388/ArinCommon.png"
+}],
+"ommm_co": [{
+  "name": "`⬜` Oh My Girl **Mimi** - Common",
+  "idol": "Mimi",
+  "group": "Oh My Girl",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079280284341641276/1079282472635871332/MimiCommon.png"
+}],
+"omyo_co": [{
+  "name": "`⬜` Oh My Girl **YooA** - Common",
+  "idol": "YooA",
+  "group": "Oh My Girl",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1079280284341641276/1082907094556086292/YooACommon.png"
+}],
+"omsg_co": [{
+  "name": "`⬜` Oh My Girl **Seunghee** - Common",
+  "idol": "Seunghee",
+  "group": "Oh My Girl",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1079280284341641276/1082907095176859689/SeungheeCommon.png"
+}],
+"omji_co": [{
+  "name": "`⬜` Oh My Girl **Jiho** - Common",
+  "idol": "Jiho",
+  "group": "Oh My Girl",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1079280284341641276/1082907095772442645/JihoCommon.png"
+}],
 "sowz_co": [{
   "name": "`⬜` Soloist **Woozi** - Common",
   "idol": "Woozi",
@@ -156,7 +212,7 @@
   "image": "https://media.discordapp.net/attachments/1079283237454610442/1079283287744323635/MinjiCommon.png"
 }],
 "njha_co": [{
-  "name": "`⬜` NewJeans **Hannie** - Common",
+  "name": "`⬜` NewJeans **Hanni** - Common",
   "idol": "Hannie",
   "group": "NewJeans",
   "theme": "Common",
@@ -178,6 +234,470 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/1079283237454610442/1079283288709013594/HaerinCommon.png"
+}],
+"njhy_co": [{
+  "name": "`⬜` NewJeans **Hyein** - Common",
+  "idol": "Hyein",
+  "group": "NewJeans",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1079283237454610442/1079283289002610838/HyeinCommon.png"
+}],
+"txhk_bh": [{
+  "name": "Huening Kai",
+  "idol": "`⬛` TXT **Huening Kai** - Minisode1 : Blue Hour",
+  "group": "TXT",
+  "theme": "Minisode1 : Blue Hour",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870666249723955/txhk_bh.png"
+}],
+"txta_bh": [{
+  "name": "Taehyun",
+  "idol": "`⬛` TXT **Taehyun** - Minisode1 : Blue Hour",
+  "group": "TXT",
+  "theme": "Minisode1 : Blue Hour",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870666836910140/txta_bh.pn"
+}],
+"txbg_bh": [{
+  "name": "Beomgyu",
+  "idol": "`⬛` TXT **Beomgyu** - Minisode1 : Blue Hour",
+  "group": "TXT",
+  "theme": "Minisode1 : Blue Hour",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870665863827506/txbg_bh.png"
+}],
+"txye_bh": [{
+  "name": "Yeonjun",
+  "idol": "`⬛` TXT **Yeonjun** - Minisode1 : Blue Hour",
+  "group": "TXT",
+  "theme": "Minisode1 : Blue Hour",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870667256344636/txye_bh.png"
+}],
+"txsb_bh": [{
+  "name": "Soobin",
+  "idol": "`⬛` TXT **Soobin** - Minisode1 : Blue Hour",
+  "group": "TXT",
+  "theme": "Minisode1 : Blue Hour",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870666530734080/txsb_bh.pn"
+}],
+"txhk_co": [{
+  "name": "Huening Kai",
+  "idol": "`⬜` TXT **Huening Kai** - Common",
+  "group": "TXT",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965812478980292639/976372462893797416/txhk_co.png"
+}],
+"txta_co": [{
+  "name": "Taehyun",
+  "idol": "`⬜` TXT **Taehyun** - Common",
+  "group": "TXT",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965812478980292639/976373104509071380/txta_co.png"
+}],
+"txbg_co": [{
+  "name": "Beomgyu",
+  "idol": "`⬜` TXT **Beomgyu** - Common",
+  "group": "TXT",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965812478980292639/976374337256976424/txbg_co.png"
+}],
+"txye_co": [{
+  "name": "Yeonjun",
+  "idol": "`⬜` TXT **Yeonjun** - Common",
+  "group": "TXT",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965812478980292639/976373565949607936/txye_co.png"
+}],
+"txsb_co": [{
+  "name": "Soobin",
+  "idol": "`⬜` TXT **Soobin** - Common",
+  "group": "TXT",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965812478980292639/976374337684791316/txsb_co.png"
+}],
+"btsg_bt": [{
+  "name": "Suga",
+  "idol": "`⬛` BTS **Suga** - Butter",
+  "group": "BTS",
+  "theme": "Butter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821064225644555/suga_butter.png"
+}],
+"btjh_bt": [{
+  "name": "j-hope",
+  "idol": "`⬛` BTS **j-hope** - Butter",
+  "group": "BTS",
+  "theme": "Butter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821062044606564/jhope_butter.png"
+}],
+"btv_bt": [{
+  "name": "V",
+  "idol": "`⬛` BTS **V** - Butter",
+  "group": "BTS",
+  "theme": "Butter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821066033377310/v_butter.png"
+}],
+"btrm_bt": [{
+  "name": "RM",
+  "idol": "`⬛` BTS **RM** - Butter",
+  "group": "BTS",
+  "theme": "Butter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821061608378388/rm_butter.png"
+}],
+"btjk_bt": [{
+  "name": "Jungkook",
+  "idol": "`⬛` BTS **Jungkook** - Butter",
+  "group": "BTS",
+  "theme": "Butter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821063646810222/jk_butter.png"
+}],
+"btjm_bt": [{
+  "name": "Jimin",
+  "idol": "`⬛` BTS **Jimin** - Butter",
+  "group": "BTS",
+  "theme": "Butter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821062493401168/jimin_butter.png"
+}],
+"btji_bt": [{
+  "name": "Jin",
+  "idol": "`⬛` BTS **Jin** - Butter",
+  "group": "BTS",
+  "theme": "Butter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821062988308520/jin_butter.png"
+}],
+"btsg_co": [{
+  "name": "Suga",
+  "idol": "`⬜` BTS **Suga** - Common",
+  "group": "BTS",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965433435839692861/965433600029900870/btsg_co.png"
+}],
+"btjh_co": [{
+  "name": "j-hope",
+  "idol": "`⬜` BTS **j-hope** - Common",
+  "group": "BTS",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965433435839692861/965467452672712764/btjh_co.png"
+}],
+"btv_co": [{
+  "name": "V",
+  "idol": "`⬜` BTS **V** - Common",
+  "group": "BTS",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965433435839692861/965524720277684244/btv_co.png"
+}],
+"btrm_co": [{
+  "name": "RM",
+  "idol": "`⬜` BTS **RM** - Common",
+  "group": "BTS",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965433435839692861/965475354506575912/btrm_co.png"
+}],
+"btjk_co": [{
+  "name": "Jungkook",
+  "idol": "`⬜` BTS **Jungkook** - Common",
+  "group": "BTS",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965433435839692861/965450912489422878/btjk_co.png"
+}],
+"btjm_co": [{
+  "name": "Jimin",
+  "idol": "`⬜` BTS **Jimin** - Common",
+  "group": "BTS",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965433435839692861/965475397556899881/btjm_co.png"
+}],
+"btji_co": [{
+  "name": "Jin",
+  "idol": "`⬜` BTS **Jin** - Common",
+  "group": "BTS",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/931361849272844390/965416769734983690/btji_co.png"
+}],
+"trdy_fs": [{
+  "name": "`⬛` TREASURE **Doyoung** - The First Step : TREASURE Effect",
+  "idol": "Doyoung",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965814105325838357/974469829622902804/trdy_fs.png"
+}],
+"trha_fs": [{
+  "name": "`⬛` TREASURE **Haruto** - The First Step : TREASURE Effect",
+  "idol": "Haruto",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965814105325838357/974469829937492029/trha_fs.png"
+}],
+"trjw_fs": [{
+  "name": "`⬛` TREASURE **Jeongwoo** - The First Step : TREASURE Effect",
+  "idol": "Jeongwoo",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965814105325838357/974469798190796840/trjw_fs.png"
+}],
+"trjh_fs": [{
+  "name": "`⬛` TREASURE **Junghwan** - The First Step : TREASURE Effect",
+  "idol": "Junghwan",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965814105325838357/974469796714401822/trjh_fs.png"
+}],
+"trye_fs": [{
+  "name": "`⬛` TREASURE **Yedam** - The First Step : TREASURE Effect",
+  "idol": "Yedam",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965814105325838357/974469808714309652/trye_fs.png"
+}],
+"tras_fs": [{
+  "name": "`⬛` TREASURE **Asahi** - The First Step : TREASURE Effect",
+  "idol": "Asahi",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469829312536666/tras_fs.png"
+}],
+"trjy_fs": [{
+  "name": "`⬛` TREASURE **Jaehyuk** - The First Step : TREASURE Effect",
+  "idol": "Jaehyuk",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469798731866132/trjy_fs.png"
+}],
+"trma_fs": [{
+  "name": "`⬛` TREASURE **Mashiho** - The First Step : TREASURE Effect",
+  "idol": "Mashiho",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469799583318027/trma_fs.png"
+}],
+"trjk_fs": [{
+  "name": "`⬛` TREASURE **Junkyu** - The First Step : TREASURE Effect",
+  "idol": "Junkyu",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469797767163975/trjk_fs.png"
+}],
+"trji_fs": [{
+  "name": "`⬛` TREASURE **Jihoon** - The First Step : TREASURE Effect",
+  "idol": "Jihoon",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469797393887293/trji_fs.png"
+}],
+"trhs_fs": [{
+  "name": "`⬛` TREASURE **Hyunsuk** - The First Step : TREASURE Effect",
+  "idol": "Hyunsuk",
+  "group": "TREASURE",
+  "theme": "The First Step : TREASURE Effect",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469795858755675/trhs_fs.png"
+}],
+"trjh_co": [{
+  "name": "`⬜` TREASURE **Junghwan** - Common",
+  "idol": "Junghwan",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967655081338097724/junghwan.png"
+}],
+"trjw_co": [{
+  "name": "`⬜` TREASURE **Jeongwoo** - Common",
+  "idol": "Jeongwoo",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967699694958567424/jeongwoo.png"
+}],
+"trha_co": [{
+  "name": "`⬜` TREASURE **Haruto** - Common",
+  "idol": "Haruto",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967655080713158726/haruto.png"
+}],
+"trdy_co": [{
+  "name": "`⬜` TREASURE **Doyoung** - Common",
+  "idol": "Doyoung",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967698401108045844/doyoung.png"
+}],
+"trye_co": [{
+  "name": "`⬜` TREASURE **Yedam** - Common",
+  "idol": "Yedam",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967699696539820062/yedam.png"
+}],
+"tras_co": [{
+  "name": "`⬜` TREASURE **Asahi** - Common",
+  "idol": "Asahi",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967655080444715018/asahi.png"
+}],
+"trjy_co": [{
+  "name": "`⬜` TREASURE **Jaehyuk** - Common",
+  "idol": "Jaehyuk",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967698402274074654/jaehyuk.png"
+}],
+"trma_co": [{
+  "name": "`⬜` TREASURE **Mashiho** - Common",
+  "idol": "Mashiho",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967699696162324480/mashiho.png"
+}],
+"trjk_co": [{
+  "name": "`⬜` TREASURE **Junkyu** - Common",
+  "idol": "Junkyu",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967699695889711124/junkyu.png"
+}],
+"tryo_co": [{
+  "name": "`⬜` TREASURE **Yoshi** - Common",
+  "idol": "Yoshi",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/968392837559353394/yoshi.png"
+}],
+"trji_co": [{
+  "name": "`⬜` TREASURE **Jihoon** - Common",
+  "idol": "Jihoon",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967699695327662090/jihoon.png"
+}],
+"trhs_co": [{
+  "name": "`⬜` TREASURE **Hyunsuk** - Common",
+  "idol": "Hyunsuk",
+  "group": "TREASURE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967655005706420264/967698401590378516/hyunsuk.png"
+}],
+"izli_wn": [{
+  "name": "Lia",
+  "idol": "`⬛` ITZY **Lia** - IT'z ME",
+  "group": "ITZY",
+  "theme": "IT'z ME",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/966607183678685206/966607292663468062/izli_wn.png"
+}],
+"izye_wn": [{
+  "name": "Yeji",
+  "idol": "`⬛` ITZY **Yeji** - IT'z ME",
+  "group": "ITZY",
+  "theme": "IT'z ME",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/966607183678685206/966607293594632283/izye_wn.png"
+}],
+"izyu_wn": [{
+  "name": "Yuna",
+  "idol": "`⬛` ITZY **Yuna** - IT'z ME",
+  "group": "ITZY",
+  "theme": "IT'z ME",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/966607183678685206/966608179830079488/izyu_wn.png"
+}],
+"izrj_wn": [{
+  "name": "Ryujin",
+  "idol": "`⬛` ITZY **Ryujin** - IT'z ME",
+  "group": "ITZY",
+  "theme": "IT'z ME",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/966607183678685206/966607293112262656/izry_wn.png"
+}],
+"izcy_wn": [{
+  "name": "Chaeryeong",
+  "idol": "`⬛` ITZY **Chaeryeong** - IT'z ME",
+  "group": "ITZY",
+  "theme": "IT'z ME",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/966607183678685206/966607292097253406/izcy_wn.png"
+}],
+"izli_co": [{
+  "name": "Lia",
+  "idol": "`⬜` ITZY **Lia** - Common",
+  "group": "ITZY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/967367016585494568/967367153651154965/Photopea_23_Apr_2022_1_12_36_am_.png"
+}],
+"izye_co": [{
+  "name": "Yeji",
+  "idol": "`⬜` ITZY **Yeji** - Common",
+  "group": "ITZY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/967367016585494568/967367130603479070/Photopea_23_Apr_2022_1_09_48_am_.png"
+}],
+"izyu_co": [{
+  "name": "Yuna",
+  "idol": "`⬜` ITZY **Yuna** - Common",
+  "group": "ITZY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/967367016585494568/967367244164263987/Photopea_23_Apr_2022_1_13_56_am_.png"
+}],
+"izrj_co": [{
+  "name": "Ryujin",
+  "idol": "`⬜` ITZY **Ryujin** - Common",
+  "group": "ITZY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/967367016585494568/967367301760442398/Photopea_23_Apr_2022_1_20_03_am_.png"
+}],
+"izcy_co": [{
+  "name": "Chaeryeong",
+  "idol": "`⬜` ITZY **Chaeryeong** - Common",
+  "group": "ITZY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/967367016585494568/967367226732707840/Photopea_23_Apr_2022_1_24_54_am_.png"
 }],
 "bpli_hy": [{
   "name": "`⬛` BLACKPINK **Lisa** - The Album",
