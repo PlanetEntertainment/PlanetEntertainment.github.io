@@ -2,6 +2,183 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"sowz_co": [{
+  "name": "`⬜` Soloist **Woozi** - Common",
+  "idol": "Woozi",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079830183667834912/1079830438819942513/solowoozi_co.png"
+}],
+"sotm_co": [{
+  "name": "`⬜` Soloist **Taemin** - Common",
+  "idol": "Taemin",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079830507409383444/1079830651471134831/solotaemin_co.png"
+}],
+"shon_co": [{
+  "name": "`⬜` SHINee **Onew** - Common",
+  "idol": "Onew",
+  "group": "SHINee",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1055865288886853632/1055865798658363515/shineeonew_co.png"
+}],
+"shmh_co": [{
+  "name": "`⬜` SHINee **Minho** - Common",
+  "idol": "Minho",
+  "group": "SHINee",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1055865288886853632/1055865798243143730/shineeminho_co.png"
+}],
+"shke_co": [{
+  "name": "`⬜` SHINee **Key** - Common",
+  "idol": "Key",
+  "group": "SHINee",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1055865288886853632/1055865797848875108/shineekey_co.png"
+}],
+"btrm_m7": [{
+  "name": "`⬛` BTS **RM** - Map of the Soul : 7",
+  "idol": "RM",
+  "group": "BTS",
+  "theme": "Map of the Soul : 7",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811696597733376/my_editing_platform_533472F.png"
+}],
+"btji_m7": [
+{
+  "name": "`⬛` BTS **Jin** - Map of the Soul : 7",
+  "idol": "Jin",
+  "group": "BTS",
+  "theme": "Map of the Soul : 7",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811720886956152/my_editing_platform_923E91D.png"
+}],
+"btsg_m7": [{
+  "name": "`⬛` BTS **Suga** - Map of the Soul : 7",
+  "idol": "Suga",
+  "group": "BTS",
+  "theme": "Map of the Soul : 7",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811743506845736/my_editing_platform_7D500F3.png"
+}],
+"btjh_m7": [{
+  "name": "`⬛` BTS **j-hope** - Map of the Soul : 7",
+  "idol": "j-hope",
+  "group": "BTS",
+  "theme": "Map of the Soul : 7",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811766030237777/my_editing_platform_AC58E06.png"
+}],
+"btjm_m7": [{
+  "name": "`⬛` BTS **Jimin** - Map of the Soul : 7",
+  "idol": "Jimin",
+  "group": "BTS",
+  "theme": "Map of the Soul : 7",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811802218692608/my_editing_platform_0058BC4.png"
+}],
+"btjk_m7": [{
+  "name": "`⬛` BTS **Jungkook** - Map of the Soul : 7",
+  "idol": "Jungkook",
+  "group": "BTS",
+  "theme": "Map of the Soul : 7",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811873781923971/my_editing_platform_4097589.png"
+}],
+"pyrj_co": [{
+  "name": "`⬜` PIXY **Rinji** - Common",
+  "idol": "Rinji",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079331126390313020/1079331175799214100/Untitled34_20230226171507.png"
+}],
+"solc": [{
+  "name": "`⬜` Soloist **LEE CHAEYEON** - Common",
+  "idol": "LEE CHAEYEON",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079288525264011334/1079288532830527498/LeeChaeyeonCommon.png"
+}],
+"soje_zm": [{
+  "name": "`⬛` Soloist **Jessi** - ZOOM",
+  "idol": "Jessi",
+  "group": "Soloist",
+  "theme": "ZOOM",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1070244111799562250/1070244237611900988/my_editing_platform_1694729.png"
+}],
+"vveu_co": [{
+  "name": "`⬜` VIVIZ **Eunha** - Common",
+  "idol": "Eunha",
+  "group": "VIVIZ",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1070541540641996820/1070541638553833575/template_for_common_C83CFD6.png"
+}],
+"vvsb_co": [{
+  "name": "`⬜` VIVIZ **SinB** - Common",
+  "idol": "SinB",
+  "group": "VIVIZ",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1070541540641996820/1070541662629150760/template_for_common_F918F38.png"
+}],
+"vvum_co": [{
+  "name": "`⬜` VIVIZ **Umji** - Common",
+  "idol": "Umji",
+  "group": "VIVIZ",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1070541540641996820/1070541691053944862/template_for_common_0ABD774.png"
+}],
+"sopj_co": [{
+  "name": "`⬜` Soloist **PARK JI HOON** - Common",
+  "idol": "PARK JI HOON",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1073810350358671422/1073810497914273832/template_for_common_97EF82F.png"
+}],
+"njmj_co": [{
+  "name": "`⬜` NewJeans **Minji** - Common",
+  "idol": "Minji",
+  "group": "NewJeans",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079283237454610442/1079283287744323635/MinjiCommon.png"
+}],
+"njha_co": [{
+  "name": "`⬜` NewJeans **Hannie** - Common",
+  "idol": "Hannie",
+  "group": "NewJeans",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079283237454610442/1079283288025337886/HanniCommon.png"
+}],
+"njda_co": [{
+  "name": "`⬜` NewJeans **Danielle** - Common",
+  "idol": "Danielle",
+  "group": "NewJeans",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079283237454610442/1079283288348295178/DanielleCommon.png"
+}],
+"njhr_co": [{
+  "name": "`⬜` NewJeans **Haerin** - Common",
+  "idol": "Haerin",
+  "group": "NewJeans",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/1079283237454610442/1079283288709013594/HaerinCommon.png"
+}],
 "bpli_hy": [{
   "name": "`⬛` BLACKPINK **Lisa** - The Album",
   "idol": "Lisa",
@@ -49,8 +226,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/968418561267761163/968418714972192818/bpro_co.png"
-}
-],
+}],
 "bpje_co": [{
   "name": "`⬜` BLACKPINK **Jennie** - Common",
   "idol": "Jennie",
