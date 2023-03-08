@@ -243,6 +243,70 @@
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1079283237454610442/1079283289002610838/HyeinCommon.png"
 }],
+"k1ye_ts": [{
+  "name": "`⬛` Kep1er **Yeseo** - TEOUBLE SHOOTER",
+  "idol": "Yeseo",
+  "group": "Kep1er",
+  "theme": "TEOUBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513600359903252/yeseo_ts.png"
+}],
+"k1ba_ts": [{
+  "name": "`⬛` Kep1er **Huening Bahiyyih** - TROUBLE SHOOTER",
+  "idol": "Huening Bahiyyih",
+  "group": "Kep1er",
+  "theme": "TROUBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513599713984583/h_bahiyyih_ts.png"
+}],
+"k1ma_ts": [{
+  "name": "`⬛` Kep1er **Mahiro** - TROUBLE SHOOTER",
+  "idol": "Mahiro",
+  "group": "Kep1er",
+  "theme": "TROUBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513555594092636/mashiro_we_fresh.png"
+}],
+"k1yu_ts": [{
+  "name": "`⬛` Kep1er **Yujin** - TROUBLE SHOOTER",
+  "idol": "Yujin",
+  "group": "Kep1er",
+  "theme": "TROUBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513434940743700/yujin_ts.png"
+}],
+"k1ch_ts": [{
+  "name": "`⬛` Kep1er **Chaehyun** - TROUBLE SHOOTER",
+  "idol": "Chaehyun",
+  "group": "Kep1er",
+  "theme": "TROUBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513556403597332/chaehyun_ts.png"
+}],
+"k1da_ts": [{
+  "name": "`⬛` Kep1er **Dayeon** - TROBLE SHOOTER",
+  "idol": "Dayeon",
+  "group": "Kep1er",
+  "theme": "TROBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513556764303421/dayeon_ts.png"
+}],
+"k1xt_ts": [{
+  "name": "`⬛` Kep1er **Xiaoting** - TROUBLE SHOOTER",
+  "idol": "Xiaoting",
+  "group": "Kep1er",
+  "theme": "TROUBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513556030296114/xiaoting_ts.png"
+}],
+"k1hk_ts": [{
+  "name": "`⬛` Kep1er **Hikaru** - TROUBLE SHOOTER",
+  "idol": "Hikaru",
+  "group": "Kep1er",
+  "theme": "TROUBLE SHOOTER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513557477331085/hikaru_ts.png"
+}],
 "txhk_bh": [{
   "name": "Huening Kai",
   "idol": "`⬛` TXT **Huening Kai** - Minisode1 : Blue Hour",
