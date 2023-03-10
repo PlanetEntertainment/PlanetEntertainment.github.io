@@ -243,7 +243,46 @@
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1079283237454610442/1079283289002610838/HyeinCommon.png"
 }],
-
+"rvye_co": [{
+  "name": "`⬜` Red Velvet **Yeri** - Common",
+  "idol": "Yeri",
+  "group": "Red Velvet",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971324757851127888/971326300822339646/rvyeri-common.png"
+}],
+"rvjo_co": [{
+  "name": "`⬜` Red Velvet **Joy** - Common",
+  "idol": "Joy",
+  "group": "Red Velvet",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971324757851127888/971325950732152832/rvjoy-common.png"
+}],
+"rvwe_co": [{
+  "name": "`⬜` Red Velvet **Wendy** - Common",
+  "idol": "Wendy",
+  "group": "Red Velvet",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971324757851127888/971325400733073408/rvwendy-common.png"
+}],
+"rvsl_co": [{
+  "name": "`⬜` Red Velvet **Seulgi** - Common",
+  "idol": "Seulgi",
+  "group": "Red Velvet",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971324757851127888/971324871386759178/rvseulgi-common.png"
+}],
+"rvir_co": [{
+  "name": "`⬜` Red Velvet **Irene** - Common",
+  "idol": "Irene",
+  "group": "Red Velvet",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971324757851127888/971324853519024138/rvirene-common.png"
+}],
 "gimi_il": [{
   "name": "`⬛` (G)I-DLE **Minnie** - I Love",
   "idol": "Minnie",
