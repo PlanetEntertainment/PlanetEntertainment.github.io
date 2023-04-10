@@ -1562,5 +1562,37 @@
       "theme": "Born Pink",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1044552944659464192/1044554452348178452/bplisa-concept.png"
+}],
+"wnsy_rm": [{
+    "name": "`⬛` WINNER **Seungyoon** - Remember",
+    "idol": "Seungyoon",
+    "group": "WINNER",
+    "theme": "Remember",
+    "rarity": "`⬛`",
+    "image": "https://cdn.discordapp.com/attachments/1044919243793240114/1044919331680690236/seungyoon_remember.png"
+}],
+"wnjw_rm": [{
+    "name": "`⬛` WINNER **Jinwoo** - Remember",
+    "idol": "Jinwoo",
+    "group": "WINNER",
+    "theme": "Remember",
+    "rarity": "`⬛`",
+    "image": "https://cdn.discordapp.com/attachments/1044919243793240114/1044919331991081050/jinwoo_remember.png"
+}],
+"wnsh_rm": [{
+    "name": "`⬛` WINNER **Seunghoon** - Remember",
+    "idol": "Seunghoon",
+    "group": "WINNER",
+    "theme": "Remember",
+    "rarity": "`⬛`",
+    "image": "https://cdn.discordapp.com/attachments/1044919243793240114/1044919332372742144/seunghoon_remember.png"
+}],
+"wnmi_rm": [{
+    "name": "`⬛` WINNER **Mino** - Remember",
+    "idol": "Mino",
+    "group": "WINNER",
+    "theme": "Remember",
+    "rarity": "`⬛`",
+    "image": "https://cdn.discordapp.com/attachments/1044919243793240114/1044919332725071942/mino_remember.png"
 }]
 }
