@@ -330,7 +330,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/966625029599146006/971334305311756348/common_woong.png"
-  }],
+}],
 "a6wj_co": [{
   "name": "`⬜` AB6IX **Woojin** - Common",
   "idol": "Woojin",
@@ -1530,5 +1530,37 @@
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1082100061472833576/Valentines2023_Jinni.png"
+}],
+"bpji_bp": [{
+      "name": "`⬛` BLACKPINK **Jisoo** - Born Pink",
+      "idol": "Jisoo",
+      "group": "BLACKPINK",
+      "theme": "Born Pink",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1044552944659464192/1044553230094434364/bpjisoo-concept.png"
+}],
+"bpje_bp": [{
+      "name": "`⬛` BLACKPINK **Jennie** - Born Pink",
+      "idol": "Jennie",
+      "group": "BLACKPINK",
+      "theme": "Born Pink",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1044552944659464192/1044554000676167711/bpjennie-concept.png"
+}],
+"bpro_bp": [{
+      "name": "`⬛` BLACKPINK **Rosé** - Born Pink",
+      "idol": "Rosé",
+      "group": "BLACKPINK",
+      "theme": "Born Pink",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1044552944659464192/1044554189029769276/bprose-concept.png"
+}],
+"bpli_bp": [{
+      "name": "`⬛` BLACKPINK **Lisa** - Born Pink",
+      "idol": "Lisa",
+      "group": "BLACKPINK",
+      "theme": "Born Pink",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1044552944659464192/1044554452348178452/bplisa-concept.png"
 }]
 }
