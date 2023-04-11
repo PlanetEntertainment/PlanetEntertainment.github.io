@@ -948,15 +948,15 @@
   "image": "https://cdn.discordapp.com/attachments/968418561267761163/968418714477285437/bpji_co.png"
 }],
 "n1ty_nz": [{
-  "idol": "`⬛` NCT 127 **Taeyong** - NCT #127 Neo Zone",
-  "name":   "Taeyong",
+  "name": "`⬛` NCT 127 **Taeyong** - NCT #127 Neo Zone",
+  "idol":   "Taeyong",
   "group":   "NCT 127",
   "theme":   "NCT #127 Neo Zone",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404005789727/n1ty_nz.png?width=226&height=318"
 }],
 "aegi_bm": [{
-  "mame":   "giselle",
+  "mame":   "Giselle",
   "idol": "<:regalo:1054709946928873512> aespa **Giselle** - Beautiful Christmas",
   "group": "aespa",
   "theme": "Beautiful Christmas",
@@ -965,7 +965,7 @@
 }],
 "aenn_bm": [{
   "idol": "<:regalo:1054709946928873512> aespa **Ningning** - Beautiful Christmas",
-  "name":   "ningning",
+  "name":   "Ningning",
   "group": "aespa",
   "theme": "Beautiful Christmas",
   "rarity": "<:regalo:1054709946928873512>",
