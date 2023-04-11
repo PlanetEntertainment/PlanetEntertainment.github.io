@@ -16,6 +16,7 @@
     "fancams": "sohh_fc;n1jh_fc;numh_fc;sobo_fc;gish_fc;omar_fc;sokd_fc;ptki_fc;skse_fc;exbh_fc;enhs_fc;txhk_fc;enja_fc;trji_fc;xhjy_fc;rvir_fc;aeka_fc;egon_fc;bpro_fc;izrj_fc;sosm_fc;lohe_fc;k1hk_fc;sohw_fc;btsg_fc;k1ba_fc;wjyr_fc;soch_fc;trjk_fc;cxsh_fc;twna_fc",
     "enha": "ensh_bc;ensu_bc;enjw_bc;enja_bc;enjk_bc;ennk_bc;enhs_bc",
     "valentines23": "lokl_vl23;iosk_vl23;txta_vl23;f9hy_vl23;dcga_vl23;ptki_vl23;atsa_vl23;izrj_vl23;svjh_vl23;shjh_vl23;btv_vl23;trjk_vl23;k1ch_vl23;skhj_vl23;mmso_vl23;asmb_vl23;twsa_vl23;nmji_vl23",
-    "dr": "enha;cp;common;common;common;common"
+    "dr": "enha;cp;common;common;common;common",
+    "get": "$getglobaluservar[dr]"
 }]
 }
