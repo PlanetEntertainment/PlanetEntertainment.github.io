@@ -1659,5 +1659,29 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/987989194011992094/987993110481076244/2pjb_co-v2.png"
+}],
+  "sohs_co": [{
+      "name": "`⬜` Soloist **Hoshi** - Common",
+      "idol": "Hoshi",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1083096074278936736/1083096435391729706/solohoshi_co.png"
+}],
+  "sowd_co": [{
+      "name": "`⬜` Soloist **WOODZ** - Common",
+      "idol": "WOODZ",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1070544427543707658/1070544586373599342/template_for_common_32486A5.png"
+}],
+  "soal_co": [{
+      "name": "`⬜` Soloist **AleXa** - Common",
+      "idol": "AleXa",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1056011223277248632/1056011317321936936/Alexa_Common.png"
 }]
 }
