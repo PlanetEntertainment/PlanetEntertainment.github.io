@@ -468,152 +468,152 @@
   "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870666530734080/txsb_bh.pn"
 }],
 "txhk_co": [{
-  "name": "Huening Kai",
-  "idol": "`⬜` TXT **Huening Kai** - Common",
+  "idol": "Huening Kai",
+  "name": "`⬜` TXT **Huening Kai** - Common",
   "group": "TXT",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965812478980292639/976372462893797416/txhk_co.png"
 }],
 "txta_co": [{
-  "name": "Taehyun",
-  "idol": "`⬜` TXT **Taehyun** - Common",
+  "idol": "Taehyun",
+  "name": "`⬜` TXT **Taehyun** - Common",
   "group": "TXT",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965812478980292639/976373104509071380/txta_co.png"
 }],
 "txbg_co": [{
-  "name": "Beomgyu",
-  "idol": "`⬜` TXT **Beomgyu** - Common",
+  "idol": "Beomgyu",
+  "name": "`⬜` TXT **Beomgyu** - Common",
   "group": "TXT",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965812478980292639/976374337256976424/txbg_co.png"
 }],
 "txye_co": [{
-  "name": "Yeonjun",
-  "idol": "`⬜` TXT **Yeonjun** - Common",
+  "idol": "Yeonjun",
+  "name": "`⬜` TXT **Yeonjun** - Common",
   "group": "TXT",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965812478980292639/976373565949607936/txye_co.png"
 }],
 "txsb_co": [{
-  "name": "Soobin",
-  "idol": "`⬜` TXT **Soobin** - Common",
+  "idol": "Soobin",
+  "name": "`⬜` TXT **Soobin** - Common",
   "group": "TXT",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965812478980292639/976374337684791316/txsb_co.png"
 }],
 "btsg_bt": [{
-  "name": "Suga",
-  "idol": "`⬛` BTS **Suga** - Butter",
+  "idol": "Suga",
+  "name": "`⬛` BTS **Suga** - Butter",
   "group": "BTS",
   "theme": "Butter",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821064225644555/suga_butter.png"
 }],
 "btjh_bt": [{
-  "name": "j-hope",
-  "idol": "`⬛` BTS **j-hope** - Butter",
+  "idol": "j-hope",
+  "name": "`⬛` BTS **j-hope** - Butter",
   "group": "BTS",
   "theme": "Butter",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821062044606564/jhope_butter.png"
 }],
 "btv_bt": [{
-  "name": "V",
-  "idol": "`⬛` BTS **V** - Butter",
+  "idol": "V",
+  "name": "`⬛` BTS **V** - Butter",
   "group": "BTS",
   "theme": "Butter",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821066033377310/v_butter.png"
 }],
 "btrm_bt": [{
-  "name": "RM",
-  "idol": "`⬛` BTS **RM** - Butter",
+  "idol": "RM",
+  "name": "`⬛` BTS **RM** - Butter",
   "group": "BTS",
   "theme": "Butter",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821061608378388/rm_butter.png"
 }],
 "btjk_bt": [{
-  "name": "Jungkook",
-  "idol": "`⬛` BTS **Jungkook** - Butter",
+  "idol": "Jungkook",
+  "name": "`⬛` BTS **Jungkook** - Butter",
   "group": "BTS",
   "theme": "Butter",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821063646810222/jk_butter.png"
 }],
 "btjm_bt": [{
-  "name": "Jimin",
-  "idol": "`⬛` BTS **Jimin** - Butter",
+  "idol": "Jimin",
+  "name": "`⬛` BTS **Jimin** - Butter",
   "group": "BTS",
   "theme": "Butter",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821062493401168/jimin_butter.png"
 }],
 "btji_bt": [{
-  "name": "Jin",
-  "idol": "`⬛` BTS **Jin** - Butter",
+  "idol": "Jin",
+  "name": "`⬛` BTS **Jin** - Butter",
   "group": "BTS",
   "theme": "Butter",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965820872940191804/965821062988308520/jin_butter.png"
 }],
 "btsg_co": [{
-  "name": "Suga",
-  "idol": "`⬜` BTS **Suga** - Common",
+  "idol": "Suga",
+  "name": "`⬜` BTS **Suga** - Common",
   "group": "BTS",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965433435839692861/965433600029900870/btsg_co.png"
 }],
 "btjh_co": [{
-  "name": "j-hope",
-  "idol": "`⬜` BTS **j-hope** - Common",
+  "idol": "j-hope",
+  "name": "`⬜` BTS **j-hope** - Common",
   "group": "BTS",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965433435839692861/965467452672712764/btjh_co.png"
 }],
 "btv_co": [{
-  "name": "V",
-  "idol": "`⬜` BTS **V** - Common",
+  "idol": "V",
+  "name": "`⬜` BTS **V** - Common",
   "group": "BTS",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965433435839692861/965524720277684244/btv_co.png"
 }],
 "btrm_co": [{
-  "name": "RM",
-  "idol": "`⬜` BTS **RM** - Common",
+  "idol": "RM",
+  "name": "`⬜` BTS **RM** - Common",
   "group": "BTS",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965433435839692861/965475354506575912/btrm_co.png"
 }],
 "btjk_co": [{
-  "name": "Jungkook",
-  "idol": "`⬜` BTS **Jungkook** - Common",
+  "idol": "Jungkook",
+  "name": "`⬜` BTS **Jungkook** - Common",
   "group": "BTS",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965433435839692861/965450912489422878/btjk_co.png"
 }],
 "btjm_co": [{
-  "name": "Jimin",
-  "idol": "`⬜` BTS **Jimin** - Common",
+  "idol": "Jimin",
+  "name": "`⬜` BTS **Jimin** - Common",
   "group": "BTS",
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/965433435839692861/965475397556899881/btjm_co.png"
 }],
 "btji_co": [{
-  "name": "Jin",
-  "idol": "`⬜` BTS **Jin** - Common",
+  "idol": "Jin",
+  "name": "`⬜` BTS **Jin** - Common",
   "group": "BTS",
   "theme": "Common",
   "rarity": "`⬜`",
@@ -956,8 +956,8 @@
   "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404005789727/n1ty_nz.png?width=226&height=318"
 }],
 "aegi_bm": [{
-  "idol": "Giselle",
   "name": "<:regalo:1054709946928873512> aespa **Giselle** - Beautiful Christmas",
+  "idol": "Giselle",
   "group": "aespa",
   "theme": "Beautiful Christmas",
   "rarity": ":regalo:",
@@ -1028,168 +1028,168 @@
   "image": "https://media.discordapp.net/attachments/1054697121674186762/1054697436997754952/Photopea_20_Dec_2022_4_45_14_pm_.png"
 }],
   "txhk_ss": [{
-  "name": "Huening Kai",
-  "idol": "`☄️` TXT **Huening Kai** - The Star Seekers `🌟`",
-  "group":   "tXT",
-  "theme":   "the Star Seekers `🌟`",
+  "idol": "Huening Kai",
+  "name": "`☄️` TXT **Huening Kai** - The Star Seekers `🌟`",
+  "group":   "TXT",
+  "theme":   "The Star Seekers `🌟`",
   "rarity": "`☄️`",
   "image": "https://cdn.discordapp.com/attachments/934667648170594324/954693438601826334/83d4001c-c0df-4d2b-be01-23090415f7bd.gif"
 }],
   "txta_ss": [{
-  "name":   "taehyun",
-  "idol": "`☄️` TXT **Taehyun** - The Star Seekers `🌟`",
-  "group":   "tXT",
-  "theme":   "the Star Seekers `🌟`",
+  "idol":   "Taehyun",
+  "name": "`☄️` TXT **Taehyun** - The Star Seekers `🌟`",
+  "group":   "TXT",
+  "theme":   "The Star Seekers `🌟`",
   "rarity": "`☄️`",
   "image": "https://cdn.discordapp.com/attachments/934667648170594324/954691729150316625/ea5ca514-3235-4d27-a0c4-b33255b971f3.gif"
 }],
   "txbg_ss": [{
-  "name": "Beomgyu",
-  "idol": "`☄️` TXT **Beomgyu** - The Star Seekers `🌟`",
-  "group":   "tXT",
-  "theme":   "the Star Seekers `🌟`",
+  "idol": "Beomgyu",
+  "name": "`☄️` TXT **Beomgyu** - The Star Seekers `🌟`",
+  "group":   "TXT",
+  "theme":   "The Star Seekers `🌟`",
   "rarity": "`☄️`",
   "image": "https://cdn.discordapp.com/attachments/934667648170594324/954692183640899614/c3c4ea5f-8a4a-4fea-968d-21c8d3fe1e9f.gif"
 }],
   "txsb_ss": [{
-  "name": "Soobin",
-  "idol": "`☄️` TXT **Soobin** - The Star Seekers `🌟`",
-  "group":   "tXT",
-  "theme":   "the Star Seekers `☄️`",
+  "idol": "Soobin",
+  "name": "`☄️` TXT **Soobin** - The Star Seekers `🌟`",
+  "group":   "TXT",
+  "theme":   "The Star Seekers `🌟`",
   "rarity": "`☄️`",
   "image": "https://cdn.discordapp.com/attachments/934667648170594324/954690047750311956/a558c251-4b9f-4730-a6ab-62e2810f305b.gif"
 }],
   "txye_ss": [{
-  "name": "Yeonjun",
-  "idol": "`☄️` TXT **Yeonjun** - The Star Seekers `🌟`",
-  "group":   "tXT",
-  "theme":   "the Star Seekers `🌟`",
+  "idol": "Yeonjun",
+  "name": "`☄️` TXT **Yeonjun** - The Star Seekers `🌟`",
+  "group":   "TXT",
+  "theme":   "The Star Seekers `🌟`",
   "rarity": "`☄️`",
   "image": "https://cdn.discordapp.com/attachments/934667648170594324/954687187549577316/1736f6b0-f85d-4048-b1c7-eed8e84f58fd.gif"
 }],
 "exsh_xm": [{
-  "name": "Sehun",
-  "idol": "🎄 EXO **Sehun** - Christmas 2022",
+  "idol": "Sehun",
+  "name": "🎄 EXO **Sehun** - Christmas 2022",
   "group": "EXO",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1045687832641011753/sehun_final.png"
 }],
 "ensh_xm": [{
-  "name": "Sunghoon",
-  "idol": "🎄 ENHYPEN **Sunghoon** - Christmas 2022",
+  "idol": "Sunghoon",
+  "name": "🎄 ENHYPEN **Sunghoon** - Christmas 2022",
   "group": "ENHYPEN",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1046059225949937754/Sunghoon_final.png"
 }],
 "d6wp_xm": [{
-  "name": "Wonpil",
-  "idol": "🎄 DAY6 **Wonpil** - Christmas 2022",
+  "idol": "Wonpil",
+  "name": "🎄 DAY6 **Wonpil** - Christmas 2022",
   "group": "DAY6",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1045687954284224522/wonpil_last.png"
 }],
   "izcy_xm": [{
-  "name": "Chaeryeong",
-  "idol": "🎄 ITZY **Chaeryeong** - Christmas 2022",
-  "group":   "iTZY",
+  "idol": "Chaeryeong",
+  "name": "🎄 ITZY **Chaeryeong** - Christmas 2022",
+  "group": "ITZY",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1050031893581664257/chaeryeong_xmas.png"
 }],
 "soch_xm": [{
-  "name": "CHUNG HA",
-  "idol": "🎄 Soloist **CHUNG HA** - Christmas 2022",
+  "idol": "CHUNG HA",
+  "name": "🎄 Soloist **CHUNG HA** - Christmas 2022",
   "group": "Soloist",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1049241405014429707/Chungha-XMAS-2022.png"
 }],
 "loch_xm": [{
-  "name": "Chuu",
-  "idol": "🎄 LOONA **Chuu** - Christmas 2022",
+  "idol": "Chuu",
+  "name": "🎄 LOONA **Chuu** - Christmas 2022",
   "group": "LOONA",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1048761846871621692/Photopea_4_Dec_2022_8_44_45_am_.png"
 }],
   "twdh_xm": [{
-  "name": "Dahyun",
-  "idol": "🎄 TWICE **Dahyun** - Christmas 2022",
-  "group":   "tWICE",
+  "idol": "Dahyun",
+  "name": "🎄 TWICE **Dahyun** - Christmas 2022",
+  "group": "TWICE",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1050048803190878238/DAYY.png"
 }],
 "lohj_xm": [{
-  "name": "Hyunjin",
-  "idol": "🎄 LOONA **Hyunjin** - Christmas 2022",
+  "idol": "Hyunjin",
+  "name": "🎄 LOONA **Hyunjin** - Christmas 2022",
   "group": "LOONA",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1045989840472248372/Hyunjin-XMAS-2022.png"
 }],
 "dcji_xm": [{
-  "name": "JiU",
-  "idol": "🎄 Dreamcatcher **JiU** - Christmas 2022",
+  "idol": "JiU",
+  "name": "🎄 Dreamcatcher **JiU** - Christmas 2022",
   "group": "Dreamcatcher",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1049241191813763102/JiU-XMAS-2022.png"
 }],
   "ivli_xm": [{
-  "name": "Liz",
-  "idol": "🎄 IVE **Liz** - Christmas 2022",
-  "group":   "iVE",
+  "idol": "Liz",
+  "name": "🎄 IVE **Liz** - Christmas 2022",
+  "group": "IVE",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1048846209726554182/liz_xmas_AB5265C.png"
 }],
   "gimy_xm": [{
-  "name": "Miyeon",
-  "idol": "🎄 (G)I-dle **Miyeon** - Christmas 2022",
-  "group": "(G)I-dle",
+  "idol": "Miyeon",
+  "name": "🎄 (G)I-DLE **Miyeon** - Christmas 2022",
+  "group": "(G)I-DLE",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1050337894176399461/gidle_miyeon_xmas.png"
 }],
   "iona_xm": [{
-  "name":   "nako",
-  "idol": "🎄 IZ * ONE **Nako** - Christmas 2022",
-  "group":   "iZ * ONE",
+  "idol": "Nako",
+  "name": "🎄 IZ * ONE **Nako** - Christmas 2022",
+  "group": "IZ * ONE",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1045988869255999488/Nako-XMAS-2022.png"
 }],
 "f9sy_xm": [{
-  "name": "Seoyeon",
-  "idol": "🎄 fromis_9 **Seoyeon** - Christmas 2022",
+  "idol": "Seoyeon",
+  "name": "🎄 fromis_9 **Seoyeon** - Christmas 2022",
   "group": "fromis_9",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1048981062128255046/seoyeon_xmas.png"
 }],
 "egsy_xm": [{
-  "name": "Sihyeon",
-  "idol": "🎄 EVERGLOW **Sihyeon** - Christmas 2022",
+  "idol": "Sihyeon",
+  "name": "🎄 EVERGLOW **Sihyeon** - Christmas 2022",
   "group": "EVERGLOW",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1050327332746969128/sihyeon_xmas.png"
 }],
 "wjxy_xm": [{
-  "name": "Xuan Yi",
-  "idol": "🎄 WJSN **Xuan Yi** - Christmas 2022",
+  "idol": "Xuan Yi",
+  "name": "🎄 WJSN **Xuan Yi** - Christmas 2022",
   "group": "WJSN",
   "theme": "Christmas 2022",
   "rarity": "🎄",
   "image": "https://media.discordapp.net/attachments/1045665511414956103/1050301255433592842/xuan_yi_xmas_1D527AF.png"
 }],
 "spmc_xm": [{
-  "name": "Mariah Carey",
-  "idol": "🎄 Soloist **Mariah Carey** - Christmas 2022 (Special)",
+  "idol": "Mariah Carey",
+  "name": "🎄 Soloist **Mariah Carey** - Christmas 2022 (Special)",
   "group": "Soloist",
   "theme": "Christmas 2022 (Special)",
   "rarity": "🎄",
@@ -1398,15 +1398,15 @@
   "iosk_vl23": [{
   "name": "<:BB_val23:1077927395882971247> IZ * ONE **Sakura** - Valentines 2023",
   "idol": "Sakura",
-  "group":   "iZ * ONE",
+  "group":   "IZ * ONE",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1074246734219321424/SakuraValentines2023.png"
 }],
   "txta_vl23": [{
   "name": "<:BB_val23:1077927395882971247> TXT **Taehyun** - Valentines 2023",
-  "idol":   "taehyun",
-  "group":   "tXT",
+  "idol":   "Taehyun",
+  "group":   "TXT",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1074246768147054662/TaehyunValentines2023.png"
@@ -1421,7 +1421,7 @@
 }],
 "dcga_vl23": [{
   "name": "<:BB_val23:1077927395882971247> Dreamcatcher **Gahyeon** - Valentines 2023",
-  "idol":   "gahyeon",
+  "idol":   "Gahyeon",
   "group": "Dreamcatcher",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
@@ -1445,8 +1445,8 @@
 }],
   "izrj_vl23": [{
   "name": "<:BB_val23:1077927395882971247> ITZY **Ryujin** - Valentines 2023",
-  "idol":   "ryujin",
-  "group":   "iTZY",
+  "idol":   "Ryujin",
+  "group":   "ITZY",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1074345274400575548/Valentines2023_Ryujin.png"
@@ -1478,7 +1478,7 @@
   "trjk_vl23": [{
   "name": "<:BB_val23:1077927395882971247> TREASURE **Junkyu** - Valentines 2023",
   "idol": "Junkyu",
-  "group":   "tREASURE",
+  "group": "TREASURE",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1074667518658084944/junkyu_seventeen_val.png"
@@ -1518,7 +1518,7 @@
   "twsa_vl23": [{
   "name": "<:BB_val23:1077927395882971247> TWICE **Sana** - Valentines 2023",
   "idol": "Sana",
-  "group":   "tWICE",
+  "group": "TWICE",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1077967229762666536/Photopea_22_Feb_2023_10_23_49_pm_.png"
@@ -1526,7 +1526,7 @@
   "nmji_vl23": [{
   "name": "<:BB_val23:1077927395882971247> NMIXX **Jinni** - Valentines 2023",
   "idol": "Jinni",
-  "group":   "nMIXX",
+  "group": "NMIXX",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1082100061472833576/Valentines2023_Jinni.png"
@@ -1659,29 +1659,5 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/987989194011992094/987993110481076244/2pjb_co-v2.png"
-}],
-  "sohs_co": [{
-      "name": "`⬜` Soloist **Hoshi** - Common",
-      "idol": "Hoshi",
-      "group": "Soloist",
-      "theme": "Common",
-      "rarity": "`⬜`",
-      "image": "https://cdn.discordapp.com/attachments/1083096074278936736/1083096435391729706/solohoshi_co.png"
-}],
-  "sowd_co": [{
-      "name": "`⬜` Soloist **WOODZ** - Common",
-      "idol": "WOODZ",
-      "group": "Soloist",
-      "theme": "Common",
-      "rarity": "`⬜`",
-      "image": "https://cdn.discordapp.com/attachments/1070544427543707658/1070544586373599342/template_for_common_32486A5.png"
-}],
-  "soal_co": [{
-      "name": "`⬜` Soloist **AleXa** - Common",
-      "idol": "AleXa",
-      "group": "Soloist",
-      "theme": "Common",
-      "rarity": "`⬜`",
-      "image": "https://cdn.discordapp.com/attachments/1056011223277248632/1056011317321936936/Alexa_Common.png"
 }]
 }
