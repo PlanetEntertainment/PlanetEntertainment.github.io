@@ -155,7 +155,7 @@
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/1079331126390313020/1079331175799214100/Untitled34_20230226171507.png"
 }],
-"solc": [{
+"solc_co": [{
   "name": "`⬜` Soloist **LEE CHAEYEON** - Common",
   "idol": "LEE CHAEYEON",
   "group": "Soloist",
@@ -380,8 +380,8 @@
   "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513599713984583/h_bahiyyih_ts.png"
 }],
 "k1ma_ts": [{
-  "name": "`⬛` Kep1er **Mahiro** - TROUBLE SHOOTER",
-  "idol": "Mahiro",
+  "name": "`⬛` Kep1er **Mashiro** - TROUBLE SHOOTER",
+  "idol": "Mashiro",
   "group": "Kep1er",
   "theme": "TROUBLE SHOOTER",
   "rarity": "`⬛`",
@@ -407,7 +407,7 @@
   "name": "`⬛` Kep1er **Dayeon** - TROBLE SHOOTER",
   "idol": "Dayeon",
   "group": "Kep1er",
-  "theme": "TROBLE SHOOTER",
+  "theme": "TROUBLE SHOOTER",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513556764303421/dayeon_ts.png"
 }],
@@ -428,40 +428,40 @@
   "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513557477331085/hikaru_ts.png"
 }],
 "txhk_bh": [{
-  "name": "Huening Kai",
-  "idol": "`⬛` TXT **Huening Kai** - Minisode1 : Blue Hour",
+  "name": "`⬛` TXT **Huening Kai** - Minisode1 : Blue Hour",
+  "idol": "Huening Kai",
   "group": "TXT",
   "theme": "Minisode1 : Blue Hour",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870666249723955/txhk_bh.png"
 }],
 "txta_bh": [{
-  "name": "Taehyun",
-  "idol": "`⬛` TXT **Taehyun** - Minisode1 : Blue Hour",
+  "name": "`⬛` TXT **Taehyun** - Minisode1 : Blue Hour",
+  "idol": "Taehyun",
   "group": "TXT",
   "theme": "Minisode1 : Blue Hour",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870666836910140/txta_bh.pn"
 }],
 "txbg_bh": [{
-  "name": "Beomgyu",
-  "idol": "`⬛` TXT **Beomgyu** - Minisode1 : Blue Hour",
+  "name": "`⬛` TXT **Beomgyu** - Minisode1 : Blue Hour",
+  "idol": "Beomgyu",
   "group": "TXT",
   "theme": "Minisode1 : Blue Hour",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870665863827506/txbg_bh.png"
 }],
 "txye_bh": [{
-  "name": "Yeonjun",
-  "idol": "`⬛` TXT **Yeonjun** - Minisode1 : Blue Hour",
+  "name": "`⬛` TXT **Yeonjun** - Minisode1 : Blue Hour",
+  "idol": "Yeonjun",
   "group": "TXT",
   "theme": "Minisode1 : Blue Hour",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/964870282223439882/964870667256344636/txye_bh.png"
 }],
 "txsb_bh": [{
-  "name": "Soobin",
-  "idol": "`⬛` TXT **Soobin** - Minisode1 : Blue Hour",
+  "name": "`⬛` TXT **Soobin** - Minisode1 : Blue Hour",
+  "idol": "Soobin",
   "group": "TXT",
   "theme": "Minisode1 : Blue Hour",
   "rarity": "`⬛`",
