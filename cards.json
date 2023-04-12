@@ -1421,7 +1421,7 @@
 }],
 "dcga_vl23": [{
   "name": "<:BB_val23:1077927395882971247> Dreamcatcher **Gahyeon** - Valentines 2023",
-  "idol":   "Gahyeon",
+  "idol": "Gahyeon",
   "group": "Dreamcatcher",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
@@ -1445,8 +1445,8 @@
 }],
   "izrj_vl23": [{
   "name": "<:BB_val23:1077927395882971247> ITZY **Ryujin** - Valentines 2023",
-  "idol":   "Ryujin",
-  "group":   "ITZY",
+  "idol": "Ryujin",
+  "group": "ITZY",
   "theme": "Valentines 2023",
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1074345274400575548/Valentines2023_Ryujin.png"
@@ -1515,7 +1515,7 @@
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1077497416716132372/moonbin_test.png"
 }],
-  "twsa_vl23": [{
+"twsa_vl23": [{
   "name": "<:BB_val23:1077927395882971247> TWICE **Sana** - Valentines 2023",
   "idol": "Sana",
   "group": "TWICE",
@@ -1523,7 +1523,7 @@
   "rarity": "<:BB_val23:1077927395882971247>",
   "image": "https://cdn.discordapp.com/attachments/1074244202726182932/1077967229762666536/Photopea_22_Feb_2023_10_23_49_pm_.png"
 }],
-  "nmji_vl23": [{
+"nmji_vl23": [{
   "name": "<:BB_val23:1077927395882971247> NMIXX **Jinni** - Valentines 2023",
   "idol": "Jinni",
   "group": "NMIXX",
@@ -1651,13 +1651,60 @@
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/987989194011992094/987989400627605534/2pcs_co.png"
 }],
-  "pmjb_co": [
-    {
+  "pmjb_co": [{
       "name": "`⬜` 2PM **Jaebeom** - Common",
       "idol": "Jaebeom",
       "group": "2PM",
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/987989194011992094/987993110481076244/2pjb_co-v2.png"
+}],
+"sohs_co": [{
+  "name": "`⬜` Soloist **Hoshi** - Common",
+  "idol": "Hoshi",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1083096074278936736/1083096435391729706/solohoshi_co.png"
+}],
+"sowd_co": [{
+  "name": "`⬜` Soloist **WOODZ** - Common",
+  "idol": "WOODZ",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1070544427543707658/1070544586373599342/template_for_common_32486A5.png"
+}],
+"soal_co": [{
+  "name": "`⬜` Soloist **AleXa** - Common",
+  "idol": "AleXa",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1056011223277248632/1056011317321936936/Alexa_Common.png"
+}],
+"bdsi_co": [{
+  "name": "`⬜` BDC **Sihun** - Common",
+  "idol": "Sihun",
+  "group": "BDC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1057135422653862019/1057135491373338634/sihun_bdc_common.png"
+}],
+"bdsj_co": [{
+  "name": "`⬜` BDC **Seongjun** - Common",
+  "idol": "Seongjun",
+  "group": "BDC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1057135422653862019/1057135491864080395/seongjun_bdc_common.png"
+}],
+"bdjh_co": [{
+  "name": "`⬜` BDC **Junghwan** - Common",
+  "idol": "Junghwan",
+  "group": "BDC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/1057135422653862019/1057135492518383656/junghwan_bdc_common.png"
 }]
 }
