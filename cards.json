@@ -1602,5 +1602,62 @@
     "theme": "BORDER : CARNIVAL",
     "rarity": "`🟨`",
     "image": "https://media.discordapp.net/attachments/978496595018514436/978500942855016518/enja_bc.png"
+}],
+"pmjk_co": [{
+      "name": "`⬜` 2PM **Jun.K** - Common",
+      "idol": "Jun.K",
+      "group": "2PM",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/987989194011992094/987989398777917481/2pjk_co.png"
+}],
+"pmnk_co": [{
+      "name": "`⬜` 2PM **Nickhun** - Common",
+      "idol": "Nickhun",
+      "group": "2PM",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/987989194011992094/987989399163772998/2pnk_co.png"
+}],
+  "pmwy_co": [{
+      "name": "`⬜` 2PM **Wooyoung** - Common",
+      "idol": "Wooyoung",
+      "group": "2PM",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/987989194011992094/987989399956500480/2pwy_co.png"
+}],
+  "pmtc_co": [{
+      "name": "`⬜` 2PM **Taecyeon** - Common",
+      "idol": "Taecyeon",
+      "group": "2PM",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/987989194011992094/987989399633559622/2ptc_co.png"
+}],
+  "pmjh_co": [{
+      "name": "`⬜` 2PM **Junho** - Common",
+      "idol": "Junho",
+      "group": "2PM",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/987989194011992094/987989400354971648/2pjh_co.png"
+}],
+  "pmcs_co": [{
+      "name": "`⬜` 2PM **Chansung** - Common",
+      "idol": "Chansung",
+      "group": "2PM",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/987989194011992094/987989400627605534/2pcs_co.png"
+}],
+  "pmjb_co": [
+    {
+      "name": "`⬜` 2PM **Jaebeom** - Common",
+      "idol": "Jaebeom",
+      "group": "2PM",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/987989194011992094/987993110481076244/2pjb_co-v2.png"
 }]
 }
