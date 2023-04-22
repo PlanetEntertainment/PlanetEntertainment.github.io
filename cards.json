@@ -2,6 +2,255 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"lgjy_co": [{
+  "name": "`⬜` LIGHTSUM **Juhyeon** - Common",
+  "idol": "Juhyeon",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981904823731511376/lightsumjuhyeon-common.png"
+}],
+"lgsa_co": [{
+  "name": "`⬜` LIGHTSUM **Sangah** - Common",
+  "idol": "Sangah",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981904896288763904/lightsumsangah-common.png"
+}],
+"lgch_co": [{
+  "name": "`⬜` LIGHTSUM **Chowon** - Common",
+  "idol": "Chowon",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981906491911073892/lightsumchowon-common.png"
+}],
+"lgny_co": [{
+  "name": "`⬜` LIGHTSUM **Nayoung** - Common",
+  "idol": "Nayoung",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981909356494860289/lightsumnayoung-common.png"
+}],
+"lghn_co": [{
+  "name": "`⬜` LIGHTSUM **Hina** - Common",
+  "idol": "Hina",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981909284382187580/lightsumhina-common.png"
+}],
+"lgyj_co": [{
+  "name": "`⬜` LIGHTSUM **Yujeong** - Common",
+  "idol": "Yujeong",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981911544243839067/lightsumyujeong-common.png"
+}],
+"lghy_co": [{
+  "name": "`⬜` LIGHTSUM **Huiyeon** - Common",
+  "idol": "Huiyeon",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981912201453506580/lightsumhuiyeon-common.png"
+}],
+"lgji_co": [{
+  "name": "`⬜` LIGHTSUM **Jian** - Common",
+  "idol": "Jian",
+  "group": "LIGHTSUM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/981904742613676043/981912684394061874/lightsumjian-common.png"
+}],
+"thyh_co": [{
+  "name": "`⬜` 1THE9 **Yongha** - Common",
+  "idol": "Yongha",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489581368377444/c_yongha.png"
+}],
+"thtw_co": [{
+  "name": "`⬜` 1THE9 **Taewoo** - Common",
+  "idol": "Taewoo",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489580676284426/c_taewoo.png"
+}],
+"thsh_co": [{
+  "name": "`⬜` 1THE9 **Seunghwan** - Common",
+  "idol": "Seunghwan",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489579556438016/c_seunghwan.png"
+}],
+"thye_co": [{
+  "name": "`⬜` 1THE9 **Yechan** - Common",
+  "idol": "Yechan",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489581053784074/c_yechan.png"
+}],
+"thjs_co": [{
+  "name": "`⬜` 1THE9 **Junseo** - Common",
+  "idol": "Junseo",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489579241840651/c_junseo.png"
+}],
+"thdy_co": [{
+
+  "name": "`⬜` 1THE9 **Doyum** - Common",
+  "idol": "Doyum",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489578189066310/c_doyum.png"
+}],
+"thji_co": [{
+  "name": "`⬜` 1THE9 **Jinsung** - Common",
+  "idol": "Jinsung",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489578700767312/c_jinsung.png"
+}],
+"thtk_co": [{
+  "name": "`⬜` 1THE9 **Taekhyeon** - Common",
+  "idol": "Taekhyeon",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489580365910087/c_taekhyeon.png"
+}],
+"thsw_co": [{
+  "name": "`⬜` 1THE9 **Sungwon** - Common",
+  "idol": "Sungwon",
+  "group": "1THE9",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983489404733636708/983489580017795092/c_sungwon.png"
+}],
+"gwsy_co": [{
+  "name": "`⬜` GWSN **Seoryoung** - Common",
+  "idol": "Seoryoung",
+  "group": "GWSN",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983600789887000616/983601115314667520/gwsy_co.png"
+}],
+"gwmy_co": [{
+  "name": "`⬜` GWSN **Miya** - Common",
+  "idol": "Miya",
+  "group": "GWSN",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983600789887000616/983601116119965736/gwmy_co.png"
+}],
+"gwsk_co": [{
+  "name": "`⬜` GWSN **Seokyoung** - Common",
+  "idol": "Seokyoung",
+  "group": "GWSN",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983600789887000616/983601116719747132/gwsk_co.png"
+}],
+"gwan_co": [{
+  "name": "`⬜` GWSN **Anne** - Common",
+  "idol": "Anne",
+  "group": "GWSN",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983600789887000616/983601117256634408/gwan_co.png"
+}],
+"gwmj_co": [{
+  "name": "`⬜` GWSN **Minju** - Common",
+  "idol": "Minju",
+  "group": "GWSN",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983600789887000616/983601117780934676/gwmj_co.png"
+}],
+"gwso_co": [{
+  "name": "`⬜` GWSN **Soso** - Common",
+  "idol": "Soso",
+  "group": "GWSN",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983600789887000616/983601118330363924/gwso_co.png"
+}],
+"gwle_co": [{
+  "name": "`⬜` GWSN **Lena** - Common",
+  "idol": "Lena",
+  "group": "GWSN",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/983600789887000616/983601118934364210/gwle_co.png"
+}],
+"tple_co": [{
+    "name": "`⬜` TEMPEST **Lew** - Common",
+    "idol": "Lew",
+    "group": "TEMPEST",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://media.discordapp.net/attachments/981017774543503390/981018606869569596/tempestlew-common.png"
+}],
+"tpha_co": [{
+    "name": "`⬜` TEMPEST **Hanbin** - Common",
+    "idol": "Hanbin",
+    "group": "TEMPEST",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://media.discordapp.net/attachments/981017774543503390/981018605279907870/tempesthanbin-common.png"
+}],
+"tphs_co": [{
+    "name": "`⬜` TEMPEST **Hyeongseop** - Common",
+    "idol": "Hyeongseop",
+    "group": "TEMPEST",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://media.discordapp.net/attachments/981017774543503390/981018605774852126/tempesthyeongseop-common.png"
+}],
+"tphy_co": [{
+    "name": "`⬜` TEMPEST **Hyuk** - Common",
+    "idol": "Hyuk",
+    "group": "TEMPEST",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://media.discordapp.net/attachments/981017774543503390/981018606236233758/tempesthyuk-common.png"
+}],
+"tpeu_co": [{
+    "name": "`⬜` TEMPEST **Eunchan** - Common",
+    "idol": "Eunchan",
+    "group": "TEMPEST",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://media.discordapp.net/attachments/981017774543503390/981018608173994044/tempesteunchan-common.png"
+}],
+"tphw_co": [{
+    "name": "`⬜` TEMPEST **Hwarang** - Common",
+    "idol": "Hwarang",
+    "group": "TEMPEST",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://media.discordapp.net/attachments/981017774543503390/981018607523860510/tempesthwarang-common.png"
+}],
+"tptr_co": [{
+    "name": "`⬜` TEMPEST **Tae Rae** - Common",
+    "idol": "Tae Rae",
+    "group": "TEMPEST",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://media.discordapp.net/attachments/981017774543503390/981018608715071528/tempesttae_rae-common.png"
+}],
 "omhj_co": [{
   "name": "`⬜` Oh My Girl **Hyojung** - Common",
   "idol": "Hyojung",
