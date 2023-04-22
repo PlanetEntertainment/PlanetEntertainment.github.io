@@ -1373,6 +1373,158 @@
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/964367875538296852/964755158892433499/exsh_tp.png"
 }],
+"drhy_fp": [{
+  "name": "`⬛` DRIPPIN **Hyeop** - Free Pass",
+  "idol": "Hyeop",
+  "group": "DRIPPIN",
+  "theme": "Free Pass",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975717148066455552/975747661149917254/drhy_fp.png"
+}],
+"drys_fp": [{
+  "name": "`⬛` DRIPPIN **Yunseong** - Free Pass",
+  "idol": "Yunseong",
+  "group": "DRIPPIN",
+  "theme": "Free Pass",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975717148066455552/975748398374338650/drys_fp.png"
+}],
+"drcg_fp": [{
+  "name": "`⬛` DRIPPIN **Changuk** - Free Pass",
+  "idol": "Changuk",
+  "group": "DRIPPIN",
+  "theme": "Free Pass",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975717148066455552/975749282596524052/drcg_fp.png"
+}],
+"drdy_fp": [{
+  "name": "`⬛` DRIPPIN **Dongyun** - Free Pass",
+  "idol": "Dongyun",
+  "group": "DRIPPIN",
+  "theme": "Free Pass",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975717148066455552/975750012829040680/drdy_fp.png"
+}],
+"drms_fp": [{
+  "name": "`⬛` DRIPPIN **Minseo** - Free Pass",
+  "idol": "Minseo",
+  "group": "DRIPPIN",
+  "theme": "Free Pass",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975717148066455552/975750695913402408/drms_fp.png"
+}],
+"drjh_fp": [{
+  "name": "`⬛` DRIPPIN **Junho** - Free Pass",
+  "idol": "Junho",
+  "group": "DRIPPIN",
+  "theme": "Free Pass",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975717148066455552/975751348169625620/drjh_fp.png"
+}],
+"dral_fp": [{
+  "name": "`⬛` DRIPPIN **Alex** - Free Pass",
+  "idol": "Alex",
+  "group": "DRIPPIN",
+  "theme": "Free Pass",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975717148066455552/975751780518461480/dral_fp.png"
+}],
+"gfsw_co": [{
+  "name": "`⬜` GFRIEND **Sowon** - Common",
+  "idol": "Sowon",
+  "group": "GFRIEND",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965505995902177290/965520954061103114/sowon.png"
+}],
+"gfsw_mg": [{
+  "name": "`⬛` GFRIEND **Sowon** - 回 : Walpurgis Night",
+  "idol": "Sowon",
+  "group": "GFRIEND",
+  "theme": "回 : Walpurgis Night",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970575823650308137/970575873872887808/gfriendsowon-concept.png"
+}],
+"gfyr_mg": [{
+  "name": "`⬛` GFRIEND **Yerin** - 回 : Walpurgis Night",
+  "idol": "Yerin",
+  "group": "GFRIEND",
+  "theme": "回 : Walpurgis Night",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970575823650308137/970575912913498122/gfriendyerin-concept.png"
+}],
+"gfeu_mg": [{
+  "name": "`⬛` GFRIEND **Eunha** - 回 : Walpurgis Night",
+  "idol": "Eunha",
+  "group": "GFRIEND",
+  "theme": "回 : Walpurgis Night",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970575823650308137/970575938897215588/gfriendeunha-concept.png"
+}],
+"gfyu_mg": [{
+  "name": "`⬛` GFRIEND **Yuju** - 回 : Walpurgis Night",
+  "idol": "Yuju",
+  "group": "GFRIEND",
+  "theme": "回 : Walpurgis Night",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970575823650308137/970575971705057280/gfriendyuju-concept.png"
+}],
+"gfsb_mg": [{
+  "name": "`⬛` GFRIEND **SinB** - 回 : Walpurgis Night",
+  "idol": "SinB",
+  "group": "GFRIEND",
+  "theme": "回 : Walpurgis Night",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970575823650308137/970575998036873276/gfriendsinb-concept.png"
+}],
+"gfum_mg": [{
+  "name": "`⬛` GFRIEND **Umji** - 回 : Walpurgis Night",
+  "idol": "Umji",
+  "group": "GFRIEND",
+  "theme": "回 : Walpurgis Night",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970575823650308137/970576024771383316/gfriendumji-concept.png"
+}],
+"gfum_co": [{
+  "name": "`⬜` GFRIEND **Umji** - Common",
+  "idol": "Umji",
+  "group": "GFRIEND",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965505995902177290/965506095697244161/umji.png"
+}],
+"gfsb_co": [{
+  "name": "`⬜` GFRIEND **SinB** - Common",
+  "idol": "SinB",
+  "group": "GFRIEND",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965505995902177290/965507263483772928/sinb.png"
+}],
+"gfyu_co": [{
+  "name": "`⬜` GFRIEND **Yuju** - Common",
+  "idol": "Yuju",
+  "group": "GFRIEND",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965505995902177290/965507283884851210/yuju.png"
+}],
+"gfeu_co": [{
+  "name": "`⬜` GFRIEND **Eunha** - Common",
+  "idol": "Eunha",
+  "group": "GFRIEND",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965505995902177290/965506096204767232/eunha.png"
+}],
+"gfyr_co": [{
+  "name": "`⬜` GFRIEND **Yerin** - Common",
+  "idol": "Yerin",
+  "group": "GFRIEND",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965505995902177290/965520953645858826/yerin.png"
+}],
 "exsh_co": [{
   "name": "`⬜` EXO **Sehun** - Common",
   "idol": "Sehun",
