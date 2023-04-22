@@ -1189,6 +1189,278 @@
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1029187987822616617/1029188039433523231/sojh_co.png"
 }],
+"ptyo_co": [{
+  "name": "`⬜` PENTAGON **Yeo One** - Common",
+  "idol": "Yeo One",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332394608304149/unknown.png"
+}],
+"ptyu_co": [{
+  "name": "`⬜` PENTAGON **Yuto** - Common",
+  "idol": "Yuto",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332394943852555/unknown.png"
+}],
+"ptki_co": [{
+  "name": "`⬜` PENTAGON **Kino** - Common",
+  "idol": "Kino",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332393391960154/unknown.png"
+}],
+"ptws_co": [{
+  "name": "`⬜` PENTAGON **Wooseok** - Common",
+  "idol": "Wooseok",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332394109194330/unknown.png"
+}],
+"pthu_co": [{
+  "name": "`⬜` PENTAGON **Hui** - Common",
+  "idol": "Hui",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332392582467655/unknown.png"
+}],
+"ptji_co": [{
+  "name": "`⬜` PENTAGON **Jinho** - Common",
+  "idol": "Jinho",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332392842526761/unknown.png"
+}],
+"exsu_co": [{
+  "name": "`⬜` EXO **Suho** - Common",
+  "idol": "Suho",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+"image": "https://cdn.discordapp.com/attachments/965520352283340830/975793687047045160/exsu_co.png"
+}],
+"enjw_da": [{
+  "name": "`⬛` ENHYPEN **Jungwon** - DIMENSION : ANSWER",
+  "idol": "Jungwon",
+  "group": "ENHYPEN",
+  "theme": "DIMENSION : ANSWER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964890389364506654/964890599960481872/enjw_da.png"
+}],
+"enja_da": [{
+  "name": "`⬛` ENHYPEN **Jay** - DIMENSION : ANSWER",
+  "idol": "Jay",
+  "group": "ENHYPEN",
+  "theme": "DIMENSION : ANSWER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964890389364506654/964890601109749891/enja_da.png"
+}],
+"enjk_da": [{
+  "name": "`⬛` ENHYPEN **Jake** - DIMENSION : ANSWER",
+  "idol": "Jake",
+  "group": "ENHYPEN",
+  "theme": "DIMENSION : ANSWER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964890389364506654/964890600665137182/enjk_da.png"
+}],
+"ennk_da": [{
+  "name": "`⬛` ENHYPEN **Ni-ki** - DIMENSION : ANSWER",
+  "idol": "Ni-ki",
+  "group": "ENHYPEN",
+  "theme": "DIMENSION : ANSWER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964890389364506654/964890598542835792/ennk_da.png"
+}],
+"enhs_da": [{
+  "name": "`⬛` ENHYPEN **Heeseung** - DIMENSION : ANSWER",
+  "idol": "Heeseung",
+  "group": "ENHYPEN",
+  "theme": "DIMENSION : ANSWER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964890389364506654/964890597838188584/enhs_da.png"
+}],
+"ensh_da": [{
+  "name": "`⬛` ENHYPEN **Sunghoon** - DIMENSION : ANSWER",
+  "idol": "Sunghoon",
+  "group": "ENHYPEN",
+  "theme": "DIMENSION : ANSWER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964890389364506654/964890599679479848/ensh_da.png"
+}],
+"ensu_da": [{
+  "name": "`⬛` ENHYPEN **Sunoo** - DIMENSION : ANSWER",
+  "idol": "Sunoo",
+  "group": "ENHYPEN",
+  "theme": "DIMENSION : ANSWER",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964890389364506654/964890599222304788/ensu_da.png"
+}],
+"exla_tp": [{
+  "name": "`⬛` EXO **Lay** - Don't Mess Up My Tempo",
+  "idol": "Lay",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/964367875538296852/964754891157405736/exla_tp.png"
+}],
+"exsu_tp": [{
+  "name": "`⬛` EXO **Suho** - Don't Mess Up My Tempo",
+  "idol": "Suho",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964754889584562196/exsu_tp.png"
+}],
+"exxm_tp": [{
+  "name": "`⬛` EXO **Xiumin** - Don't Mess Up My Tempo",
+  "idol": "Xiumin",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964754890100473926/exxm_tp.png"
+}],
+"exbh_tp": [{
+  "name": "`⬛` EXO **Baekhyun** - Don't Mess Up My Tempo",
+  "idol": "Baekhyun",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964755053808349224/exbh_tp.png"
+}],
+"exch_tp": [{
+  "name": "`⬛` EXO **Chen** - Don't Mess Up My Tempo",
+  "idol": "Chen",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964755054345195590/exch_tp.png"
+}],
+"excy_tp": [{
+  "name": "`⬛` EXO **Chanyeol** - Don't Mess Up My Tempo",
+  "idol": "Chanyeol",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964755055121149972/excy_tp.png"
+}],
+"exdo_tp": [{
+  "name": "`⬛` EXO **D.O.** - Don't Mess Up My Tempo",
+  "idol": "D.O.",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964755158074540032/exdo_tp.png"
+}],
+"exka_tp": [{
+  "name": "`⬛` EXO **Kai** - Don't Mess Up My Tempo",
+  "idol": "Kai",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964755158527512626/exka_tp.png"
+}],
+"exsh_tp": [{
+  "name": "`⬛` EXO **Sehun** - Don't Mess Up My Tempo",
+  "idol": "Sehun",
+  "group": "EXO",
+  "theme": "Don't Mess Up My Tempo",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/964367875538296852/964755158892433499/exsh_tp.png"
+}],
+"exsh_co": [{
+  "name": "`⬜` EXO **Sehun** - Common",
+  "idol": "Sehun",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/975792300821196870/exsh_co.png"
+}],
+"exla_co": [{
+  "name": "`⬜` EXO **Lay** - Common",
+  "idol": "Lay",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/975792301127389274/exla_co.png"
+}],
+"exxm_co": [{
+  "name": "`⬜` EXO **Xiumin** - Common",
+  "idol": "Xiumin",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/975796398022885456/exxm_co.png"
+}],
+"exbh_co": [{
+  "name": "`⬜` EXO **Baekhyun** - Common",
+  "idol": "Baekhyun",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/975792964783734864/exbh_co.png"
+}],
+"exch_co": [{
+  "name": "`⬜` EXO **Chen** - Common",
+  "idol": "Chen",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/975796397527945276/exch.png"
+}],
+"excy_co": [{
+  "name": "`⬜` EXO **Chanyeol** - Common",
+  "idol": "Chanyeol",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/975796398706540594/excy_co.png"
+}],
+"exdo_co": [{
+  "name": "`⬜` EXO **D.O.** - Common",
+  "idol": "D.O.",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/965536010970734622/exdo_co.png"
+}],
+"exka_co": [{
+  "name": "`⬜` EXO **Kai** - Common",
+  "idol": "Kai",
+  "group": "EXO",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965520352283340830/975792301534224434/exka_co.png"
+}],
+"pths_co": [{
+  "name": "`⬜` PENTAGON **Hongseok** - Common",
+  "idol": "Hongseok",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332392330801242/unknown.png"
+}],
+"ptsw_co": [{
+  "name": "`⬜` PENTAGON **Shinwon** - Common",
+  "idol": "Shinwon",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332393660383352/unknown.png"
+}],
+"ptya_co": [{
+  "name": "`⬜` PENTAGON **Yanan** - Common",
+  "idol": "Yanan",
+  "group": "PENTAGON",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/973332120263065620/973332394348253265/unknown.png"
+}],
 "omyb_co": [{
   "name": "`⬜` Oh My Girl **Yubin** - Common",
   "idol": "Yubin",
