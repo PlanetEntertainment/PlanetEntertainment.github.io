@@ -1613,6 +1613,254 @@
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/973332120263065620/973332394348253265/unknown.png"
 }],
+"lohe_fc":[{
+  "name": "`🎥` LOONA **Heejin** - Fancam",
+  "idol": "Heejin",
+  "group": "LOONA",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/996677751421550602/heejin.png"
+}],
+"k1hk_fc":[{
+  "name": "`🎥` Kep1er **Hikaru** - Fancam",
+  "idol": "Hikaru",
+  "group": "Kep1er",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/996665313359843358/hikaru.png"
+}],
+"sohw_fc":[{
+  "name": "`🎥` Soloist **Hwa Sa** - Fancam",
+  "idol": "Hwa Sa",
+  "group": "Soloist",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/996665386755960883/hwasa.png"
+}],
+"k1ba_fc":[{
+  "name": "`🎥` Kep1er **Huening Bahiyyih** - Fancam",
+  "idol": "Huening Bahiyyih",
+  "group": "Kep1er",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/982848250270859354/bahiyyih_2.png"
+}],
+"rvir_fc":[{
+  "name": "`🎥` Red Velvet **Irene** - Fancam",
+  "idol": "Irene",
+  "group": "Red Velvet",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/996679899802763274/irene.png"
+}],
+"sosm_fc":[{
+  "name": "`🎥` Soloist **JEON SOMI** - Fancam",
+  "idol": "JEON SOMI",
+  "group": "Soloist",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/997824077718884402/somi.png"
+}],
+"aeka_fc":[{
+  "name": "`🎥` aespa **Karina** - Fancam",
+  "idol": "Karina",
+  "group": "aespa",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/981534904019992616/karina.png"
+}],
+"egon_fc":[{
+  "name": "`🎥` EVERGLOW **Onda** - Fancam",
+  "idol": "Onda",
+  "group": "EVERGLOW",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/996665486290976889/onda.png"
+}],
+"bpro_fc":[{
+  "name": "`🎥` BLACKPINK **Rosé** - Fancam",
+  "idol": "Rosé",
+  "group": "BLACKPINK",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/982158837056405504/rose.png"
+}],
+"izrj_fc":[{
+  "name": "`🎥` ITZY **Ryujin** - Fancam",
+  "idol": "Ryujin",
+  "group": "ITZY",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/985435831487574026/ryujin.png"
+}],
+"omar_fc":[{
+  "name": "`🎥` OH MY GIRL **Arin** - Fancam",
+  "idol": "Arin",
+  "group": "OH MY GIRL",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/996660175316463676/omar_fc.png"
+}],
+"sobo_fc":[{
+  "name": "`🎥` Soloist **BoA** - Fancam",
+  "idol": "BoA",
+  "group": "Soloist",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/996576872928395364/soloistboa-fancam.png"
+}],
+"soch_fc":[{
+  "name": "`🎥` Soloist **CHUNG HA** - Fancam",
+  "idol": "CHUNG HA",
+  "group": "Soloist",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/997221573125755010/ChungHaFancam.png"
+}],
+"twna_fc":[{
+  "name": "`🎥` TWICE **Nayeon** - Fancam",
+  "idol": "Nayeon",
+  "group": "TWICE",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/997735973834195035/twna_fc.png"
+}],
+"gish_fc":[{
+  "name": "`🎥` (G)I-DLE **Shuhua** - Fancam",
+  "idol": "Shuhua",
+  "group": "(G)I-DLE",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/997267572594573394/gdsh_fc.png"
+}],
+"wjyr_fc":[{
+  "name": "`🎥` WJSN **Yeoreum** - Fancam",
+  "idol": "Yeoreum",
+  "group": "WJSN",
+  "theme": "Fancam",
+  "rarity": "`🎥`",
+  "image": "https://media.discordapp.net/attachments/979378398797381692/997735959456133150/wjyr_fc.png"
+}],
+"sohh_fc": [{
+"name": "`🎥` Soloist **Hyunjun Hur** - Fancam",
+"idol": "Hyunjun Hur",
+"group": "Soloist",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/996571247959875634/soloisthyunjunhur-fancam.png"
+}],
+"n1jh_fc": [{
+"name": "`🎥` NCT 127 **Jaehyun** - Fancam",
+"idol": "Jaehyun",
+"group": "NCT 127",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/996559775896703006/nct127jaehyun-fancam.png"
+}],
+"trjk_fc": [{
+"name": "`🎥` TREASURE **Junkyu** - Fancam",
+"idol": "Junkyu",
+"group": "TREASURE",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/996559767197724682/treasurejunkyu-fancam.png"
+}],
+"numh_fc": [{
+"name": "`🎥` NU'EST **Minhyun** - Fancam",
+"idol": "Minhyun",
+"group": "NU'EST",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/996653228693409873/numh_fc.png"
+}],
+"cxsh_fc": [{
+"name": "`🎥` CIX **Seunghun** - Fancam",
+"idol": "Seunghun",
+"group": "CIX",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/997266517374812190/cxsh_fc.png"
+}],
+"exbh_fc": [{
+"name": "`🎥` EXO **Baekhyun** - Fancam",
+"idol": "Baekhyun",
+"group": "EXO",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/996677958066503700/baekhyun.png"
+}],
+"enhs_fc": [{
+"name": "`🎥` ENHYPEN **Heeseung** - Fancam",
+"idol": "Heeseung",
+"group": "ENHYPEN",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/996658564435292220/heeseung.png"
+}],
+"txhk_fc": [{
+"name": "`🎥` TXT **Huening Kai** - Fancam",
+"idol": "Huening Kai",
+"group": "TXT",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/997823640106180618/huening_kai.png"
+}],
+"enja_fc": [{
+"name": "`🎥` ENHYPEN **Jay** - Fancam",
+"idol": "Jay",
+"group": "ENHYPEN",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/981961335615156245/jay.png"
+}],
+"trji_fc": [{
+"name": "`🎥` TREASURE **Jihoon** - Fancam",
+"idol": "Jihoon",
+"group": "TREASURE",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/981444605977460756/jihoon.png"
+}],
+"xhjy_fc": [{
+"name": "`🎥` Xdinary Heroes **Jooyeon** - Fancam",
+"idol": "Jooyeon",
+"group": "Xdinary Heroes",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/981433642712702996/jooyeon.png"
+}],
+"sokd_fc": [{
+"name": "`🎥` Soloist **KANGDANIEL** - Fancam",
+"idol": "KANGDANIEL",
+"group": "Soloist",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/981539108734255134/kang_daniel.png"
+}],
+"ptki_fc": [{
+"name": "`🎥` PENTAGON **Kino** - Fancam",
+"idol": "Kino",
+"group": "PENTAGON",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/997820225170968698/kino.png"
+}],
+"skse_fc": [{
+"name": "`🎥` Stray Kids **Seungmin** - Fancam",
+"idol": "Seungmin",
+"group": "Stray Kids",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/985440297053995018/seungmin.png"
+}],
+"btsg_fc": [{
+"name": "`🎥` BTS **Suga** - Fancam",
+"idol": "Suga",
+"group": "BTS",
+"theme": "Fancam",
+"rarity": "`🎥`",
+"image": "https://media.discordapp.net/attachments/979378398797381692/996665813643841588/suga.png"
+}],
 "omyb_co": [{
   "name": "`⬜` Oh My Girl **Yubin** - Common",
   "idol": "Yubin",
