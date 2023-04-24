@@ -65,6 +65,174 @@
   "rarity": "`🪐`",
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275524577247333/Photopea_10_May_2022_1_23_30_am_.png"
 }],
+"wjex_un": [{
+  "name": "`⬛` WJSN **Exy** - UNNATURAL",
+  "idol": "Exy",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334546182696980/Photopea_1_May_2022_10_27_13_pm_.png"
+}],
+"wjsl_un": [{
+  "name": "`⬛` WJSN **Seola** - UNNATURAL",
+  "idol": "Seola",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334560913096785/Photopea_1_May_2022_10_29_00_pm_.png"
+}],
+"wjbo_un": [{
+  "name": "`⬛` WJSN **Bona** - UNNATURAL",
+  "idol": "Bona",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334592491999322/Photopea_1_May_2022_10_20_19_pm_.png"
+}],
+"wjsb_un": [{
+  "name": "`⬛` WJSN **Soobin** - UNNATURAL",
+  "idol": "Soobin",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334602122121236/Photopea_1_May_2022_10_28_18_pm_.png"
+}],
+"wjlu_un": [{
+  "name": "`⬛` WJSN **Luda** - UNNATURAL",
+  "idol": "Luda",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334614973476894/Photopea_1_May_2022_10_26_07_pm_.png"
+}],
+"wjda_un": [{
+  "name": "`⬛` WJSN **Dawon** - UNNATURAL",
+  "idol": "Dawon",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334625455018034/Photopea_1_May_2022_10_25_44_pm_.png"
+}],
+"wjes_un": [{
+  "name": "`⬛` WJSN **Eunseo** - UNNATURAL",
+  "idol": "Eunseo",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334635605237760/Photopea_1_May_2022_10_28_00_pm_.png"
+}],
+"wjyr_un": [{
+  "name": "`⬛` WJSN **Yeoreum** - UNNATURAL",
+  "idol": "Yeoreum",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334649337401404/Photopea_1_May_2022_10_26_26_pm_.png"
+}],
+"wjdy_un": [{
+  "name": "`⬛` WJSN **Dayoung** - UNNATURAL",
+  "idol": "Dayoung",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970334663195390012/Photopea_1_May_2022_10_27_35_pm_.png"
+}],
+"wjye_un": [{
+  "name": "`⬛` WJSN **Yeonjung** - UNNATURAL",
+  "idol": "Yeonjung",
+  "group": "WJSN",
+  "theme": "UNNATURAL",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/970334469821190264/970335102859108422/Photopea_1_May_2022_10_28_44_pm_.png"
+}],
+"svsc_fa": [{
+  "name": "`⬛` SEVENTEEN **S.Coups** - Face The Sun",
+  "idol": "S.Coups",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975664945352019978/svtscoups-concept.png"
+}],
+"svjh_fa": [{
+  "name": "`⬛` SEVENTEEN **Jeonghan** - Face The Sun",
+  "idol": "Jeonghan",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975664995264253972/svtjeonghan-concept.png"
+}],
+"svjo_fa": [{
+  "name": "`⬛` SEVENTEEN **Joshua** - Face The Sun",
+  "idol": "Joshua",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975665010380505118/svtjoshua-concept.png"
+}],
+"svju_fa": [{
+  "name": "`⬛` SEVENTEEN **Jun** - Face The Sun",
+  "idol": "Jun",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975665033537290340/svtjun-concept.png"
+}],
+"svhs_fa": [{
+  "name": "`⬛` SEVENTEEN **Hoshi** - Face The Sun",
+  "idol": "Hoshi",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975665067041374228/svthoshi-concept.png"
+}],
+"svww_fa": [{
+  "name": "`⬛` SEVENTEEN **Wonwoo** - Face The Sun",
+  "idol": "Wonwoo",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975666431180013608/svtwonwoo-concept.png"
+}],
+"svwz_fa": [{
+  "name": "`⬛` SEVENTEEN **Woozi** - Face The Sun",
+  "idol": "Woozi",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975667410445139988/svtwoozi-concept.png"
+}],
+"svdk_fa": [{
+  "name": "`⬛` SEVENTEEN **DK** - Face The Sun",
+  "idol": "DK",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975669722043535360/svtdk-concept.png"
+}],
+"svmi_fa": [{
+  "name": "`⬛` SEVENTEEN **Mingyu** - Face The Sun",
+  "idol": "Mingyu",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975670305924218920/svtmingyu-concept.png"
+}],
+"svt8_fa": [{
+  "name": "`⬛` SEVENTEEN **THE8** - Face The Sun",
+  "idol": "THE8",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975671683832750150/svtthe8-concept.png"
+}],
+"svsk_fa": [{
+  "name": "`⬛` SEVENTEEN **Seungkwan** - Face The Sun",
+  "idol": "Seungkwan",
+  "group": "SEVENTEEN",
+  "theme": "Face The Sun",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/975653948906151946/975672811077140490/svtseungkwan-concept.png"
+}],
 "blms_cu": [{
   "name": "`⬛` Billlie **Moon Sua** - The Collective Soul and Unconscious : Chapter One",
   "idol": "Moon Sua",
@@ -6661,6 +6829,70 @@
   "theme":   "NCT #127 Neo Zone",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404005789727/n1ty_nz.png?width=226&height=318"
+}],
+"n1jo_nz": [{
+  "name": "`⬛` NCT 127 **Johnny** - NCT #127 Neo Zone",
+  "idol": "Johnny",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462404928503858/n1jo_nz.png"
+}],
+"n1hc_nz": [{
+  "name": "`⬛` NCT 127 **Haechan** - NCT #127 Neo Zone",
+  "idol": "Haechan",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462402932019231/n1hc_nz.png"
+}],
+"n1jh_nz": [{
+  "name": "`⬛` NCT 127 **Jaehyun** - NCT #127 Neo Zone",
+  "idol": "Jaehyun",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462656465137724/n1jh_nz.png"
+}],
+"n1ma_nz": [{
+  "name": "`⬛` NCT 127 **Mark** - NCT #127 Neo Zone",
+  "idol": "Mark",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462655882133565/n1ma_nz.png"
+}],
+"n1jw_nz": [{
+  "name": "`⬛` NCT 127 **Jungwoo** - NCT #127 Neo Zone",
+  "idol": "Jungwoo",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462656981032990/n1jw_nz.png"
+}],
+"n1do_nz": [{
+  "name": "`⬛` NCT 127 **Doyoung** - NCT #127 Neo Zone",
+  "idol": "Doyoung",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462657585004605/n1do_nz.png"
+}],
+"n1yu_nz": [{
+  "name": "`⬛` NCT 127 **Yuta** - NCT #127 Neo Zone",
+  "idol": "Yuta",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462405998067792/n1yu_nz.png"
+}],
+"n1ta_nz": [{
+  "name": "`⬛` NCT 127 **Taeil** - NCT #127 Neo Zone",
+  "idol": "Taeil",
+  "group": "NCT 127",
+  "theme": "NCT #127 Neo Zone",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965462144646799390/965462403519229962/n1ta_nz.png"
 }],
 "aegi_bm": [{
   "name": "<:regalo:1054709946928873512> aespa **Giselle** - Beautiful Christmas",
