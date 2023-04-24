@@ -65,6 +65,278 @@
   "rarity": "`🪐`",
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275524577247333/Photopea_10_May_2022_1_23_30_am_.png"
 }],
+"nmli_am": [{
+  "name": "`⬛` NMIXX **Lily** - AD MARE",
+  "idol": "Lily",
+  "group": "NMIXX",
+  "theme": "AD MARE",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/971376821004275772/971377326073983076/nmli_am.png"
+}],
+"nmsl_am": [{
+  "name": "`⬛` NMIXX **Sullyoon** - AD MARE",
+  "idol": "Sullyoon",
+  "group": "NMIXX",
+  "theme": "AD MARE",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/971376821004275772/971377325524520960/nmsl_am.png"
+}],
+"nmji_am": [{
+  "name": "`⬛` NMIXX **Jinni** - AD MARE",
+  "idol": "Jinni",
+  "group": "NMIXX",
+  "theme": "AD MARE",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/971376821004275772/971377329395859507/nmji_am.png"
+}],
+"nmjw_am": [{
+  "name": "`⬛` NMIXX **Jiwoo** - AD MARE",
+  "idol": "Jiwoo",
+  "group": "NMIXX",
+  "theme": "AD MARE",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/971376821004275772/971377328120803379/nmjw_am.png"
+}],
+"nmky_am": [{
+  "name": "`⬛` NMIXX **Kyujin** - AD MARE",
+  "idol": "Kyujin",
+  "group": "NMIXX",
+  "theme": "AD MARE",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/971376821004275772/971377327508451378/nmky_am.png"
+}],
+"nmba_am": [{
+  "name": "`⬛` NMIXX **Bae** - AD MARE",
+  "idol": "Bae",
+  "group": "NMIXX",
+  "theme": "AD MARE",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/971376821004275772/971377328779317248/nmba_am.png"
+}],
+"nmhw_am": [{
+  "name": "`⬛` NMIXX **Haewon** - AD MARE",
+  "idol": "Haewon",
+  "group": "NMIXX",
+  "theme": "AD MARE",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/971376821004275772/971377326816362536/nmhw_am.png"
+}],
+"xhgu_hd": [{
+  "name": "`⬛` Xdinary Heroes **Gunil** - Happy ||Death|| Day",
+  "idol": "Gunil",
+  "group": "Xdinary Heroes",
+  "theme": "Happy ||Death|| Day",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/964918575011860600/964918734991015967/xhgu_hd.png"
+}],
+"xhjs_hd": [{
+  "name": "`⬛` Xdinary Heroes **Jungsu** - Happy ||Death|| Day",
+  "idol": "Jungsu",
+  "group": "Xdinary Heroes",
+  "theme": "Happy ||Death|| Day",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/964918575011860600/964918734567387266/xhjs_hd.png"
+}],
+"xhga_hd": [{
+  "name": "`⬛` Xdinary Heroes **Gaon** - Happy ||Death|| Day",
+  "idol": "Gaon",
+  "group": "Xdinary Heroes",
+  "theme": "Happy ||Death|| Day",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/964918575011860600/964918736270282812/xhga_hd.png"
+}],
+"xhod_hd": [{
+  "name": "`⬛` Xdinary Heroes **O.de** - Happy ||Death|| Day",
+  "idol": "O.de",
+  "group": "Xdinary Heroes",
+  "theme": "Happy ||Death|| Day",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/964918575011860600/964918736765206638/xhod_hd.png"
+}],
+"xhju_hd": [{
+  "name": "`⬛` Xdinary Heroes **Jun Han** - Happy ||Death|| Day",
+  "idol": "Jun Han",
+  "group": "Xdinary Heroes",
+  "theme": "Happy ||Death|| Day",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/964918575011860600/964918783955308554/xhju_hd.png"
+}],
+"xhjy_hd": [{
+  "name": "`⬛` Xdinary Heroes **Jooyeon** - Happy ||Death|| Day",
+  "idol": "Jooyeon",
+  "group": "Xdinary Heroes",
+  "theme": "Happy ||Death|| Day",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/964918575011860600/964918735414624296/xhjy_hd.png"
+}],
+"twmi_t4": [{
+  "name": "`⬛` TWICE **Mina** - #TWICE4",
+  "idol": "Mina",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404004494024744/twmi_t4.png"
+}],
+"twji_t4": [{
+  "name": "`⬛` TWICE **Jihyo** - #TWICE4",
+  "idol": "Jihyo",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404004150100018/twji_t4.png"
+}],
+"twna_t4": [{
+  "name": "`⬛` TWICE **Nayeon** - #TWICE4",
+  "idol": "Nayeon",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404005773312060/twna_t4.png"
+}],
+"twjy_t4": [{
+  "name": "`⬛` TWICE **Jeongyeon** - #TWICE4",
+  "idol": "Jeongyeon",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404006268207195/twjy_t4.png"
+}],
+"twmm_t4": [{
+  "name": "`⬛` TWICE **Momo** - #TWICE4",
+  "idol": "Momo",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404005295157329/twmm_t4.png"
+}],
+"twsa_t4": [{
+  "name": "`⬛` TWICE **Sana** - #TWICE4",
+  "idol": "Sana",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404004892495912/twsa_t4.png"
+}],
+"twdh_t4": [{
+  "name": "`⬛` TWICE **Dahyun** - #TWICE4",
+  "idol": "Dahyun",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404000077414450/twdh_t4.png"
+}],
+"twcy_t4": [{
+  "name": "`⬛` TWICE **Chaeyoung** - #TWICE4",
+  "idol": "Chaeyoung",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404003571290112/twcy_t4.png"
+}],
+"twtz_t4": [{
+  "name": "`⬛` TWICE **Tzuyu** - #TWICE4",
+  "idol": "Tzuyu",
+  "group": "TWICE",
+  "theme": "#TWICE4",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813710008508426/971404003097325578/twtz_t4.png"
+}],
+"ioeu_bo": [{
+  "name": "`⬛` IZ * ONE **Eunbi** - One-reeler / Act IV",
+  "idol": "Eunbi",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625710007971840/OR_eunbi.png"
+}],
+"iosk_bo": [{
+  "name": "`⬛` IZ * ONE **Sakura** - One-reeler / Act IV",
+  "idol": "Sakura",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625710540627978/OR_sakura.png"
+}],
+"iohw_bo": [{
+  "name": "`⬛` IZ * ONE **Hyewon** - One-reeler / Act IV",
+  "idol": "Hyewon",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625711111077968/OR_hyewon.png"
+}],
+"ioye_bo": [{
+  "name": "`⬛` IZ * ONE **Yena** - One-reeler / Act IV",
+  "idol": "Yena",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625711605977088/OR_yena.png"
+}],
+"iocy_bo": [{
+  "name": "`⬛` IZ * ONE **Chaeyeon** - One-reeler / Act IV",
+  "idol": "Chaeyeon",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625712226758706/OR_chaeyeon.png"
+}],
+"iocw_bo": [{
+  "name": "`⬛` IZ * ONE **Chaewon** - One-reeler / Act IV",
+  "idol": "Chaewon",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625712700694569/OR_chaewon.png"
+}],
+"iomi_bo": [{
+  "name": "`⬛` IZ * ONE **Minju** - One-reeler / Act IV",
+  "idol": "Minju",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625713124327474/OR_minju.png"
+}],
+"iona_bo": [{
+  "name": "`⬛` IZ * ONE **Nako** - One-reeler / Act IV",
+  "idol": "Nako",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625713740877835/OR_nako.png"
+}],
+"iohi_bo": [{
+  "name": "`⬛` IZ * ONE **Hitomi** - One-reeler / Act IV",
+  "idol": "Hitomi",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625714495873134/OR_hitomi.png"
+}],
+"ioyu_bo": [{
+  "name": "`⬛` IZ * ONE **Yuri** - One-reeler / Act IV",
+  "idol": "Yuri",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625715036913704/OR_yuri.png"
+}],
+"ioyj_bo": [{
+  "name": "`⬛` IZ * ONE **Yujin** - One-reeler / Act IV",
+  "idol": "Yujin",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625730702667927/OR_yujin.png"
+}],
+"iowy_bo": [{
+  "name": "`⬛` IZ * ONE **Wonyoung** - One-reeler / Act IV",
+  "idol": "Wonyoung",
+  "group": "IZ * ONE",
+  "theme": "One-reeler / Act IV",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965625340879839352/965625731306627102/OR_wonyoung.png"
+}],
 "lsty_so": [{
   "name": "`⬛` LUNARSOLAR **Taeryeong** - SOLAR : rise",
   "idol": "Taeryeong",
