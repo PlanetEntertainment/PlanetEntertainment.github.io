@@ -2,14 +2,135 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
-"pyrj_co": [{
-  "name": "`📄` PIXY **Rinji** - Common",
-  "idol": "Rinji",
-  "group": "PIXY",
+
+"twji_co": [{
+  "name": "`⬜` TWICE **Jihyo** - Common",
+  "idol": "Jihyo",
+  "group": "TWICE",
   "theme": "Common",
-  "rarity": "`📄`",
-  "image": "https://media.discordapp.net/attachments/1079331126390313020/1079331175799214100/Untitled34_20230226171507.png"
-}],
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/976270824824782918/twji_co.png"
+    }],
+"twna_co": [{
+  "name": "`⬜` TWICE **Nayeon** - Common",
+  "idol": "Nayeon",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975653422076416051/twna_co.png"
+    }],
+"twjy_co": [{
+  "name": "`⬜` TWICE **Jeongyeon** - Common",
+  "idol": "Jeongyeon",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975653420906217512/twjy_co.png"
+    }],
+"twmm_co": [{
+  "name": "`⬜` TWICE **Momo** - Common",
+  "idol": "Momo",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975653421577289728/twmm_co.png"
+    }],
+"twsa_co": [{
+  "name": "`⬜` TWICE **Sana** - Common",
+  "idol": "Sana",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975656788953296946/twsa_co.png"
+    }],
+"twmi_co": [{
+  "name": "`⬜` TWICE **Mina** - Common",
+  "idol": "Mina",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975656788475121694/twmi_co.png"
+    }],
+"twdh_co": [{
+  "name": "`⬜` TWICE **Dahyun** - Common",
+  "idol": "Dahyun",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975656787497861130/twdh_co.png"
+    }],
+"twcy_co": [{
+  "name": "`⬜` TWICE **Chaeyoung** - Common",
+  "idol": "Chaeyoung",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975656787036495923/twcy_co.png"
+    }],
+"twtz_co": [{
+  "name": "`⬜` TWICE **Tzuyu** - Common",
+  "idol": "Tzuyu",
+  "group": "TWICE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/975653158510542898/975656789431435284/twtz_co.png"
+    }],
+  "clsy_co": [{
+  "name": "`⬜` CLC **Seungyeon** - Common",
+  "idol": "Seungyeon",
+  "group": "CLC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971034439566106626/971035489756917800/seungyeon_c.png"
+    }],
+"clsg_co": [{
+  "name": "`⬜` CLC **Seunghee** - Common",
+  "idol": "Seunghee",
+  "group": "CLC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971034439566106626/971035490239270992/seunghee_c.png"
+    }],
+"clyu_co": [{
+  "name": "`⬜` CLC **Yujin** - Common",
+  "idol": "Yujin",
+  "group": "CLC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971034439566106626/971035490599989248/yujin.png"
+    }],
+"clso_co": [{
+  "name": "`⬜` CLC **Sorn** - Common",
+  "idol": "Sorn",
+  "group": "CLC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971034439566106626/971035492885864468/sorn_c.png"
+    }],
+"clye_co": [{
+  "name": "`⬜` CLC **Yeeun** - Common",
+  "idol": "Yeeun",
+  "group": "CLC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971034439566106626/971035491103293461/yeeun_c.png"
+    }],
+"clel_co": [{
+  "name": "`⬜` CLC **Elkie** - Common",
+  "idol": "Elkie",
+  "group": "CLC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971034439566106626/971035491879243796/elkie_c.png"
+    }],
+"cleu_co": [{
+  "name": "`⬜` CLC **Eunbin** - Common",
+  "idol": "Eunbin",
+  "group": "CLC",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/971034439566106626/971035493468893234/eunbin_c.png"
+    }],
 "pyel_co": [{
   "name": "`⬜` PIXY **Ella** - Common",
   "idol": "Ella",
