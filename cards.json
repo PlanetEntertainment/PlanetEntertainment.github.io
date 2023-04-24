@@ -2,6 +2,205 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"k1ch_sp": [{
+  "idol": "Chaehyun",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275574246187008/Photopea_10_May_2022_1_24_03_am_.png"
+}],
+"k1ba_sp": [{
+  "idol": "Huening Bahiyyih",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275615979507762/Photopea_10_May_2022_1_27_49_am_.png"
+}],
+"k1hk_sp": [{
+  "idol": "Hikaru",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275605145632858/Photopea_10_May_2022_12_59_38_am_.png"
+}],
+"k1da_sp": [{
+  "idol": "Dayeon",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275590226493540/Photopea_10_May_2022_12_59_17_am_.png"
+}],
+"k1ye_sp": [{
+  "idol": "Yeseo",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275641879334912/Photopea_10_May_2022_12_57_52_am_.png"
+}],
+"k1yo_sp": [{
+  "idol": "Youngeun",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275631250989076/Photopea_10_May_2022_1_24_27_am_.png"
+}],
+"k1ma_sp": [{
+  "idol": "Mashiro",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275544072388608/Photopea_10_May_2022_12_59_00_am_.png"
+}],
+"k1yu_sp": [{
+  "idol": "Yujin",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275495321981018/Photopea_10_May_2022_1_23_08_am_.png"
+}],
+"k1xt_sp": [{
+  "idol": "Xiaoting",
+  "group": "Kep1er",
+  "theme": "WADADA SPECIAL",
+  "rarity": "`🪐`",
+  "image": "https://media.discordapp.net/attachments/973275421263147008/973275524577247333/Photopea_10_May_2022_1_23_30_am_.png"
+}],
+"tchk_fr": [{
+  "name": "`⬛` TXT **Huening Kai** - The Chaos Chapter : FREEZE",
+  "idol": "Huening Kai",
+  "group": "TXT",
+  "theme": "The Chaos Chapter : FREEZE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/983997881579110410/983998083106996284/txthueningkai-freeze.png"
+    }],
+"txsb_fr": [{
+  "name": "`⬛` TXT **Soobin** - The Chaos Chapter : FREEZE",
+  "idol": "Soobin",
+  "group": "TXT",
+  "theme": "The Chaos Chapter : FREEZE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/983997881579110410/983997938952974356/txtsoobin-freeze.png"
+    }],
+"txye_fr": [{
+  "name": "`⬛` TXT **Yeonjun** - The Chaos Chapter : FREEZE",
+  "idol": "Yeonjun",
+  "group": "TXT",
+  "theme": "The Chaos Chapter : FREEZE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/983997881579110410/983997961111482388/txtyeonjun-freeze.png"
+    }],
+"txbg_fr": [{
+  "name": "`⬛` TXT **Beomgyu** - The Chaose Chapter : FREEZE",
+  "idol": "Beomgyu",
+  "group": "TXT",
+  "theme": "The Chaose Chapter : FREEZE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/983997881579110410/983998003297812531/txtbeomgyu-freeze.png"
+    }],
+"txta_fr": [{
+  "name": "`⬛` TXT **Taehyun** - The Chaos Chapter : FREEZE",
+  "idol": "Taehyun",
+  "group": "TXT",
+  "theme": "The Chaos Chapter : FREEZE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/983997881579110410/983998033022812160/txttaehyun-freeze.png"
+    }],
+"izye_cm": [{
+  "name": "`⬛` ITZY **Yeji** - CHECKMATE",
+  "idol": "Yeji",
+  "group": "ITZY",
+  "theme": "CHECKMATE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/996822014654423151/996822253574561852/izye_cm.png"
+    }],
+"izli_cm": [{
+  "name": "`⬛` ITZY **Lia** - CHECKMATE",
+  "idol": "Lia",
+  "group": "ITZY",
+  "theme": "CHECKMATE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/996822014654423151/996822460085317685/izli_cm.png"
+    }],
+"izrj_cm": [{
+  "name": "`⬛` ITZY **Ryujin** - CHECKMATE",
+  "idol": "Ryujin",
+  "group": "ITZY",
+  "theme": "CHECKMATE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/996822014654423151/996822530054705192/izry_cm.png"
+    }],
+"izcy_cm": [{
+  "name": "`⬛` ITZY **Chaeryeong** - CHECKMATE",
+  "idol": "Chaeryeong",
+  "group": "ITZY",
+  "theme": "CHECKMATE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/996822014654423151/996822587495686185/izch_cm.png"
+    }],
+"izyu_cm": [{
+  "name": "`⬛` ITZY **Yuna** - CHECKMATE",
+  "idol": "Yuna",
+  "group": "ITZY",
+  "theme": "CHECKMATE",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/996822014654423151/996822652020863036/izyu_cm.png"
+    }],
+"clsy_de": [{
+  "name": "`⬛` CLC **Seungyeon** - Devil",
+  "idol": "Seungyeon",
+  "group": "CLC",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1043412480019411034/1043437105428320296/my_editing_platform_93BA419.png"
+    }],
+"clsg_de": [{
+  "name": "`⬛` CLC **Seunghee** - Devil",
+  "idol": "Seunghee",
+  "group": "CLC",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1043412480019411034/1043437277898096671/my_editing_platform_1E9F324.png"
+    }],
+"clyu_de": [{
+  "name": "`⬛` CLC **Yujin** - Devil",
+  "idol": "Yujin",
+  "group": "CLC",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1043412480019411034/1043422017447272528/my_editing_platform_145687A.png"
+    }],
+"clye_de": [{
+  "name": "`⬛` CLC **Yeeun** - Devil",
+  "idol": "Yeeun",
+  "group": "CLC",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1043412480019411034/1043422067342712842/my_editing_platform_2E6E2DA.png"
+    }],
+"clel_de": [{
+  "name": "`⬛` CLC **Elkie** - Devil",
+  "idol": "Elkie",
+  "group": "CLC",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1043412480019411034/1043473040782143488/my_editing_platform_47C6975.png"
+    }],
+"cleu_de": [{
+  "name": "`⬛` CLC **Eunbin** - Devil",
+  "idol": "Eunbin",
+  "group": "CLC",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1043412480019411034/1043473028933222440/my_editing_platform_A91D36D.png"
+    }],
+"clso_de": [{
+  "name": "`⬛` CLC **Sorn** - Devil",
+  "idol": "Sorn",
+  "group": "CLC",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1043412480019411034/1043425459913891860/my_editing_platform_7D796B4.png"
+    }],
 "wjdy_co": [{
   "name": "`⬜` WJSN **Dayoung** - Common",
   "idol": "Dayoung",
