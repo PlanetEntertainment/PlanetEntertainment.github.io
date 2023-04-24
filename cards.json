@@ -2,6 +2,142 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"pyrj_co": [{
+  "name": "`📄` PIXY **Rinji** - Common",
+  "idol": "Rinji",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`📄`",
+  "image": "https://media.discordapp.net/attachments/1079331126390313020/1079331175799214100/Untitled34_20230226171507.png"
+}],
+"pyel_co": [{
+  "name": "`⬜` PIXY **Ella** - Common",
+  "idol": "Ella",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/976773335654481951/976774390484181002/pyel_co.png"
+}],
+"pysb_co": [{
+  "name": "`⬜` PIXY **Satbyeol** - Common",
+  "idol": "Satbyeol",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/976773335654481951/976775427194490910/pysb_co.png"
+}],
+"pydi_co": [{
+  "name": "`⬜` PIXY **Dia** - Common",
+  "idol": "Dia",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/976773335654481951/976776439514935316/pydi_co.png"
+}],
+"pylo_co": [{
+  "name": "`⬜` PIXY **Lola** - Common",
+  "idol": "Lola",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/976773335654481951/976774468817014824/pylo_co.png"
+}],
+"pysu_co": [{
+  "name": "`⬜` PIXY **Sua** - Common",
+  "idol": "Sua",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/976773335654481951/976776974179643452/pysu_co.png"
+}],
+"pyda_co": [{
+  "name": "`⬜` PIXY **Dajeong** - Common",
+  "idol": "Dajeong",
+  "group": "PIXY",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/976773335654481951/976777855906246656/pyda_co.png"
+}],
+"pthu_fv": [{
+  "name": "`⬛` PENTAGON **Hui** - Five Senses",
+  "idol": "Hui",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305352980398090/p_hui.png"
+}],
+"ptji_fv": [{
+  "name": "`⬛` PENTAGON **Jinho** - Five Senses",
+  "idol": "Jinho",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305353345298462/p_jinho.png"
+}],
+"pths_fv": [{
+  "name": "`⬛` PENTAGON **Hongseok** - Five Senses",
+  "idol": "Hongseok",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305352472875058/p_hongseok_2.png"
+}],
+"pted_fv": [{
+  "name": "`⬛` PENTAGON **E'Dawn** - Five Senses",
+  "idol": "E'Dawn",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305351642386442/p_edawn.png"
+}],
+"ptsw_fv": [{
+  "name": "`⬛` PENTAGON **Shinwon** - Five Senses",
+  "idol": "Shinwon",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305354465148938/p_shinwon.png"
+}],
+"ptya_fv": [{
+  "name": "`⬛` PENTAGON **Yan An** - Five Senses",
+  "idol": "Yan An",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305355194966026/p_yan_an_2.png"
+}],
+"ptyo_fv": [{
+  "name": "`⬛` PENTAGON **Yeo One** - Five Senses",
+  "idol": "Yeo One",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305356860112996/p_yeo_one.png"
+}],
+"ptyu_fv": [{
+  "name": "`⬛` PENTAGON **Yuto** - Five Senses",
+  "idol": "Yuto",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305357216616498/p_yuto.png"
+}],
+"ptki_fv": [{
+  "name": "`⬛` PENTAGON **Kino** - Five Senses",
+  "idol": "Kino",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305353756327946/p_kino.png"
+}],
+"ptws_fv": [{
+  "name": "`⬛` PENTAGON **Wooseok** - Five Senses",
+  "idol": "Wooseok",
+  "group": "PENTAGON",
+  "theme": "Five Senses",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/978305188962140230/978305354830065774/p_wooseok.png"
+}],
 "twcy_wl": [{
   "name": "`💗` TWICE **Chaeyoung** - What Is Love?",
   "idol": "Chaeyoung",
