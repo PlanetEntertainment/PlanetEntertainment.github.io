@@ -65,6 +65,158 @@
   "rarity": "`🪐`",
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275524577247333/Photopea_10_May_2022_1_23_30_am_.png"
 }],
+"nujr_nb": [{
+  "name": "`⬛` NU'EST **JR** - Needle & Bubble",
+  "idol": "JR",
+  "group": "NU'EST",
+  "theme": "Needle & Bubble",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947211066585138/nujr_nb.png"
+}],
+"nuar_nb": [{
+  "name": "`⬛` NU'EST **Aron** - Needle & Bubble",
+  "idol": "Aron",
+  "group": "NU'EST",
+  "theme": "Needle & Bubble",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947211699941436/nuar_nb.png"
+}],
+"nubk_nb": [{
+  "name": "`⬛` NU'EST **Baekho** - Needle & Bubble",
+  "idol": "Baekho",
+  "group": "NU'EST",
+  "theme": "Needle & Bubble",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947212345835550/nubk_nb.png"
+}],
+"numh_nb": [{
+  "name": "`⬛` NU'EST **Minhyun** - Needle & Bubble",
+  "idol": "Minhyun",
+  "group": "NU'EST",
+  "theme": "Needle & Bubble",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947213058871356/numh_nb.png"
+}],
+"nur_nb": [{
+  "name": "`⬛` NU'EST **Ren** - Needle & Bubble",
+  "idol": "Ren",
+  "group": "NU'EST",
+  "theme": "Needle & Bubble",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947213767729193/nur_nb.png"
+}],
+"sokw_dt": [{
+  "name": "`⬛` Soloist **KIM WOOSEOK** - 2nd Desire [Tasty]",
+  "idol": "KIM WOOSEOK",
+  "group": "Soloist",
+  "theme": "2nd Desire [Tasty]",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1069598489278943322/1069598700369875005/solo-kimwooseok-tasty.png"
+}],
+"somy_my": [{
+  "name": "`⬛` Soloist **MIYEON** - MY",
+  "idol": "MIYEON",
+  "group": "Soloist",
+  "theme": "MY",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/978708689152274432/979077832795889784/somy_dr.png"
+}],
+"sodo_em": [{
+  "name": "`⬛` Soloist **D.O.** - Empathy",
+  "idol": "D.O.",
+  "group": "Soloist",
+  "theme": "Empathy",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965520774154833940/965526522955980820/sodo_em.png"
+}],
+"sojy_gl": [{
+  "name": "`⬛` Soloist **JO YURI** - GLASSY",
+  "idol": "JO YURI",
+  "group": "Soloist",
+  "theme": "GLASSY",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965845708743794698/965845788074856458/Glassy_Jo_Yuri.png"
+}],
+"sosm_xo": [{
+  "name": "`⬛` Soloist **JEON SOMI** - XOXO",
+  "idol": "JEON SOMI",
+  "group": "Soloist",
+  "theme": "XOXO",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979432131661013063/979432200049156196/sosm_dd.png"
+}],
+"sosn_16": [{
+  "name": "`⬛` Soloist **SUNMI** - 1/6",
+  "idol": "SUNMI",
+  "group": "Soloist",
+  "theme": "1/6",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/968538474338717846/968538556744237126/Photopea_26_Apr_2022_11_41_11_pm_.png"
+}],
+"sosu_gs": [{
+  "name": "`⬛` Soloist **SUHO** - Grey Suit",
+  "idol": "SUHO",
+  "group": "Soloist",
+  "theme": "Grey Suit",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/971733856581451836/971733936537477150/sosu_gs.png"
+}],
+"sols_al": [{
+  "name": "`⬛` Soloist **LEE SUHYUN** - ALIEN",
+  "idol": "LEE SUHYUN",
+  "group": "Soloist",
+  "theme": "ALIEN",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/972752472110145546/972752535381213284/Photopea_8_May_2022_2_49_58_pm_.png"
+}],
+"soli_la": [{
+  "name": "`⬛` Soloist **LISA** - LALISA",
+  "idol": "LISA",
+  "group": "Soloist",
+  "theme": "LALISA",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979272282415439882/1000608201013735454/Photopea_24_Jul_2022_12_04_56_am_.png"
+}],
+"sojo_he": [{
+  "name": "`⬛` Soloist **JOY** - Hello",
+  "idol": "JOY",
+  "group": "Soloist",
+  "theme": "Hello",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970362625366052956/970362723357569145/Photopea_2_May_2022_12_28_05_am_.png"
+}],
+"soad_d2": [{
+  "name": "`⬛` Soloist **Agust D** - D-2",
+  "idol": "Agust D",
+  "group": "Soloist",
+  "theme": "D-2",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1031358950903382037/1031358999590883460/soad_d21.png"
+}],
+"somc_dv": [{
+  "name": "`⬛` Soloist **MAX CHANGMIN** - Devil",
+  "idol": "MAX CHANGMIN",
+  "group": "Soloist",
+  "theme": "Devil",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/971370354335449088/971371095091462176/somc_dv.png"
+}],
+"soty_in": [{
+  "name": "`⬛` Soloist **TAEYEON** - INVU",
+  "idol": "TAEYEON",
+  "group": "Soloist",
+  "theme": "INVU",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/965814298565828708/965827600578674718/soty_in.png"
+}],
+"sowo_bl": [{
+  "name": "`⬛` Soloist **WONHO** - Blue Letter",
+  "idol": "WONHO",
+  "group": "Soloist",
+  "theme": "Blue Letter",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/968391289609547807/968391359507595284/sowo_bl.png"
+}],
 "nmli_am": [{
   "name": "`⬛` NMIXX **Lily** - AD MARE",
   "idol": "Lily",
