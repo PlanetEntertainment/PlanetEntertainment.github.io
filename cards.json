@@ -65,6 +65,310 @@
   "rarity": "`🪐`",
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275524577247333/Photopea_10_May_2022_1_23_30_am_.png"
 }],
+"x1sw_co": [{
+  "name": "`⬜` X1 **Seungwoo** - Common",
+  "idol": "Seungwoo",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967109844970651668/seungwoo.png"
+}],
+"x1sy_co": [{
+  "name": "`⬜` X1 **Seungyoun** - Common",
+  "idol": "Seungyoun",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967111567365787739/seungyoun.png"
+}],
+"x1ws_co": [{
+  "name": "`⬜` X1 **Wooseok** - Common",
+  "idol": "Wooseok",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967112545452318720/wooseok.png"
+}],
+"x1yo_co": [{
+  "name": "`⬜` X1 **Yohan** - Common",
+  "idol": "Yohan",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967117790878261258/yohan.png"
+}],
+"x1ha_co": [{
+  "name": "`⬜` X1 **Hangyul** - Common",
+  "idol": "Hangyul",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967118491784208484/hangyul.png"
+}],
+"x1ju_co": [{
+  "name": "`⬜` X1 **Junho** - Common",
+  "idol": "Junho",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967120574998515772/junho.png"
+}],
+"x1dp_co": [{
+  "name": "`⬜` X1 **Dongpyo** - Common",
+  "idol": "Dongpyo",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967122203839696946/dongpyo.png"
+}],
+"x1mh_co": [{
+  "name": "`⬜` X1 **Minhee** - Common",
+  "idol": "Minhee",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967123895083753483/minhee.png"
+}],
+"x1es_co": [{
+  "name": "`⬜` X1 **Eunsang** - Common",
+  "idol": "Eunsang",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967125859590881310/eunsang.png"
+}],
+"x1hj_co": [{
+  "name": "`⬜` X1 **Hyeongjun** - Common",
+  "idol": "Hyeongjun",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967125952750551070/hyeongjun.png"
+}],
+"x1do_co": [{
+  "name": "`⬜` X1 **Dohyon** - Common",
+  "idol": "Dohyon",
+  "group": "X1",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/967109732294856734/967126373854486589/dohyun.png"
+}],
+"gthy_sb": [{
+  "name": "`⬛` GOT The Beat **Hyoyeon** - Step Back",
+  "idol": "Hyoyeon",
+  "group": "GOT The Beat",
+  "theme": "Step Back",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/969420047938375721/969430617202786394/hyoyeon_sb.png"
+}],
+"gtsl_sb": [{
+  "name": "`⬛` GOT The Beat **Seulgi** - Step Back",
+  "idol": "Seulgi",
+  "group": "GOT The Beat",
+  "theme": "Step Back",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/969420047938375721/969431237997506641/seulgi_sb.png"
+}],
+"gtwe_sb": [{
+  "name": "`⬛` GOT The Beat **Wendy** - Step Back",
+  "idol": "Wendy",
+  "group": "GOT The Beat",
+  "theme": "Step Back",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/969420047938375721/969431237670342746/wendy_sb.png"
+}],
+"gtka_sb": [{
+  "name": "`⬛` GOT The Beat **Karina** - Step Back",
+  "idol": "Karina",
+  "group": "GOT The Beat",
+  "theme": "Step Back",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/969420047938375721/969431237175418940/karina_sb.png"
+}],
+"gtwi_sb": [{
+  "name": "`⬛` GOT The Beat **Winter** - Step Back",
+  "idol": "Winter",
+  "group": "GOT The Beat",
+  "theme": "Step Back",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/969420047938375721/969434227730960394/winter_sb.png"
+}],
+"gtbo_sb": [{
+  "name": "`⬛` GOT The Beat **BoA** - Step Back",
+  "idol": "BoA",
+  "group": "GOT The Beat",
+  "theme": "Step Back",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/969420047938375721/969430616795934740/boa_sb.png"
+}],
+"gtty_sb": [{
+  "name": "`⬛` GOT The Beat **Taeyeon** - Step Back",
+  "idol": "Taeyeon",
+  "group": "GOT The Beat",
+  "theme": "Step Back",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/969420047938375721/969430617760608318/taeyeon_sb.png"
+}],
+"skbc_ne": [{
+  "name": "`⬛` Stray Kids **Bang Chan** - Noeasy",
+  "idol": "Bang Chan",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898591770136626/skbc_ne.png"
+}],
+"sklk_ne": [{
+  "name": "`⬛` Stray Kids **Lee Know** - Noeasy",
+  "idol": "Lee Know",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898591187124264/sllk_ne.png"
+}],
+"skcb_ne": [{
+  "name": "`⬛` Stray Kids **Changbin** - Noeasy",
+  "idol": "Changbin",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898595033305108/skcb_ne.png"
+}],
+"skhj_ne": [{
+  "name": "`⬛` Stray Kids **Hyunjin** - Noeasy",
+  "idol": "Hyunjin",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898593489801226/skhj_ne.png"
+}],
+"skha_ne": [{
+  "name": "`⬛` Stray Kids **Han** - Noeasy",
+  "idol": "Han",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898594005712896/skha_ne.png"
+}],
+"skfe_ne": [{
+  "name": "`⬛` Stray Kids **Felix** - Noeasy",
+  "idol": "Felix",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898592453820426/skfe_ne.png"
+}],
+"skse_ne": [{
+  "name": "`⬛` Stray Kids **Seungmin** - Noeasy",
+  "idol": "Seungmin",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898592994865253/skse_ne.png"
+}],
+"skin_ne": [{
+  "name": "`⬛` Stray Kids **I.N** - Noeasy",
+  "idol": "I.N",
+  "group": "Stray Kids",
+  "theme": "Noeasy",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/965813131647533167/965898594592890900/skin_ne.png"
+}],
+"trjh_ss": [{
+  "name": "`⬛` TREASURE **Junghwan** - The Second Step : Chapter One",
+  "idol": "Junghwan",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338261075099679/trjh_ss.png"
+}],
+"trjw_ss": [{
+  "name": "`⬛` TREASURE **Jeongwoo** - The Second Step : Chapter One",
+  "idol": "Jeongwoo",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338260353712198/trjw_ss.png"
+}],
+"trha_ss": [{
+  "name": "`⬛` TREASURE **Haruto** - The Second Step : Chapter One",
+  "idol": "Haruto",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338173317677146/trha_ss.png"
+}],
+"trdy_ss": [{
+  "name": "`⬛` TREASURE **Doyoung** - The Second Step : Chapter One",
+  "idol": "Doyoung",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338172361379860/trdy_ss.png"
+}],
+"trye_ss": [{
+  "name": "`⬛` TREASURE **Yedam** - The Second Step : Chapter One",
+  "idol": "Yedam",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338170717233192/trye_ss.png"
+}],
+"tras_ss": [{
+  "name": "`⬛` TREASURE **Asahi** - The Second Step : Chapter One",
+  "idol": "Asahi",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338170230685696/tras_ss.png"
+}],
+"trjy_ss": [{
+  "name": "`⬛` TREASURE **Jaehyuk** - The Second Step : Chapter One",
+  "idol": "Jaehyuk",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338169718988821/trjy_ss.png"
+}],
+"trma_ss": [{
+  "name": "`⬛` TREASURE **Mashiho** - The Second Step : Chapter One",
+  "idol": "Mashiho",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338169110798376/trma_ss.png"
+}],
+"trjk_ss": [{
+  "name": "`⬛` TREASURE **Junkyu** - The Second Step : Chapter One",
+  "idol": "Junkyu",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986390863766777856/trjk_ss.png"
+}],
+"tryo_ss": [{
+  "name": "`⬛` TREASURE **Yoshi** - The Second Step : Chapter One",
+  "idol": "Yoshi",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338167386959952/tryo_ss.png"
+}],
+"trji_ss": [{
+  "name": "`⬛` TREASURE **Jihoon** - The Second Step : Chapter One",
+  "idol": "Jihoon",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338166896222239/trji_ss.png"
+}],
+"trhs_ss": [{
+  "name": "`⬛` TREASURE **Hyunsuk** - The Second Step : Chapter One",
+  "idol": "Hyunsuk",
+  "group": "TREASURE",
+  "theme": "The Second Step : Chapter One",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/986337424101761035/986338166346743948/trhs_ss.png"
+}],
 "cbhy_cw": [{
   "name": "`⬛` Cherry Bullet **Haeyoon** - Cherry Wish",
   "idol": "Haeyoon",
@@ -2473,7 +2777,7 @@
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/978307363754893353/978307734673948692/hdda_co.png"
 }],
-"nmhw_co": [    {
+"nmhw_co": [{
   "name": "`⬜` NMIXX **Haewon** - Common",
   "idol": "Haewon",
   "group": "NMIXX",
