@@ -2,6 +2,166 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"ivyj_co": [{
+  "name": "`⬜` IVE **Yujin** - Common",
+  "idol": "Yujin",
+  "group": "IVE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966601365612814356/966601513025802270/Yujin_c.png"
+}],
+"ivls_co": [{
+  "name": "`⬜` IVE **Leeseo** - Common",
+  "idol": "Leeseo",
+  "group": "IVE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966601365612814356/966601515051651092/Leeseo_c.png"
+}],
+"ivli_co": [{
+  "name": "`⬜` IVE **Liz** - Common",
+  "idol": "Liz",
+  "group": "IVE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966601365612814356/966601514649022506/Liz_c.png"
+}],
+"ivre_co": [{
+  "name": "`⬜` IVE **Rei** - Common",
+  "idol": "Rei",
+  "group": "IVE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966601365612814356/966601513520758804/Rei_c.png"
+}],
+"ivga_co": [{
+  "name": "`⬜` IVE **Gaeul** - Common",
+  "idol": "Gaeul",
+  "group": "IVE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966601365612814356/966601512539267102/Gaeul_c.png"
+}],
+"ivwy_co": [{
+  "name": "`⬜` IVE **Wonyoung** - Common",
+  "idol": "Wonyoung",
+  "group": "IVE",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966601365612814356/966601513973710898/Wonyoung_c.png"
+}],
+"aenn_co": [{
+  "name": "`⬜` aespa **Ningning** - Common",
+  "idol": "Ningning",
+  "group": "aespa",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966719866205765632/966733981699678228/ningning.png"
+}],
+"aegi_co": [{
+  "name": "`⬜` aespa **Giselle** - Common",
+  "idol": "Giselle",
+  "group": "aespa",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966719866205765632/966732287406403614/giselle.png"
+}],
+"aewi_co": [{
+  "name": "`⬜` aespa **Winter** - Common",
+  "idol": "Winter",
+  "group": "aespa",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966719866205765632/966731010865762365/winter.png"
+}],
+"aeka_co": [{
+  "name": "`⬜` aespa **Karina** - Common",
+  "idol": "Karina",
+  "group": "aespa",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/966719866205765632/966729946892476496/karina.png"
+}],
+"aeka_nl": [{
+  "name": "`⬛` aespa **Karina** - Next Level",
+  "idol": "Karina",
+  "group": "aespa",
+  "theme": "Next Level",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/967367411810566184/967367506803163206/Untitled516_20220423180456.png"
+}],
+"aewi_nl": [{
+  "name": "`⬛` aespa **Winter** - Next Level",
+  "idol": "Winter",
+  "group": "aespa",
+  "theme": "Next Level",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/967367411810566184/967367556874784778/Untitled516_20220423180500.png"
+}],
+"aegi_nl": [{
+  "name": "`⬛` aespa **Giselle** - Next Level",
+  "idol": "Giselle",
+  "group": "aespa",
+  "theme": "Next Level",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/967367411810566184/967367521063821392/Untitled516_20220423180507.png"
+}],
+"aenn_nl": [{
+  "name": "`⬛` aespa **Ningning** - Next Level",
+  "idol": "Ningning",
+  "group": "aespa",
+  "theme": "Next Level",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/967367411810566184/967367589548404767/Untitled516_20220423180512.png"
+}],
+"ivwy_el": [{
+  "name": "`⬛` IVE **Wonyoung** - Eleven",
+  "idol": "Wonyoung",
+  "group": "IVE",
+  "theme": "Eleven",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970715815257186304/971290537577570385/Photopea_3_May_2022_10_29_19_pm_.png"
+}],
+"ivga_el": [{
+  "name": "`⬛` IVE **Gaeul** - Eleven",
+  "idol": "Gaeul",
+  "group": "IVE",
+  "theme": "Eleven",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970715815257186304/971290584750891008/Photopea_3_May_2022_10_33_43_pm_.png"
+}],
+"ivre_el": [{
+  "name": "`⬛` IVE **Rei** - Eleven",
+  "idol": "Rei",
+  "group": "IVE",
+  "theme": "Eleven",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970715815257186304/971290554199572510/Photopea_3_May_2022_10_32_05_pm_.png"
+}],
+"ivli_el": [{
+  "name": "`⬛` IVE **Liz** - Eleven",
+  "idol": "Liz",
+  "group": "IVE",
+  "theme": "Eleven",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970715815257186304/971290524893990932/Photopea_3_May_2022_10_27_58_pm_.png"
+}],
+"ivls_el": [{
+  "name": "`⬛` IVE **Leeseo** - Eleven",
+  "idol": "Leeseo",
+  "group": "IVE",
+  "theme": "Eleven",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970715815257186304/971290512764051526/Photopea_3_May_2022_10_27_17_pm_.png"
+}],
+"ivyj_el": [{
+  "name": "`⬛` IVE **Yujin** - Eleven",
+  "idol": "Yujin",
+  "group": "IVE",
+  "theme": "Eleven",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/970715815257186304/971290566811869194/Photopea_3_May_2022_10_32_47_pm_.png"
+}],
 "hdhy_co": [{
   "name": "`⬜` HyunA&Dawn **HyunA** - Common",
   "idol": "HyunA",
