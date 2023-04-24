@@ -1861,6 +1861,190 @@
 "rarity": "`🎥`",
 "image": "https://media.discordapp.net/attachments/979378398797381692/996665813643841588/suga.png"
 }],
+"xhgu_co": [{
+  "name": "`⬜` Xdinary Heroes **Gunil** - Common",
+  "idol": "Gunil",
+  "group": "Xdinary Heroes",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965521474658115584/971742785214500894/xhgu_co.png"
+}],
+"xhjs_co": [{
+  "name": "`⬜` Xdinary Heroes **Jungsu** - Common",
+  "idol": "Jungsu",
+  "group": "Xdinary Heroes",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965521474658115584/971743255723130910/xhjs_co.png"
+}],
+"xhju_co": [{
+  "name": "`⬜` Xdinary Heroes **Jun Han** - Common",
+  "idol": "Jun Han",
+  "group": "Xdinary Heroes",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965521474658115584/971744310842249216/xhju_co.png"
+}],
+"xhga_co": [{
+  "name": "`⬜` Xdinary Heroes **Gaon** - Common",
+  "idol": "Gaon",
+  "group": "Xdinary Heroes",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965521474658115584/971744717178019840/xhga_co.png"
+}],
+"xhjy_co": [{
+  "name": "`⬜` Xdinary Heroes **Jooyeon** - Common",
+  "idol": "Jooyeon",
+  "group": "Xdinary Heroes",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965521474658115584/971742340567949312/xhjy_co.png"
+}],
+"xhod_co": [{
+  "name": "`⬜` Xdinary Heroes **O.de** - Common",
+  "idol": "O.de",
+  "group": "Xdinary Heroes",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/965521474658115584/971742339796176986/xhod_co.png"
+}],
+"lech_co": [{
+  "name": "`⬜` LE SSERAFIM **Chaewon** - Common",
+  "idol": "Chaewon",
+  "group": "LE SSERAFIM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/995292146515054653/996184277983170702/lsch_co2.png"
+}],
+"lesk_co": [{
+  "name": "`⬜` LE SSERAFIM **Sakura** - Common",
+  "idol": "Sakura",
+  "group": "LE SSERAFIM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/995292146515054653/995298027453563000/lssk_co.png"
+}],
+"leyj_co": [{
+  "name": "`⬜` LE SSERAFIM **Yunjin** - Common",
+  "idol": "Yunjin",
+  "group": "LE SSERAFIM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/995292146515054653/995298027914932284/lsyj_co.png"
+}],
+"lekz_co": [{
+  "name": "`⬜` LE SSERAFIM **Kazuha** - Common",
+  "idol": "Kazuha",
+  "group": "LE SSERAFIM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/995292146515054653/995298028317593641/lskz_co.png"
+}],
+"lega_co": [{
+  "name": "`⬜` LE SSERAFIM **Garam** - Common",
+  "idol": "Garam",
+  "group": "LE SSERAFIM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/995292146515054653/995298028741214228/lsga_co.png"
+}],
+"leec_co": [{
+  "name": "`⬜` LE SSERAFIM **Eunchae** - Common",
+  "idol": "Eunchae",
+  "group": "LE SSERAFIM",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/995292146515054653/995298029068365894/lsec_co.png"
+}],
+"lsch_fl": [{
+  "name": "`⬛` LE SSERAFIM **Chaewon** - FEARLESS",
+  "idol": "Chaewon",
+  "group": "LE SSERAFIM",
+  "theme": "FEARLESS",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611612915621898/lesserafimchaewon-concept.png"
+}],
+"lesk_fl": [{
+  "name": "`⬛` LE SSERAFIM **Sakura** - FEARLESS",
+  "idol": "Sakura",
+  "group": "LE SSERAFIM",
+  "theme": "FEARLESS",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611640035971102/lesserafimsakura-concept.png"
+}],
+"lech_fl": [{
+  "name": "`⬛` LE SSERAFIM **Chaewon** - FEARLESS",
+  "idol": "Chaewon",
+  "group": "LE SSERAFIM",
+  "theme": "FEARLESS",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611612915621898/lesserafimchaewon-concept.png"
+}],
+"leyj_fl": [{
+  "name": "`⬛` LE SSERAFIM **Yunjin** - FEARLESS",
+  "idol": "Yunjin",
+  "group": "LE SSERAFIM",
+  "theme": "FEARLESS",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611660537753640/lesserafimyunjin-concept.png"
+}],
+"lekz_fl": [{
+  "name": "`⬛` LE SSERAFIM **Kazuha** - FEARLESS",
+  "idol": "Kazuha",
+  "group": "LE SSERAFIM",
+  "theme": "FEARLESS",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611699976781855/lesserafimkazuha-concept.png"
+}],
+"lega_fl": [{
+  "name": "`⬛` LE SSERAFIM **Garam** - FEARLESS",
+  "idol": "Garam",
+  "group": "LE SSERAFIM",
+  "theme": "FEARLESS",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611725796921354/lesserafimgaram-concept.png"
+}],
+"leec_fl": [{
+  "name": "`⬛` LE SSERAFIM **Eunchae** - FEARLESS",
+  "idol": "Eunchae",
+  "group": "LE SSERAFIM",
+  "theme": "FEARLESS",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611747221422130/lesserafimeunchae-concept.png"
+}],
+"tnhw_co": [{
+  "name": "`⬜` TNX **Hwi** - Common",
+  "idol": "Hwi",
+  "group": "TNX",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/996680057282121738/996724261542694983/tnhw_co.png"
+}],
+"tnsj_co": [{
+  "name": "`⬜` TNX **Sungjun** - Common",
+  "idol": "Sungjun",
+  "group": "TNX",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/996680057282121738/996724262050222111/tnsj_co.png"
+}],
+"tnhs_co": [{
+  "name": "`⬜` TNX **Hyunsoo** - Common",
+  "idol": "Hyunsoo",
+  "group": "TNX",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/996680057282121738/996724259688816740/tnhs_co.png"
+}],
+"tnjh_co": [{
+  "name": "`⬜` TNX **Junghyeok** - Common",
+  "idol": "Junghyeok",
+  "group": "TNX",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://cdn.discordapp.com/attachments/996680057282121738/996724260947116043/tnjh_co.png"
+}],
 "omyb_co": [{
   "name": "`⬜` Oh My Girl **Yubin** - Common",
   "idol": "Yubin",
@@ -3446,14 +3630,63 @@
     "rarity": "`⬛`",
     "image": "https://cdn.discordapp.com/attachments/1044919243793240114/1044919332725071942/mino_remember.png"
 }],
-"enja_bc": [{
-    "name": "`🟨` ENHYPEN **Jay** - BORDER : CARNIVAL",
-    "idol": "Jay",
-    "group": "ENHYPEN",
-    "theme": "BORDER : CARNIVAL",
-    "rarity": "`🟨`",
-    "image": "https://media.discordapp.net/attachments/978496595018514436/978500942855016518/enja_bc.png"
+"ensu_bc": [{
+  "name": "`🟨` ENHYPEN **Sunoo** - BORDER : CARNIVAL",
+  "idol": "Sunoo",
+  "group": "ENHYPEN",
+  "theme": "BORDER : CARNIVAL",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/978496595018514436/978500891655163914/ensu_bc.png"
 }],
+"ennk_bc": [{
+  "name": "`🟨` ENHYPEN **Ni-ki** - BORDER : CARNIVAL",
+  "idol": "Ni-ki",
+  "group": "ENHYPEN",
+  "theme": "BORDER : CARNIVAL",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/978496595018514436/978500944025251860/ennk_bc.png"
+}],
+"ensh_bc": [{
+  "name": "`🟨` ENHYPEN **Sunghoon** - BORDER : CARNIVAL",
+  "idol": "Sunghoon",
+  "group": "ENHYPEN",
+  "theme": "BORDER : CARNIVAL",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/978496595018514436/978500890979868672/ensh_bc.png"
+}],
+"enjk_bc": [{
+  "name": "`🟨` ENHYPEN **Jake** - BORDER : CARNIVAL",
+  "idol": "Jake",
+  "group": "ENHYPEN",
+  "theme": "BORDER : CARNIVAL",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/978496595018514436/978500944629223444/enjk_bc.png"
+}],
+"enhs_bc": [{
+  "name": "`🟨` ENHYPEN **Heeseung** - BORDER : CARNIVAL",
+  "idol": "Heeseung",
+  "group": "ENHYPEN",
+  "theme": "BORDER : CARNIVAL",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/978496595018514436/978500890333949963/enhs_bc.png"
+}],
+"enja_bc": [{
+  "name": "`🟨` ENHYPEN **Jay** - BORDER : CARNIVAL",
+  "idol": "Jay",
+  "group": "ENHYPEN",
+  "theme": "BORDER : CARNIVAL",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/978496595018514436/978500942855016518/enja_bc.png"
+}],
+"enjw_bc": [{
+  "name": "`🟨` ENHYPEN **Jungwon** - BORDER : CARNIVAL",
+  "idol": "Jungwon",
+  "group": "ENHYPEN",
+  "theme": "BORDER : CARNIVAL",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/978496595018514436/978500943559688222/enjw_bc.png"
+  }
+],
 "pmjk_co": [{
       "name": "`⬜` 2PM **Jun.K** - Common",
       "idol": "Jun.K",
