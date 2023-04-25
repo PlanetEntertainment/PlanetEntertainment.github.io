@@ -2,6 +2,62 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"drhy_co": [{
+      "name": "`⬜` DRIPPIN **Hyeop** - Common",
+      "idol": "Hyeop",
+      "group": "DRIPPIN",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/966977109924917269/966977217206837288/drippinhyeop-common.png"
+}],
+"drys_co": [{
+      "name": "`⬜` DRIPPIN **Yunseong** - Common",
+      "idol": "Yunseong",
+      "group": "DRIPPIN",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/966977109924917269/966977176853442570/drippinyunseong-common.png"
+}],
+"drcg_co": [{
+      "name": "`⬜` DRIPPIN **Changuk** - Common",
+      "idol": "Changuk",
+      "group": "DRIPPIN",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/966977109924917269/966977247112216606/drippinchanguk-common.png"
+}],
+"drdy_co": [{
+      "name": "`⬜` DRIPPIN **Dongyun** - Common",
+      "idol": "Dongyun",
+      "group": "DRIPPIN",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/966977109924917269/1003821991196897400/drippindongyun-common2.png"
+}],
+"drms_co": [{
+      "name": "`⬜` DRIPPIN **Minseo** - Common",
+      "idol": "Minseo",
+      "group": "DRIPPIN",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/966977109924917269/966977331950407710/drippinminseo-common.png"
+}],
+"drjh_co": [{
+      "name": "`⬜` DRIPPIN **Junho** - Common",
+      "idol": "Junho",
+      "group": "DRIPPIN",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/966977109924917269/966977369321635840/drippinjunho-commom.png"
+}],
+"dral_co": [{
+      "name": "`⬜` DRIPPIN **Alex** - Common",
+      "idol": "Alex",
+      "group": "DRIPPIN",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/966977109924917269/966977394672029766/drippinalex-common.png"
+}],
 "k1ch_sp": [{
   "name": "`🪐` Kep1er **Chaehyun** - WADADA SPECIAL",
   "idol": "Chaehyun",
