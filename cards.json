@@ -3,6 +3,7 @@
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
 "k1ch_sp": [{
+  "name": "`🪐` Kep1er **Chaehyun** - WADADA SPECIAL",
   "idol": "Chaehyun",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -10,6 +11,7 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275574246187008/Photopea_10_May_2022_1_24_03_am_.png"
 }],
 "k1ba_sp": [{
+  "name": "`🪐` Kep1er **Huening Bahiyyih** - WADADA SPECIAL",
   "idol": "Huening Bahiyyih",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -17,6 +19,7 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275615979507762/Photopea_10_May_2022_1_27_49_am_.png"
 }],
 "k1hk_sp": [{
+  "name": "`🪐` Kep1er **Hikaru** - WADADA SPECIAL",
   "idol": "Hikaru",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -24,6 +27,7 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275605145632858/Photopea_10_May_2022_12_59_38_am_.png"
 }],
 "k1da_sp": [{
+  "name": "`🪐` Kep1er **Dayeon** - WADADA SPECIAL",
   "idol": "Dayeon",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -31,6 +35,7 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275590226493540/Photopea_10_May_2022_12_59_17_am_.png"
 }],
 "k1ye_sp": [{
+  "name": "`🪐` Kep1er **Yeseo** - WADADA SPECIAL",
   "idol": "Yeseo",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -38,6 +43,7 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275641879334912/Photopea_10_May_2022_12_57_52_am_.png"
 }],
 "k1yo_sp": [{
+  "name": "`🪐` Kep1er **Youngeun** - WADADA SPECIAL",
   "idol": "Youngeun",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -45,6 +51,7 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275631250989076/Photopea_10_May_2022_1_24_27_am_.png"
 }],
 "k1ma_sp": [{
+  "name": "`🪐` Kep1er **Mashiro** - WADADA SPECIAL",
   "idol": "Mashiro",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -52,6 +59,7 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275544072388608/Photopea_10_May_2022_12_59_00_am_.png"
 }],
 "k1yu_sp": [{
+  "name": "`🪐` Kep1er **Yujin** - WADADA SPECIAL",
   "idol": "Yujin",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
@@ -59,11 +67,20 @@
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275495321981018/Photopea_10_May_2022_1_23_08_am_.png"
 }],
 "k1xt_sp": [{
+  "name": "`🪐` Kep1er **Xiaoting** - WADADA SPECIAL",
   "idol": "Xiaoting",
   "group": "Kep1er",
   "theme": "WADADA SPECIAL",
   "rarity": "`🪐`",
   "image": "https://media.discordapp.net/attachments/973275421263147008/973275524577247333/Photopea_10_May_2022_1_23_30_am_.png"
+}],
+"bpli_rb": [{
+  "name": "<:BB_ruby:944030574941720647> BLACKPINK **Lisa** - Ruby",
+  "idol": "Lisa",
+  "group": "BLACKPINK",
+  "theme": "Ruby",
+  "rarity": "<:BB_ruby:944030574941720647>",
+  "image": "https://media.discordapp.net/attachments/972147039469178951/997869374285283469/LISARUBY.png"
 }],
 "cxjy_rb": [{
   "name": "<:BB_ruby:944030574941720647> CIX **Bae Jinyoung** - Ruby",
