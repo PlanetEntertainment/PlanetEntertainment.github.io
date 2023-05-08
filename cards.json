@@ -2,6 +2,63 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"sokw_dt": [{
+      "name": "`⬛` Soloist **KIM WOOSEOK** - 2nd Desire [Tasty]",
+      "idol": "KIM WOOSEOK",
+      "group": "Soloist",
+      "theme": "2nd Desire [Tasty]",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1069598489278943322/1069598700369875005/solo-kimwooseok-tasty.png"
+}],
+"somy_my": [{
+      "name": "`⬛` Soloist **MIYEON** - MY",
+      "idol": "MIYEON",
+      "group": "Soloist",
+      "theme": "MY",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/978708689152274432/979077832795889784/somy_dr.png"
+}],
+"nujr_nb": [{
+      "name": "`⬛` NU'EST **JR** - Needle & Bubble",
+      "idol": "JR",
+      "group": "NU'EST",
+      "theme": "Needle & Bubble",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947211066585138/nujr_nb.png"
+}],
+"nuar_nb": [{
+      "name": "`⬛` NU'EST **Aron** - Needle & Bubble",
+      "idol": "Aron",
+      "group": "NU'EST",
+      "theme": "Needle & Bubble",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947211699941436/nuar_nb.png"
+}],
+"nubk_nb": [{
+      "name": "`⬛` NU'EST **Baekho** - Needle & Bubble",
+      "idol": "Baekho",
+      "group": "NU'EST",
+      "theme": "Needle & Bubble",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947212345835550/nubk_nb.png"
+}],
+"numh_nb": [{
+      "name": "`⬛` NU'EST **Minhyun** - Needle & Bubble",
+      "idol": "Minhyun",
+      "group": "NU'EST",
+      "theme": "Needle & Bubble",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947213058871356/numh_nb.png"
+}],
+"nure_nb": [{
+      "name": "`⬛` NU'EST **Ren** - Needle & Bubble",
+      "idol": "Ren",
+      "group": "NU'EST",
+      "theme": "Needle & Bubble",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/979946936335487049/979947213767729193/nur_nb.png"
+}],
+
 "drhy_co": [{
   "name": "`⬜` DRIPPIN **Hyeop** - Common",
   "idol": "Hyeop",
