@@ -763,6 +763,14 @@
   "rarity": "`⬛`",
   "image": "https://media.discordapp.net/attachments/975653948906151946/975672811077140490/svtseungkwan-concept.png"
 }],
+"svdi_fa": [{
+      "name": "`⬛` SEVENTEEN **Dino** - Face The Sun",
+      "idol": "Dino",
+      "group": "SEVENTEEN",
+      "theme": "Face The Sun",
+      "rarity": "`⬛`",
+      "image": "https://media.discordapp.net/attachments/975653948906151946/975673922227961886/svtdino-concept.png"
+}],
 "blms_cu": [{
   "name": "`⬛` Billlie **Moon Sua** - The Collective Soul and Unconscious : Chapter One",
   "idol": "Moon Sua",
@@ -6788,7 +6796,7 @@
   "name": "`⬛` Kep1er **Yeseo** - TEOUBLE SHOOTER",
   "idol": "Yeseo",
   "group": "Kep1er",
-  "theme": "TEOUBLE SHOOTER",
+  "theme": "TROUBLE SHOOTER",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513600359903252/yeseo_ts.png"
 }],
@@ -7127,6 +7135,14 @@
   "theme": "The First Step : TREASURE Effect",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469795858755675/trhs_fs.png"
+}],
+"tryo_fs": [{
+      "name": "`⬛` TREASURE **Yoshi** - The First Step : TREASURE Effect",
+      "idol": "Yoshi",
+      "group": "TREASURE",
+      "theme": "The First Step : TREASURE Effect",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/965814105325838357/974469809095995392/tryo_fs.png"
 }],
 "trjh_co": [{
   "name": "`⬜` TREASURE **Junghwan** - Common",
