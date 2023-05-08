@@ -6351,14 +6351,7 @@
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/995292146515054653/995298029068365894/lsec_co.png"
 }],
-"lsch_fl": [{
-  "name": "`⬛` LE SSERAFIM **Chaewon** - FEARLESS",
-  "idol": "Chaewon",
-  "group": "LE SSERAFIM",
-  "theme": "FEARLESS",
-  "rarity": "`⬛`",
-  "image": "https://cdn.discordapp.com/attachments/982611528522014781/982611612915621898/lesserafimchaewon-concept.png"
-}],
+
 "lesk_fl": [{
   "name": "`⬛` LE SSERAFIM **Sakura** - FEARLESS",
   "idol": "Sakura",
@@ -6793,7 +6786,7 @@
   "image": "https://media.discordapp.net/attachments/966625029599146006/975583121674223626/common_youngmin.png"
 }],
 "k1ye_ts": [{
-  "name": "`⬛` Kep1er **Yeseo** - TEOUBLE SHOOTER",
+  "name": "`⬛` Kep1er **Yeseo** - TROUBLE SHOOTER",
   "idol": "Yeseo",
   "group": "Kep1er",
   "theme": "TROUBLE SHOOTER",
