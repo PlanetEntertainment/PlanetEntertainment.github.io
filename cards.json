@@ -6569,6 +6569,14 @@
   "rarity": "`⬛`",
   "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811873781923971/my_editing_platform_4097589.png"
 }],
+"btv_m7": [{
+      "name": "`⬛` BTS **V** - Map of the Soul : 7",
+      "idol": "V",
+      "group": "BTS",
+      "theme": "Map of the Soul : 7",
+      "rarity": "`⬛`",
+      "image": "https://media.discordapp.net/attachments/1069811432000073830/1069811843209633852/my_editing_platform_226589B.png"
+}],
 "pyrj_co": [{
   "name": "`⬜` PIXY **Rinji** - Common",
   "idol": "Rinji",
@@ -6848,6 +6856,14 @@
   "theme": "TROUBLE SHOOTER",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513557477331085/hikaru_ts.png"
+}],
+"k1yo_ts": [{
+      "name": "`⬛` Kep1er **Youngeun** - TROUBLE SHOOTER",
+      "idol": "Youngeun",
+      "group": "Kep1er",
+      "theme": "TROUBLE SHOOTER",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1044513369308274688/1044513600041132082/youngeun_ts.png"
 }],
 "txhk_bh": [{
   "name": "`⬛` TXT **Huening Kai** - Minisode1 : Blue Hour",
