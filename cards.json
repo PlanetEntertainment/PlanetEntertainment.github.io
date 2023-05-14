@@ -2,6 +2,230 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"bpji_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> BLACKPINK **Jisoo** - Valentines 2022",
+      "idol": "Jisoo",
+      "group": "BLACKPINK",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964518890828861440/bpji_vl.png"
+}],
+"enjw_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> ENHYPEN **Jungwon** - Valentines 2022",
+      "idol": "Jungwon",
+      "group": "ENHYPEN",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964518889872588800/enjw_vl.png"
+}],
+"ensu_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> ENHYPEN **Sunoo** - Valentines 2022",
+      "idol": "Sunoo",
+      "group": "ENHYPEN",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964518890480758834/ensu_vl.png"
+}],
+"egyi_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> EVERGLOW **Yiren** - Valentines 2022",
+      "idol": "Yiren",
+      "group": "EVERGLOW",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964518889432170546/egyi_vl.png"
+}],
+"exka_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> EXO **Kai** - Valentines 2022",
+      "idol": "Kai",
+      "group": "EXO",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/983196981281321051/exka_vl.png"
+}],
+"izye_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> ITZY **Yeji** - Valentines 2022",
+      "idol": "Yeji",
+      "group": "ITZY",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/983196981763641354/izye_vl.png"
+}],
+"k1ba_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> Kep1er **Huening Bahiyyih** - Valentines 2022",
+      "idol": "Huening Bahiyyih",
+      "group": "Kep1er",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/983196982204063784/k1ba_vl.png"
+}],
+"txbg_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> TXT **Beomgyu** - Valentines 2022",
+      "idol": "Beomgyu",
+      "group": "TXT",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964519005220126801/txbg_vl.png"
+}],
+"txsb_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> TXT **Soobin** - Valentines 2022",
+      "idol": "Soobin",
+      "group": "TXT",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964519005626966036/txsb_vl.png"
+}],
+"txye_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> TXT **Yeonjun** - Valentines 2022",
+      "idol": "Yeonjun",
+      "group": "TXT",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964519006021242960/txye_vl.png"
+}],
+"svhs_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> SEVENTEEN **Hoshi** - Valentines 2022",
+      "idol": "Hoshi",
+      "group": "SEVENTEEN",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964519004720988190/svhs_vl.png"
+}],
+"sosm_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> Soloist **JEON SOMI** - Valentines 2022",
+      "idol": "JEON SOMI",
+      "group": "Soloist",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964519006566506516/sosm_vl.png"
+}],
+"sowo_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> Soloist **WONHO** - Valentines 2022",
+      "idol": "WONHO",
+      "group": "Soloist",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/964519004171554906/sowo_vl.png"
+}],
+"skfe_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> Stray Kids **Felix** - Valentines 2022",
+      "idol": "Felix",
+      "group": "Stray Kids",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964517280828502066/983196982900310116/skfe_vl.png"
+}],
+"wjbo_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> WJSN **Bona** - Valentines 2022",
+      "idol": "Bona",
+      "group": "WJSN",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573565619949698/wjbo_vl.png"
+}],
+"asew_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> ASTRO **Cha Eunwoo** - Valentines 2022",
+      "idol": "Cha Eunwoo",
+      "group": "ASTRO",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573442957529158/asew_vl.png"
+}],
+"logw_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> LOONA **Go Won** - Valentines 2022",
+      "idol": "Go Won",
+      "group": "LOONA",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573500230750289/logw_vl.png"
+}],
+"trha_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> TREASURE **Haruto** - Valentines 2022",
+      "idol": "Haruto",
+      "group": "TREASURE",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573544451285002/trha_vl.png"
+}],
+"hdhd_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> DUO **HyunA & DAWN** - Valentines 2022",
+      "idol": "HyunA & DAWN",
+      "group": "DUO",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573500750839828/hdhd_vl.png"
+}],
+"soiu_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> Soloist **IU** - Valentines 2022",
+      "idol": "IU",
+      "group": "Soloist",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573544006701066/soiu_vl.png"
+}],
+"scj_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> STAYC **J** - Valentines 2022",
+      "idol": "J",
+      "group": "STAYC",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573543406895244/scj_vl.png"
+}],
+"wkji_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> Weeekly **Jihan** - Valentines 2022",
+      "idol": "Jihan",
+      "group": "Weeekly",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573566140051466/wkji_vl.png"
+}],
+"f9ji_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> fromis_9 **Jiheon** - Valentines 2022",
+      "idol": "Jiheon",
+      "group": "fromis_9",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573443829948446/f9ji_vl.png"
+}],
+"btjk_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> BTS **Jungkook** - Valentines 2022",
+      "idol": "Jungkook",
+      "group": "BTS",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573443410505828/btjk_vl.png"
+}],
+"ncty_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> NCT **Taeyong** - Valentines 2022",
+      "idol": "Taeyong",
+      "group": "NCT",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573544816197732/ncty_vl.png"
+}],
+"aewi_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> aespa **Winter** - Valentines 2022",
+      "idol": "Winter",
+      "group": "aespa",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573444148690994/aewi_vl.png"
+}],
+"k1xt_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> Kep1er **Xiaoting** - Valentines 2022",
+      "idol": "Xiaoting",
+      "group": "Kep1er",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573499744219136/k1xt_vl.png"
+}],
+"ioyu_vl": [{
+      "name": "<:BB_Valentines2022:949568674765893643> IZ * ONE **Yuri** - Valentines 2022",
+      "idol": "Yuri",
+      "group": "IZ * ONE",
+      "theme": "Valentines 2022",
+      "rarity": "<:BB_Valentines2022:949568674765893643>",
+      "image": "https://media.discordapp.net/attachments/964519912041222165/964573499278635048/ioyu_vl.png"
+}],
 
 "drhy_co": [{
   "name": "`⬜` DRIPPIN **Hyeop** - Common",
