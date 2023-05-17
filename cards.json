@@ -5070,7 +5070,6 @@
   "image": "https://media.discordapp.net/attachments/1053871092407746641/1057848953976139806/template_for_common_38609A6.png"
 }],
 "gtwe_co": [{
-
   "name": "`⬜` GOT The Beat **Wendy** - Common",
   "idol": "Wendy",
   "group": "GOT The Beat",
@@ -6759,6 +6758,22 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/996680057282121738/996724260947116043/tnjh_co.png"
+}],
+"tnth_co": [{
+      "name": "`⬜` TNX **Taehun** - Common",
+      "idol": "Taehun",
+      "group": "TNX",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/996680057282121738/996724258828992552/tnth_co.png"
+}],
+"tnkj_co": [{
+      "name": "`⬜` TNX **Kyungjun** - Common",
+      "idol": "Kyungjun",
+      "group": "TNX",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/996680057282121738/996724259286159420/tnkj_co.png"
 }],
 "omyb_co": [{
   "name": "`⬜` Oh My Girl **Yubin** - Common",
