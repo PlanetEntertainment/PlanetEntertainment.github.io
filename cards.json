@@ -2,6 +2,406 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+  "bpli_st": [{
+      "name": "<:normalclover:947068381180354601> BLACKPINK **Lisa** - St. Patrick's Day 2022",
+      "idol": "Lisa",
+      "group": "BLACKPINK",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947100622199615548/Untitled294_20220226195930.png"
+    }], 
+  "enja_st": [{
+      "name": "<:normalclover:947068381180354601> ENHYPEN **Jay** - St. Patrick's Day 2022",
+      "idol": "Jay",
+      "group": "ENHYPEN",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947088446197989426/enja_st.png"
+    }],
+  "ennk_st": [{
+      "name": "<:normalclover:947068381180354601> ENHYPEN **Ni-ki** - St. Patrick's Day 2022",
+      "idol": "Ni-ki",
+      "group": "ENHYPEN",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947201947293868062/Untitled294_20220227024201.png"
+    }],
+  "egmi_st": [{
+      "name": "<:normalclover:947068381180354601> EVERGLOW **Mia** - St. Patrick's Day 2022",
+      "idol": "Mia",
+      "group": "EVERGLOW",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947088471758086184/Untitled294_20220226170511.png"
+    }],
+  "loji_st": [{
+      "name": "<:normalclover:947068381180354601> LOONA **Jinsoul** - St. Patrick's Day 2022",
+      "idol": "Jinsoul",
+      "group": "LOONA",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947088471212830750/loji_st.png"
+    }],
+  "svt8_st": [{
+      "name": "<:normalclover:947068381180354601> SEVENTEEN **THE8** - St. Patrick's Day 2022",
+      "idol": "THE8",
+      "group": "SEVENTEEN",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947088511289421834/Untitled294_20220226173307.png"
+    }],
+  "sokw_st": [{
+      "name": "<:normalclover:947068381180354601> Soloist **KIM WOO SEOK** - St. Patrick's Day 2022",
+      "idol": "KIM WOO SEOK",
+      "group": "Soloist",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947097606385983558/Untitled294_20220226194112.png"
+    }],
+  "acwo_st": [{
+      "name": "<:normalclover:947068381180354601> A.C.E **Wow** - St. Patrick's Day 2022",
+      "idol": "Wow",
+      "group": "A.C.E",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947355468232282132/Untitled294_20220227125118.png"
+    }],
+  "ensh_st": [{
+      "name": "<:normalclover:947068381180354601> ENHYPEN **Sunghoon** - St. Patrick's Day 2022",
+      "idol": "Sunghoon",
+      "group": "ENHYPEN",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947200170637008906/Untitled294_20220227023434.png"
+    }],
+  "exsu_st": [{
+      "name": "<:normalclover:947068381180354601> EXO **Suho** - St. Patrick's Day 2022",
+      "idol": "Suho",
+      "group": "EXO",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947926464832110652/Untitled294_20220301024110.png"
+    }],
+  "gisy_st": [{
+      "name": "<:normalclover:947068381180354601> (G)I-DLE **Soyeon** - St. Patrick's Day 2022",
+      "idol": "Soyeon",
+      "group": "(G)I-DLE",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947361514912903198/Untitled294_20220227131309.png"
+    }],
+  "izli_st": [{
+      "name": "<:normalclover:947068381180354601> ITZY **Lia** - St. Patrick's Day 2022",
+      "idol": "Lia",
+      "group": "ITZY",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947367849184337920/Untitled294_20220227134057.png"
+    }],
+  "ptws_st": [{
+      "name": "<:normalclover:947068381180354601> PENTAGON **Wooseok** - St. Patrick's Day 2022",
+      "idol": "Wooseok",
+      "group": "PENTAGON",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947207746615410749/Untitled294_20220227030504.png"
+    }],
+  "vvsb_st": [{
+      "name": "<:normalclover:947068381180354601> VIVIZ **SinB** - St. Patrick's Day 2022",
+      "idol": "SinB",
+      "group": "VIVIZ",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947114799190380634/Untitled294_20220226205510.png"
+    }],
+  "btv_st": [{
+      "name": "<:normalclover:947068381180354601> BTS **V** - St. Patrick's Day 2022",
+      "idol": "V",
+      "group": "BTS",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947919894459060324/Untitled294_20220301021039.png"
+    }],
+  "excy_st": [{
+      "name": "<:normalclover:947068381180354601> EXO **Chanyeol** - St. Patrick's Day 2022",
+      "idol": "Chanyeol",
+      "group": "EXO",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947916480736022538/Untitled294_20220301015713.png"
+    }],
+  "ikja_st": [{
+      "name": "<:normalclover:947068381180354601> iKON **Jay** - St. Patrick's Day 2022",
+      "idol": "Jay",
+      "group": "iKON",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947916459810652182/Untitled294_20220301014540.png"
+    }],
+  "loch_st": [{
+      "name": "<:normalclover:947068381180354601> LOONA **Chuu** - St. Patrick's Day 2022",
+      "idol": "Chuu",
+      "group": "LOONA",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947916495961342032/Untitled294_20220301020037.png"
+    }],
+  "mmhw_st": [{
+      "name": "<:normalclover:947068381180354601> MAMAMOO **Hwasa** - St. Patrick's Day 2022",
+      "idol": "Hwasa",
+      "group": "MAMAMOO",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947916479930712064/Untitled294_20220301015315.png"
+    }],
+  "ncty_st": [{
+      "name": "<:normalclover:947068381180354601> NCT **Taeyong** - St. Patrick's Day 2022",
+      "idol": "Taeyong",
+      "group": "NCT",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947916460859199528/Untitled294_20220301014956.png"
+    }],
+  "soke_st": [{
+      "name": "<:normalclover:947068381180354601> Soloist **KWON EUN BI** - St. Patrick's Day 2022",
+      "idol": "KWON EUN BI",
+      "group": "Soloist",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947374417544089621/Untitled294_20220227140713.png"
+    }],
+  "btjh_st": [{
+      "name": "<:normalclover:947068381180354601> BTS **j-hope** - St. Patrick's Day 2022",
+      "idol": "j-hope",
+      "group": "BTS",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952255716608061500/Untitled294_20220313012332.png"
+    }],
+  "cxsh_st": [{
+      "name": "<:normalclover:947068381180354601> CIX **Seunghun** - St. Patrick's Day 2022",
+      "idol": "Seunghun",
+      "group": "CIX",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/949708310578360340/Untitled294_20220306004110.png"
+    }],
+  "g7jy_st": [{
+      "name": "<:normalclover:947068381180354601> GOT7 **Jinyoung** - St. Patrick's Day 2022",
+      "idol": "Jinyoung",
+      "group": "GOT7",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/949709566004842557/Untitled294_20220306004612.png"
+    }],
+  "sklk_st": [{
+      "name": "<:normalclover:947068381180354601> Stray Kids **Lee Know** - St. Patrick's Day 2022",
+      "idol": "Lee Know",
+      "group": "Stray Kids",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/949710972367540304/Untitled294_20220306005157.png"
+    }],
+  "txta_st": [{
+      "name": "<:normalclover:947068381180354601> TXT **Taehyun** - St. Patrick's Day 2022",
+      "idol": "Taehyun",
+      "group": "TXT",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952467759655170128/Untitled328_20220313152554.png"
+    }],
+  "weji_st": [{
+      "name": "<:normalclover:947068381180354601> Weeekly **Jiyoon** - St. Patrick's Day 2022",
+      "idol": "Jiyoon",
+      "group": "Weeekly",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/948397700813041664/Untitled294_20220302095328.png"
+    }],
+  "aeka_st": [{
+      "name": "<:normalclover:947068381180354601> aespa **Karina** - St. Patrick's Day 2022",
+      "idol": "Karina",
+      "group": "aespa",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/948395848482582528/Untitled294_20220302094456.png"
+    }],
+  "bpje_st": [{
+      "name": "<:normalclover:947068381180354601> BLACKPINK **Jennie** - St. Patrick's Day 2022",
+      "idol": "Jennie",
+      "group": "BLACKPINK",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952570868003921950/Untitled328_20220313221621.png"
+    }],
+  "cxhs_st": [{
+      "name": "<:normalclover:947068381180354601> CIX **Hyunsuk** - St. Patrick's Day 2022",
+      "idol": "Hyunsuk",
+      "group": "CIX",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952573194764701736/Untitled328_20220313222517.png"
+    }],
+  "enhs_st": [{
+      "name": "<:normalclover:947068381180354601> ENHYPEN **Heeseung** - St. Patrick's Day 2022",
+      "idol": "Heeseung",
+      "group": "ENHYPEN",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952570366058962974/Untitled328_20220313221358.png"
+    }],
+  "soye_st": [{
+      "name": "<:normalclover:947068381180354601> Soloist **YENA** - St. Patrick's Day 2022",
+      "idol": "YENA",
+      "group": "Soloist",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952575120000573470/Untitled328_20220313223317.png"
+    }],
+  "tpha_st": [{
+      "name": "<:normalclover:947068381180354601> TEMPEST **Hanbin** - St. Patrick's Day 2022",
+      "idol": "Hanbin",
+      "group": "TEMPEST",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952474796954902558/Untitled328_20220313155144.png"
+    }],
+  "tbq_st": [{
+      "name": "<:normalclover:947068381180354601> The Boyz **Q** - St. Patrick's Day 2022",
+      "idol": "Q",
+      "group": "The Boyz",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952574474069377125/Untitled328_20220313223025.png"
+    }],
+  "trji_st": [{
+      "name": "<:normalclover:947068381180354601> TREASURE **Jihoon** - St. Patrick's Day 2022",
+      "idol": "Jihoon",
+      "group": "TREASURE",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/952478852179972136/Untitled328_20220313160346.png"
+    }],
+  "epbs_st": [{
+      "name": "<:normalclover:947068381180354601> epex **Baeksung** - St. Patrick's Day 2022",
+      "idol": "Baeksung",
+      "group": "epex",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955406968057659432/Untitled294_20220321180547.png"
+    }],
+  "izcy_st": [{
+      "name": "<:normalclover:947068381180354601> ITZY **Chaeryeong** - St. Patrick's Day 2022",
+      "idol": "Chaeryeong",
+      "group": "ITZY",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947921211579572284/Untitled294_20220301021947.png"
+    }],
+  "nmli_st": [{
+      "name": "<:normalclover:947068381180354601> NMIXX **Lily** - St. Patrick's Day 2022",
+      "idol": "Lily",
+      "group": "NMIXX",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955407983972597760/Untitled294_20220321180954.png"
+    }],
+  "twdh_st": [{
+      "name": "<:normalclover:947068381180354601> TWICE **Dahyun** - St. Patrick's Day 2022",
+      "idol": "Dahyun",
+      "group": "TWICE",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947922602511441940/Untitled294_20220301022333.png"
+    }],
+  "twmm_st": [{
+      "name": "<:normalclover:947068381180354601> TWICE **Momo** - St. Patrick's Day 2022",
+      "idol": "Momo",
+      "group": "TWICE",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947922603132223518/Untitled294_20220301022423.png"
+    }],
+  "wjlu_st": [{
+      "name": "<:normalclover:947068381180354601> WJSN **Luda** - St. Patrick's Day 2022",
+      "idol": "Luda",
+      "group": "WJSN",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947925965496004648/Untitled294_20220301023849.png"
+    }],
+  "wjsl_st": [{
+      "name": "<:normalclover:947068381180354601> WJSN **Seola** - St. Patrick's Day 2022",
+      "idol": "Seola",
+      "group": "WJSN",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947925966074822726/Untitled294_20220301023857.png"
+    }],
+  "blsh_st": [{
+      "name": "<:normalclover:947068381180354601> Billlie **Sheon** - St. Patrick's Day 2022",
+      "idol": "Sheon",
+      "group": "Billlie",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955414229312225280/Untitled294_20220321183436.png"
+    }],
+  "dkja_st": [{ 
+      "name": "<:normalclover:947068381180354601> DKZ **Jaechan** - St. Patrick's Day 2022",
+      "idol": "Jaechan",
+      "group": "DKZ",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955420305067745310/Untitled339_20220321185845.png"
+    }],
+  "ivyj_st": [{
+      "name": "<:normalclover:947068381180354601> IVE **Yujin** - St. Patrick's Day 2022",
+      "idol": "Yujin",
+      "group": "IVE",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/947919894970769428/Untitled294_20220301021318.png"
+    }],
+  "k1ye_st": [{
+      "name": "<:normalclover:947068381180354601> Kep1er **Yeseo** - St. Patrick's Day 2022",
+      "idol": "Yeseo",
+      "group": "Kep1er",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955416845496754206/Untitled294_20220321184459.png"
+    }],
+  "scsu_st": [{
+      "name": "<:normalclover:947068381180354601> STAYC **Sumin** - St. Patrick's Day 2022",
+      "idol": "Sumin",
+      "group": "STAYC",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955409888673136711/Untitled294_20220321181732.png"
+    }],
+  "scyo_st": [{
+      "name": "<:normalclover:947068381180354601> STAYC **Yoon** - St. Patrick's Day 2022",
+      "idol": "Yoon",
+      "group": "STAYC",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955409463706271774/Untitled294_20220321181518.png"
+    }],
+  "trye_st": [{
+      "name": "<:normalclover:947068381180354601> TREASURE **Yedam** - St. Patrick's Day 2022",
+      "idol": "Yedam",
+      "group": "TREASURE",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:normalclover:947068381180354601>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/955418050516119632/Untitled294_20220321184947.png"
+    }],
+  "faba_st": [{
+      "name": "<:bahiyyihclover:947069222977167370> Fairy **Huening Bahiyyih** - St. Patrick's Day 2022",
+      "idol": "Huening Bahiyyih",
+      "group": "Fairy",
+      "theme": "St. Patrick's Day 2022",
+      "rarity": "<:bahiyyihclover:947069222977167370>",
+      "image": "https://media.discordapp.net/attachments/947087899952816168/948151087943258132/Untitled294_20220226154940.png"
+    }],
 "bpji_vl": [{
       "name": "<:BB_Valentines2022:949568674765893643> BLACKPINK **Jisoo** - Valentines 2022",
       "idol": "Jisoo",
