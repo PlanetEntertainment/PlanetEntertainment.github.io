@@ -2,6 +2,78 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+  "k1yu_co": [{
+      "name": "`⬜` Kep1er **Yujin** - Common",
+      "idol": "Yujin",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965888701953622046/yujin.png"
+    }],
+  "k1ma_co": [{
+      "name": "`⬜` Kep1er **Mashiro** - Common",
+      "idol": "Mashiro",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965888700842115112/mashiro.png"
+    }],
+  "k1xt_co": [{
+      "name": "`⬜` Kep1er **Xiaoting** - Common",
+      "idol": "Xiaoting",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965889195178590218/xiaoting.png"
+    }],
+  "k1ch_co": [{
+      "name": "`⬜` Kep1er **Chaehyun** - Common",
+      "idol": "Chaehyun",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965884951188869150/chaehyun.png"
+    }],
+  "k1da_co": [{
+      "name": "`⬜` Kep1er **Dayeon** - Common",
+      "idol": "Dayeon",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965884952099061810/dayeon.png"
+    }],
+  "k1hk_co": [{
+      "name": "`⬜` Kep1er **Hikaru** - Common",
+      "idol": "Hikaru",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965888700263305236/hikaru.png"
+    }],
+  "k1ba_co": [{
+      "name": "`⬜` Kep1er **Huening Bahiyyih** - Common",
+      "idol": "Huening Bahiyyih",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965888699583840296/bahiyyih.png"
+    }],
+  "k1yo_co": [{
+      "name": "`⬜` Kep1er **Youngeun** - Common",
+      "idol": "Youngeun",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965888701353840650/youngeun.png"
+    }],
+  "k1ye_co": [{
+      "name": "`⬜` Kep1er **Yeseo** - Common",
+      "idol": "Yeseo",
+      "group": "Kep1er",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://media.discordapp.net/attachments/965884887708086284/965898670673379398/yeseo.png"
+    }],
   "bpli_st": [{
       "name": "<:normalclover:947068381180354601> BLACKPINK **Lisa** - St. Patrick's Day 2022",
       "idol": "Lisa",
