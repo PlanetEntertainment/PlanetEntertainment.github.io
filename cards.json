@@ -9313,46 +9313,48 @@
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057742429266116648/Goeun_Common.png"
 }],
-"dcdo_co": [{
-  "name": "`⬜` Dreamcatcher **Dosie** - Common",
-  "idol": "Dosie",
-  "group": "Dreamcatcher",
-  "theme": "Common",
-  "rarity": "`⬜`",
-  "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057742429798801508/Dosie_Common.png"
+"pkdo_co": [{
+    "name": "`⬜` PURPLE KISS **Dosie** - Common",
+    "idol": "Dosie",
+    "group": "PURPLE KISS",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057742429798801508/Dosie_Common.png"
 }],
-"dcir_co": [{
-  "name": "`⬜` Dreamcatcher **Ireh** - Common",
-  "idol": "Ireh",
-  "group": "Dreamcatcher",
-  "theme": "Common",
-  "rarity": "`⬜`",
-  "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057853452576899133/Ireh_Common.png"
+"pkir_co": [{
+    "name": "`⬜` PURPLE KISS **Ireh** - Common",
+    "idol": "Ireh",
+    "group": "PURPLE KISS",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057853452576899133/Ireh_Common.png"
 }],
-"dcyu_co": [{
-  "name": "`⬜` Dreamcatcher **Yuki** - Common",
-  "idol": "Yuki",
-  "group": "Dreamcatcher",
-  "theme": "Common",
-  "rarity": "`⬜`",
-  "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057742430742519849/Yuki_Common.png"
+"pkyu_co": [{
+    "name": "`⬜` PURPLE KISS **Yuki** - Common",
+    "idol": "Yuki",
+    "group": "PURPLE KISS",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057742430742519849/Yuki_Common.png"
 }],
-"dcch_co": [{
-  "name": "`⬜` Dreamcatcher **Chaein** - Common",
-  "idol": "Chaein",
-  "group": "Dreamcatcher",
-  "theme": "Common",
-  "rarity": "`⬜`",
-  "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057853452165853274/Chaein_Common.png"
+"pkch_co": [{
+    "name": "`⬜` PURPLE KISS **Chaein** - Common",
+    "idol": "Chaein",
+    "group": "PURPLE KISS",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057853452165853274/Chaein_Common.png"
 }],
-"dcsw_co": [{
-  "name": "`⬜` Dreamcatcher **Swan** - Common",
-  "idol": "Swan",
-  "group": "Dreamcatcher",
-  "theme": "Common",
-  "rarity": "`⬜`",
-  "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057742431438774362/Swan_Common.png"
+"pksw_co": [{
+    "name": "`⬜` PURPLE KISS **Swan** - Common",
+    "idol": "Swan",
+    "group": "PURPLE KISS",
+    "theme": "Common",
+    "rarity": "`⬜`",
+    "image": "https://cdn.discordapp.com/attachments/1057742230217043978/1057742431438774362/Swan_Common.png"
 }],
+
+
 "f9sr_co": [{
   "name": "`⬜` fromis_9 **Saerom** - Common",
   "idol": "Saerom",
