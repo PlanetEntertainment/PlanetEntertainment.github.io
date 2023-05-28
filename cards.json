@@ -2,6 +2,14 @@
 "cardbook": [{
   "image": "https://cdn.discordapp.com/attachments/895118922297274381/1079925213199880253/New_Project_37_5D776DA.png"
 }],
+"soke_le": [{
+      "name": "`⬛` Soloist **KWON EUN BI** - Lethality",
+      "idol": "KWON EUN BI",
+      "group": "Soloist",
+      "theme": "Lethality",
+      "rarity": "`⬛`",
+      "image": "https://media.discordapp.net/attachments/1083996251084828702/1083996290960080977/CONCEPT_BAHIYYIH_XML_6AD9B29.png"
+}],
   "k1yu_co": [{
     "name": "`⬜` Kep1er **Yujin** - Common",
     "idol": "Yujin",
@@ -5052,7 +5060,7 @@
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/965805466322087956/965805574858088508/theo.png"
 }],
-"p1ji": [{
+"p1ji_co": [{
   "name": "`⬜` P1Harmony **Jiung** - Common",
   "idol": "Jiung",
   "group": "P1Harmony",
