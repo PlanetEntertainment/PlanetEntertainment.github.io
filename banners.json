@@ -1,7 +1,7 @@
 {
   "EXTPB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> EXO - Don't Mess Up My Tempo",
+      "name": "<:BB_ban1:1126097219985092683> **EXO** - Don't Mess Up My Tempo",
       "group": "EXO",
       "theme": "Don't Mess Up My Tempo",
        "rarity": "<:BB_ban1:1126097219985092683>",
@@ -10,7 +10,7 @@
   ],
   "SVFAB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> SEVENTEEN - Face The Sun",
+      "name": "<:BB_ban1:1126097219985092683> **SEVENTEEN** - Face The Sun",
       "group": "SEVENTEEN",
       "theme": "Face The Sun",
        "rarity": "<:BB_ban1:1126097219985092683>",      
@@ -19,7 +19,7 @@
   ],
   "TRFSB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> TREASURE - The First Step : TREASURE Effect",
+      "name": "<:BB_ban1:1126097219985092683> **TREASURE** - The First Step : TREASURE Effect",
       "group": "TREASURE",
       "theme": "The First Step : TREASURE Effect",
        "rarity": "<:BB_ban1:1126097219985092683>",     
@@ -28,7 +28,7 @@
   ],
   "X1QLB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> X1 - Emergency : Quantum Leap",
+      "name": "<:BB_ban1:1126097219985092683> **X1** - Emergency : Quantum Leap",
       "group": "X1",
       "theme": "Emergency : Quantum Leap",
        "rarity": "<:BB_ban1:1126097219985092683>",      
@@ -37,7 +37,7 @@
   ],
   "SCR2B1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> STAYC - Young-Luv.com",
+      "name": "<:BB_ban1:1126097219985092683> **STAYC** - Young-Luv.com",
       "group": "STAYC",
       "theme": "Young-Luv.com",
        "rarity": "<:BB_ban1:1126097219985092683>",      
@@ -46,7 +46,7 @@
   ],
   "NMAMB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> NMIXX - AD MARE",
+      "name": "<:BB_ban1:1126097219985092683> **NMIXX** - AD MARE",
       "group": "NMIXX",
       "theme": "AD MARE",
        "rarity": "<:BB_ban1:1126097219985092683>",      
@@ -55,7 +55,7 @@
   ],
   "GFMGB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> GFRIEND - 回 : Walpurgis Night",
+      "name": "<:BB_ban1:1126097219985092683> **GFRIEND** - 回 : Walpurgis Night",
       "group": "GFRIEND",
       "theme": "回 : Walpurgis Night",
        "rarity": "<:BB_ban1:1126097219985092683>",      
@@ -64,7 +64,7 @@
   ],
   "K1TSB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> Kep1er - TROUBLE SHOOTER",
+      "name": "<:BB_ban1:1126097219985092683> **Kep1er** - TROUBLE SHOOTER",
       "group": "Kep1er",
       "theme": "TROUBLE SHOOTER",
        "rarity": "<:BB_ban1:1126097219985092683>",      
@@ -73,7 +73,7 @@
   ],
   "BBPHB1": [
     {
-      "name": "<:BB_ban1:1126097219985092683> Bahiyyih Bot - Placeholder",
+      "name": "<:BB_ban1:1126097219985092683> **Bahiyyih Bot** - Placeholder",
       "group": "Bahiyyih Bot",
       "theme": "Placeholder",
        "rarity": "<:BB_ban1:1126097219985092683>",      
@@ -81,28 +81,28 @@
     }
   ],
   "AENLB1": [{
-          "name": "<:BB_ban1:1126097219985092683> aespa - Next Level",
+          "name": "<:BB_ban1:1126097219985092683> **aespa** - Next Level",
           "group": "aespa",
           "theme": "Next Level",
           "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058031884560519209/1058031925509509211/Aespa_Next_Level_Banner.png"
     }],
     "XHHDB1": [{
-          "name": "<:BB_ban1:1126097219985092683> Xdinary Hereos - Happy ||Death|| Day",
-          "group": "Xdinary Hereos",
+          "name": "<:BB_ban1:1126097219985092683> **Xdinary Heroes** - Happy ||Death|| Day",
+          "group": "Xdinary Heroes",
           "theme": "Happy ||Death|| Day",
           "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058032342846947449/1058348921895784489/xdinaryheroes_hdd_banner.png"
     }],
     "TWT4B1": [{
-          "name": "<:BB_ban1:1126097219985092683> TWICE - #TWICE4",
+          "name": "<:BB_ban1:1126097219985092683> **TWICE** - #TWICE4",
           "group": "TWICE",
           "theme": "#TWICE4",
           "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058031507043790918/1058068705126396024/Twice_Twice4_Banner_1.png"
     }],
     "TXBHB1": [{
-          "name": "<:BB_ban1:1126097219985092683> TXT - Minisode1 : Blue Hour",
+          "name": "<:BB_ban1:1126097219985092683> **TXT** - Minisode1 : Blue Hour",
           "group": "TXT",
           "theme": "Minisode1 : Blue Hour",
           "rarity": "<:BB_ban1:1126097219985092683>",          
