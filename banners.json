@@ -1,5 +1,5 @@
 {
-    "aenl1": [{
+    "BN0006": [{
           "name": "aespa - Next Level",
           "group": "aespa",
           "theme": "Next Level",
@@ -25,9 +25,9 @@
           "image": "https://cdn.discordapp.com/attachments/1058032342846947449/1058348921895784489/xdinaryheroes_hdd_banner.png"
     }],
     "BN0004": [{
-          "name": "TWICE - #Twice4",
+          "name": "TWICE - #TWICE4",
           "group": "TWICE",
-          "theme": "#Twice4",
+          "theme": "#TWICE4",
           "image": "https://cdn.discordapp.com/attachments/1058031507043790918/1058068705126396024/Twice_Twice4_Banner_1.png"
     }],
     "BN0005": [{
