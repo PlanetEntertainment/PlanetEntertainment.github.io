@@ -1,39 +1,111 @@
 {
-    "BN0006": [{
-          "name": "aespa - Next Level",
+  "EXTPB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> EXO - Don't Mess Up My Tempo",
+      "group": "EXO",
+      "theme": "Don't Mess Up My Tempo",
+       "rarity": "<:BB_ban1:1126097219985092683>",
+      "image": "https://cdn.discordapp.com/attachments/1057953820405137428/1058018745685131284/exo_dontmessupmytempo_banner.png"
+    }
+  ],
+  "SVFAB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> SEVENTEEN - Face The Sun",
+      "group": "SEVENTEEN",
+      "theme": "Face The Sun",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058028653264515132/1058028700215554129/Seventeen_Face_the_Sun_Banner2.png"
+    }
+  ],
+  "TRFSB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> TREASURE - The First Step : TREASURE Effect",
+      "group": "TREASURE",
+      "theme": "The First Step : TREASURE Effect",
+       "rarity": "<:BB_ban1:1126097219985092683>",     
+      "image": "https://cdn.discordapp.com/attachments/1058187175805591562/1058187293741043732/TRSRTFSTE.png"
+    }
+  ],
+  "X1QLB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> X1 - Emergency : Quantum Leap",
+      "group": "X1",
+      "theme": "Emergency : Quantum Leap",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058453220936130641/1058453303404531842/x1_ql_2.png"
+    }
+  ],
+  "SCR2B1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> STAYC - Young-Luv.com",
+      "group": "STAYC",
+      "theme": "Young-Luv.com",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058031320455991296/1058031401213120552/StayC_Young-Luv_Banner.png"
+    }
+  ],
+  "NMAMB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> NMIXX - AD MARE",
+      "group": "NMIXX",
+      "theme": "AD MARE",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058261747909271572/1058261804490444830/Photopea_29_Dec_2022_9_46_26_pm_.png"
+    }
+  ],
+  "GFMGB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> GFRIEND - 回 : Walpurgis Night",
+      "group": "GFRIEND",
+      "theme": "回 : Walpurgis Night",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058033942604824596/1058035489954869318/Gfriend_Walpurgis_Night_Banner.png"
+    }
+  ],
+  "K1TSB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> Kep1er - TROUBLE SHOOTER",
+      "group": "Kep1er",
+      "theme": "TROUBLE SHOOTER",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1130481492527677571/1130481726032982116/troubleshooterk1.png"
+    }
+  ],
+  "BBPHB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> Bahiyyih Bot - Placeholder",
+      "group": "Bahiyyih Bot",
+      "theme": "Placeholder",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1076337968064770068/1117288975275655198/bahiyyih.png"
+    }
+  ],
+  "AENLB1": [{
+          "name": "<:BB_ban1:1126097219985092683> aespa - Next Level",
           "group": "aespa",
           "theme": "Next Level",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058031884560519209/1058031925509509211/Aespa_Next_Level_Banner.png"
     }],
-    "BN0001": [{
-          "name": "aespa - Savage",
-          "group": "aespa",
-          "theme": "Savage",
-          "image": "https://cdn.discordapp.com/attachments/1058025325646336041/1058025367094439966/aespa_Savage_banner.png"
-    }],
-    "BN0002": [{
-          "name": "NCT 127 - #127 Neo Zone",
-          "group": "NCT 127",
-          "theme": "#127 Neo Zone",
-          "image": "https://cdn.discordapp.com/attachments/1058350762448650303/1058350821835821087/nct127_neozone_banner.png"
-    }],
-    "BN0003": [
-        {
-          "name": "Xdinary Hereos - Happy ||Death|| Day",
+    "XHHDB1": [{
+          "name": "<:BB_ban1:1126097219985092683> Xdinary Hereos - Happy ||Death|| Day",
           "group": "Xdinary Hereos",
           "theme": "Happy ||Death|| Day",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058032342846947449/1058348921895784489/xdinaryheroes_hdd_banner.png"
     }],
-    "BN0004": [{
-          "name": "TWICE - #TWICE4",
+    "TWT4B1": [{
+          "name": "<:BB_ban1:1126097219985092683> TWICE - #TWICE4",
           "group": "TWICE",
           "theme": "#TWICE4",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058031507043790918/1058068705126396024/Twice_Twice4_Banner_1.png"
     }],
-    "BN0005": [{
-          "name": "TXT - Minisode1 : Blue Hour",
+    "TXBHB1": [{
+          "name": "<:BB_ban1:1126097219985092683> TXT - Minisode1 : Blue Hour",
           "group": "TXT",
           "theme": "Minisode1 : Blue Hour",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058020969790316654/1058021033384345660/TXT_Blue_Hour_Banner.png"
     }]
 }
