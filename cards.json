@@ -16,6 +16,94 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"soch_qr": [{
+  "name": "`⬛` Soloist **CHUNG HA** - Querencia",
+  "idol": "CHUNG HA",
+  "group": "Soloist",
+  "theme": "Querencia",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/979077365504299018/979077882263535676/soch_bi.png"
+}],
+"soal_gv": [{
+  "name": "`⬛` Soloist **AleXa** - Girls Gone Vogue",
+  "idol": "AleXa",
+  "group": "Soloist",
+  "theme": "Girls Gone Vogue",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1056011702950445076/1056011834513174528/Alexa_Girls_Gone_Vogue_Concept.png"
+}],
+"sohs_sp": [{
+  "name": "`⬛` Soloist **HOSHI** - Spider",
+  "idol": "HOSHI",
+  "group": "Soloist",
+  "theme": "Spider",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1083096922929250304/1083097275313704960/Hoshi_spider.png?width=432&height=612"
+}],
+"lgjy_lw": [{
+  "name": "`⬛` LIGHTSUM **Juhyeon** - Light a Wish",
+  "idol": "Juhyeon",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980824456446484541/lightsumjuhyeon-concept.png"
+}],
+"lgsa_lw": [{
+  "name": "`⬛` LIGHTSUM **Sangah** - Light a Wish",
+  "idol": "Sangah",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980824485559173150/lightsumsangah-concept.png"
+}],
+"lgch_lw": [{
+  "name": "`⬛` LIGHTSUM **Chowon** - Light a Wish",
+  "idol": "Chowon",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980824508623638609/lightsumchowon-concept.png"
+}],
+"lgny_lw": [{
+  "name": "`⬛` LIGHTSUM **Nayoung** - Light a Wish",
+  "idol": "Nayoung",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980824564630192128/lightsumnayoung-concept.png"
+}],
+"lghn_lw": [{
+  "name": "`⬛` LIGHTSUM **Hina** - Light a Wish",
+  "idol": "Hina",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980824738890919976/lightsumhina-concept.png"
+}],
+"lgyj_lw": [{
+  "name": "`⬛` LIGHTSUM **Yujeong** - Light a Wish",
+  "idol": "Yujeong",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980825329331499088/lightsumyujeong-concept.png"
+}],
+"lghy_lw": [{
+  "name": "`⬛` LIGHTSUM **Huiyeon** - Light a Wish",
+  "idol": "Huiyeon",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980825857662779433/lightsumhuiyeon-concept.png"
+}],
+"lgji_lw": [{
+  "name": "`⬛` LIGHTSUM **Jian** - Light a Wish",
+  "idol": "Jian",
+  "group": "LIGHTSUM",
+  "theme": "Light a Wish",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/980821319367135284/980825884284026920/lightsumjian-concept.png"
+}],
 "mxsh_ff": [
     {
   "name": "`⬛` Monsta X **Shownu** - Follow - Find You",
