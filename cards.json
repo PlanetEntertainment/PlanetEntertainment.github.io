@@ -16,6 +16,46 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"njmj_om": [{
+  "name": "`🟨` NewJeans **Minji** - New Jeans",
+  "idol": "Minji",
+  "group": "NewJeans",
+  "theme": "New Jeans",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289149791674368/MinjiNewJeans.png"
+}],
+"njha_om": [{
+  "name": "`🟨` NewJeans **Hanni** - New Jeans",
+  "idol": "Hanni",
+  "group": "NewJeans",
+  "theme": "New Jeans",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289150152396810/HanniNewJeans.png"
+}],
+"njda_om": [{
+  "name": "`🟨` NewJeans **Danielle** - New Jeans",
+  "idol": "Danielle",
+  "group": "NewJeans",
+  "theme": "New Jeans",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289150479544424/DanielleNewJeans.png"
+}],
+"njhr_om": [{
+  "name": "`🟨` NewJeans **Haerin** - New Jeans",
+  "idol": "Haerin",
+  "group": "NewJeans",
+  "theme": "New Jeans",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289150743781457/HaerinNewJeans.png"
+}],
+"njhy_om": [{
+  "name": "`🟨` NewJeans **Hyein** - New Jeans",
+  "idol": "Hyein",
+  "group": "NewJeans",
+  "theme": "New Jeans",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289150999646218/HyeinNewJeans.png"
+}],
 "soch_qr": [{
   "name": "`⬛` Soloist **CHUNG HA** - Querencia",
   "idol": "CHUNG HA",
@@ -23,6 +63,22 @@
   "theme": "Querencia",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/979077365504299018/979077882263535676/soch_bi.png"
+}],
+"sohw_co": [{
+  "name": "`⬜` Soloist **HWASA** - Common",
+  "idol": "HWASA",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/955004001928216610/1083139751403593752/Hwasa_Common.png"
+}],
+"soen_co": [{
+  "name": "`⬜` Soloist **Eric Nam** - Common",
+  "idol": "Eric Nam",
+  "group": "Soloist",
+  "theme": "Common",
+  "rarity": "`⬜`",
+  "image": "https://media.discordapp.net/attachments/872889698853470221/1083149514115907634/Eric_Nam_Common.png"
 }],
 "soal_gv": [{
   "name": "`⬛` Soloist **AleXa** - Girls Gone Vogue",
