@@ -16,7 +16,7 @@
   "theme": "None",
   "rarity": "❌"
 }],
-"njmj_om": [{
+"njmj_nj": [{
   "name": "`🟨` NewJeans **Minji** - New Jeans",
   "idol": "Minji",
   "group": "NewJeans",
@@ -24,7 +24,7 @@
   "rarity": "`🟨`",
   "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289149791674368/MinjiNewJeans.png"
 }],
-"njha_om": [{
+"njha_nj": [{
   "name": "`🟨` NewJeans **Hanni** - New Jeans",
   "idol": "Hanni",
   "group": "NewJeans",
@@ -32,7 +32,7 @@
   "rarity": "`🟨`",
   "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289150152396810/HanniNewJeans.png"
 }],
-"njda_om": [{
+"njda_nj": [{
   "name": "`🟨` NewJeans **Danielle** - New Jeans",
   "idol": "Danielle",
   "group": "NewJeans",
@@ -40,7 +40,7 @@
   "rarity": "`🟨`",
   "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289150479544424/DanielleNewJeans.png"
 }],
-"njhr_om": [{
+"njhr_nj": [{
   "name": "`🟨` NewJeans **Haerin** - New Jeans",
   "idol": "Haerin",
   "group": "NewJeans",
@@ -48,7 +48,7 @@
   "rarity": "`🟨`",
   "image": "https://cdn.discordapp.com/attachments/1079289136487342100/1079289150743781457/HaerinNewJeans.png"
 }],
-"njhy_om": [{
+"njhy_nj": [{
   "name": "`🟨` NewJeans **Hyein** - New Jeans",
   "idol": "Hyein",
   "group": "NewJeans",
@@ -65,8 +65,8 @@
   "image": "https://cdn.discordapp.com/attachments/979077365504299018/979077882263535676/soch_bi.png"
 }],
 "sohw_co": [{
-  "name": "`⬜` Soloist **HWASA** - Common",
-  "idol": "HWASA",
+  "name": "`⬜` Soloist **Hwa Sa** - Common",
+  "idol": "Hwa Sa",
   "group": "Soloist",
   "theme": "Common",
   "rarity": "`⬜`",
