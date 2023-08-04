@@ -88,6 +88,70 @@
   "rarity": "`🟨`",
   "image": "https://cdn.discordapp.com/attachments/1134795991724343397/1134797399978692648/Untitled1430_20230729175826.png"
 }],
+"exsu_ex": [{
+  "name": "`🟨` EXO **Suho** - EXIST",
+  "idol": "Suho",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577316152156240/SuhoCreamSodaSpecial.png"
+}],
+"exxm_ex": [{
+  "name": "`🟨` EXO **Xiumin** - EXIST",
+  "idol": "Xiumin",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577316760338502/XiuminCreamSodaSpecial.png"
+}],
+"exbh_ex": [{
+  "name": "`🟨` EXO **Baekhyun** - EXIST",
+  "idol": "Baekhyun",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577317393670224/BaekhyunCreamSodaSpecial.png"
+}],
+"excy_ex": [{
+  "name": "`🟨` EXO **Chanyeol** - EXIST",
+  "idol": "Chanyeol",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577317800525837/ChanyeolCreamSodaSpecial.png"
+}],
+"exch_ex": [{
+  "name": "`🟨` EXO **Chen** - EXIST",
+  "idol": "Chen",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577318593241141/ChenCreamSodaSpecial.png"
+}],
+"exdo_ex": [{
+  "name": "`🟨` EXO **D.O** - EXIST",
+  "idol": "D.O",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577319138496574/D.OCreamSodaSpecial.png"
+}],
+"exka_ex": [{
+  "name": "`🟨` EXO **Kai** - EXIST",
+  "idol": "Kai",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577319604068382/KaiCreamSodaSpecial.png"
+}],
+"exsh_ex": [{
+  "name": "`🟨` EXO **Sehun** - EXIST",
+  "idol": "Sehun",
+  "group": "EXO",
+  "theme": "EXIST",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577319927025744/SehunCreamSodaSpecial.png"
+}],
 "csrdu_co": [
     {
   "name": "`⬜` CSR **Duna** - Common",
