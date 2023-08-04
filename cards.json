@@ -16,6 +16,78 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"sowo_ob": [{
+  "name": "`🟨` Soloist **WONHO** - OBSESSION",
+  "idol": "WONHO",
+  "group": "Soloist",
+  "theme": "OBSESSION",
+  "rarity": "`🟨`",
+  "image": "https://media.discordapp.net/attachments/872889698853470221/1131925618330714162/Wonho_-_Obsession.png?width=739&height=1047"
+}],
+"sowd_wo": [{
+  "name": "`🟨` Soloist **WOODZ** - WOOPS!",
+  "idol": "WOODZ",
+  "group": "Soloist",
+  "theme": "WOOPS!",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/955004001928216612/1134496888968724591/Woodz_-_Woops_2.png"
+}],
+"soty_wk": [{
+  "name": "`🟨` Soloist **TAEYEON** - Weekend",
+  "idol": "TAEYEON",
+  "group": "Soloist",
+  "theme": "Weekend",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1135896710909010021/1136209002808758312/TaeyeonWeekendSpecial.png"
+}],
+"solc_hr": [{
+  "name": "`🟨` Soloist **LEE CHAEYEON** - HUSH RUSH",
+  "idol": "LEE CHAEYEON",
+  "group": "Soloist",
+  "theme": "HUSH RUSH",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1079289866937978881/1079289876400308315/LeeChaeyeonHushRush.png"
+}],
+"gisy_if": [{
+  "name": "`🟨` (G)I-DLE **Soyeon** - I Feel",
+  "idol": "Soyeon",
+  "group": "(G)I-DLE",
+  "theme": "I Feel",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1134795991724343397/1134797398619721789/Untitled1430_20230729175820.png"
+}],
+"gimy_if": [{
+  "name": "`🟨` (G)I-DLE **Miyeon** - I Feel",
+  "idol": "Miyeon",
+  "group": "(G)I-DLE",
+  "theme": "I Feel",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1134795991724343397/1134797399034966066/Untitled1430_20230729175834.png"
+}],
+"gimi_if": [{
+  "name": "`🟨` (G)I-DLE **Minnie** - I Feel",
+  "idol": "Minnie",
+  "group": "(G)I-DLE",
+  "theme": "I Feel",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1134795991724343397/1134797399345336374/Untitled1430_20230729175831.png"
+}],
+"giyq_if": [{
+  "name": "`🟨` (G)I-DLE **Yuqi** - I Feel",
+  "idol": "Yuqi",
+  "group": "(G)I-DLE",
+  "theme": "I Feel",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1134795991724343397/1134797399643140117/Untitled1430_20230729175822.png"
+}],
+"gish_if": [{
+  "name": "`🟨` (G)I-DLE **Shuhua** - I Feel",
+  "idol": "Shuhua",
+  "group": "(G)I-DLE",
+  "theme": "I Feel",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1134795991724343397/1134797399978692648/Untitled1430_20230729175826.png"
+}],
 "csrdu_co": [
     {
   "name": "`⬜` CSR **Duna** - Common",
