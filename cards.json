@@ -208,6 +208,116 @@
   "rarity": "`🟨`",
   "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235816448966726/Photopea_2_Aug_2023_5_07_41_pm_.png"
 }],
+  "oxjh_co": [
+    {
+      "name": "`⬜` OMEGA X **Jaehan** - Common",
+      "idol": "Jaehan",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782188274061412/jaehan_79B1C79.png"
+    }
+  ],
+  "oxhc_co": [
+    {
+      "name": "`⬜` OMEGA X **Hwichan** - Common",
+      "idol": "Hwichan",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782233253789716/hwichan_354F1FD.png"
+    }
+  ],
+  "oxse_co": [
+    {
+      "name": "`⬜` OMEGA X **Sebin** - Common",
+      "idol": "Sebin",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782266535583836/sebin_DF5BD5C.png"
+    }
+  ],
+  "oxha_co": [
+    {
+      "name": "`⬜` OMEGA X **Hangyeom** - Common",
+      "idol": "Hangyeom",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782332046417940/hangyeom_9E1D90D.png"
+    }
+  ],
+  "oxtd_co": [
+    {
+      "name": "`⬜` OMEGA X **Taedong** - Common",
+      "idol": "Taedong",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782372643090533/taedong_5DBD5B4.png"
+    }
+  ],
+  "oxxe_co": [
+    {
+      "name": "`⬜` OMEGA X **Xen** - Common",
+      "idol": "Xen",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782399075598336/xen_3F4C68F.png"
+    }
+  ],
+  "oxjy_co": [
+    {
+      "name": "`⬜` OMEGA X **Jehyun** - Common",
+      "idol": "Jehyun",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782422773420042/jehyun_45A8218.png"
+    }
+  ],
+  "oxke_co": [
+    {
+      "name": "`⬜` OMEGA X **Kevin** - Common",
+      "idol": "Kevin",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782458966057010/kevin_63116D0.png"
+    }
+  ],
+  "oxju_co": [
+    {
+      "name": "`⬜` OMEGA X **Junghoon** - Common",
+      "idol": "Junghoon",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782483515322378/junghoon_81C21FF.png"
+    }
+  ],
+  "oxhy_co": [
+    {
+      "name": "`⬜` OMEGA X **Hyuk** - Common",
+      "idol": "Hyuk",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782511864610948/hyuk_10EEA00.png"
+    }
+  ],
+  "oxye_co": [
+    {
+      "name": "`⬜` OMEGA X **Yechan** - Common",
+      "idol": "Yechan",
+      "group": "OMEGA X",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782539387637770/yechan_5AEE3B5.png"
+    }
+  ],
 "csrdu_co": [
     {
   "name": "`⬜` CSR **Duna** - Common",
