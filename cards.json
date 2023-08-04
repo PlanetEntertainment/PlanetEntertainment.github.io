@@ -152,6 +152,62 @@
   "rarity": "`🟨`",
   "image": "https://media.discordapp.net/attachments/1136576830124593173/1136577319927025744/SehunCreamSodaSpecial.png"
 }],
+"ndma_bx": [{
+  "name": "`🟨` NCT DREAM **Mark** - Beatbox",
+  "idol": "Mark",
+  "group": "NCT DREAM",
+  "theme": "Beatbox",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235412449402920/Photopea_2_Aug_2023_5_30_30_pm__4.png"
+}],
+"ndre_bx": [{
+  "name": "`🟨` NCT DREAM **Renjun** - Beatbox",
+  "idol": "Renjun",
+  "group": "NCT DREAM",
+  "theme": "Beatbox",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235443994767400/Photopea_2_Aug_2023_5_30_30_pm__1.png"
+}],
+"ndje_bx": [{
+  "name": "`🟨` NCT DREAM **Jeno** - Beatbox",
+  "idol": "Jeno",
+  "group": "NCT DREAM",
+  "theme": "Beatbox",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235699071361054/Photopea_2_Aug_2023_5_09_57_pm_.png"
+}],
+"ndhc_bx": [{
+  "name": "`🟨` NCT DREAM **Haechan** - Beatbox",
+  "idol": "Haechan",
+  "group": "NCT DREAM",
+  "theme": "Beatbox",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235984464379964/Photopea_2_Aug_2023_5_30_30_pm_.png"
+}],
+"ndjm_bx": [{
+  "name": "`🟨` NCT DREAM **Jaemin** - Beatbox",
+  "idol": "Jaemin",
+  "group": "NCT DREAM",
+  "theme": "Beatbox",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235756155834408/Photopea_2_Aug_2023_5_22_38_pm_.png"
+}],
+"ndch_bx": [{
+  "name": "`🟨` NCT DREAM **Chenle** - Beatbox",
+  "idol": "Chenle",
+  "group": "NCT DREAM",
+  "theme": "Beatbox",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235798044364800/Photopea_2_Aug_2023_5_20_00_pm_.png"
+}],
+"ndji_bx": [{
+  "name": "`🟨` NCT DREAM **Jisung** - Beatbox",
+  "idol": "Jisung",
+  "group": "NCT DREAM",
+  "theme": "Beatbox",
+  "rarity": "`🟨`",
+  "image": "https://cdn.discordapp.com/attachments/1136235254697426984/1136235816448966726/Photopea_2_Aug_2023_5_07_41_pm_.png"
+}],
 "csrdu_co": [
     {
   "name": "`⬜` CSR **Duna** - Common",
