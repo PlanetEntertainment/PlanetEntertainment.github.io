@@ -108,12 +108,12 @@
           "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058020969790316654/1058021033384345660/TXT_Blue_Hour_Banner.png"
     }],
-    "SM23B1": [
+    "SM23EV": [
       {
-        "name": "Special - Summer 2023",
-        "group": "Special",
-        "theme": "Summer 2023",
-        "rarity": "<:BB_ban1:1126097219985092683>",
+        "name": "Bahiyyih Bot - Summer 2023 (Event)",
+        "group": "Bahiyyih Bot",
+        "theme": "Summer 2023 (Event)",
+        "rarity": "<:BB_Summer2023:949564660326203393>",
         "image": "https://cdn.discordapp.com/attachments/1137746181200543774/1137784850988933140/Summer_2023_Banner.png"
       }
     ]
