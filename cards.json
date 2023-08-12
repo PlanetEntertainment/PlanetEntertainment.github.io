@@ -16,6 +16,256 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"dcsu_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> Dreamcatcher **SuA** - Summer 2023",
+      "idol": "SuA",
+      "group": "Dreamcatcher",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114783661539429/Summer_-_Sua.png"
+    }
+  ],
+  "wjyr_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> WJSN **Yeoreum** - Summer 2023",
+      "idol": "Yeoreum",
+      "group": "WJSN",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114849822490694/Summer_-_Yeoreum.png"
+    }
+  ],
+  "k1yo_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> Kep1er **Youngeun** - Summer 2023",
+      "idol": "Youngeun",
+      "group": "Kep1er",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114896949694564/Summer_-_Youngeun.png"
+    }
+  ],
+  "bpji_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> BLACKPINK **Jisoo** - Summer 2023",
+      "idol": "Jisoo",
+      "group": "BLACKPINK",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114936455843980/Summer_-_Jisoo.png"
+    }
+  ],
+  "g7ma_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> GOT7 **Mark** - Summer 2023",
+      "idol": "Mark",
+      "group": "GOT7",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114973428629584/Summer_-_Mark.png"
+    }
+  ],
+  "sohy_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> Soloist **HYOLYN** - Summer 2023",
+      "idol": "HYOLYN",
+      "group": "Soloist",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138239831311405117/Summer_-_Hyolyn.png"
+    }
+  ],
+  "asew_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> ASTRO **Cha Eunwoo** - Summer 2023",
+      "idol": "Cha Eunwoo",
+      "group": "ASTRO",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138641472476958840/Summer_-_Cha_Eunwoo_2.png"
+    }
+  ],
+  "trhs_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> TREASURE **Hyunsuk** - Summer 2023",
+      "idol": "Hyunsuk",
+      "group": "TREASURE",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138822371327868979/Summer_-_Hyunsuk.png"
+    }
+  ],
+  "ivyj_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> IVE **Yujin** - Summer 2023",
+      "idol": "Yujin",
+      "group": "IVE",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139405761362002012/Untitled80_20230811114459.png"
+    }
+  ],
+  "loji_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> LOONA **Jinsoul** - Summer 2023",
+      "idol": "Jinsoul",
+      "group": "LOONA",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139468234379235338/summerforme_3.png"
+    }
+  ],
+  "tbju_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> The Boyz **Juyeon** - Summer 2023",
+      "idol": "Juyeon",
+      "group": "The Boyz",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139468298174615613/summerforme_4.png"
+    }
+  ],
+  "atyu_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> ATEEZ **Yunho** - Summer 2023",
+      "idol": "Yunho",
+      "group": "ATEEZ",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139562806816018463/Summer_-_Yunho.png"
+    }
+  ],
+  "onle_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> ONEUS **Leedo** - Summer 2023",
+      "idol": "Leedo",
+      "group": "ONEUS",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139562837304422420/Summer_-_Leedo.png"
+    }
+  ],
+  "btsg_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> BTS **Suga** - Summer 2023",
+      "idol": "Suga",
+      "group": "BTS",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139729765545291846/Summer_-_Suga_2.png"
+    }
+  ],
+  "izye_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> ITZY **Yeji** - Summer 2023",
+      "idol": "Yeji",
+      "group": "ITZY",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139569278144757791/Summer_-_Yeji.png"
+    }
+  ],
+  "twjy_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> TWICE **Jeongyeon** - Summer 2023",
+      "idol": "Jeongyeon",
+      "group": "TWICE",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139600439281725591/summerforme_1_1_1_1_1_2.png"
+    }
+  ],
+  "a6wo_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> AB6IX **Woong** - Summer 2023",
+      "idol": "Woong",
+      "group": "AB6IX",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139602081523707915/summerforme_1_1_5.png"
+    }
+  ],
+  "csri_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> CLASS:y **Riwon** - Summer 2023",
+      "idol": "Riwon",
+      "group": "CLASS:y",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139602463037595808/summerforme_1_1_3.png"
+    }
+  ],
+  "txye_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> TXT **Yeonjun** - Summer 2023",
+      "idol": "Yeonjun",
+      "group": "TXT",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139602972192542720/summerforme_1_4.png"
+    }
+  ],
+  "enja_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> ENHYPEN **Jay** - Summer 2023",
+      "idol": "Jay",
+      "group": "ENHYPEN",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139617603489386556/Jay_Summer_2023.png"
+    }
+  ],
+  "f9cy_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> fromis_9 **Chaeyoung** - Summer 2023",
+      "idol": "Chaeyoung",
+      "group": "fromis_9",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139761313795547136/summerforme_1_1_1_1_1_1_1_1.png"
+    }
+  ],
+  "fxsu_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> f(x) **Sulli** - Summer 2023",
+      "idol": "Sulli",
+      "group": "f(x)",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139761495568293898/summerforme_1_1_1_1_1_1_3.png"
+    }
+  ],
+  "svdk_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> SEVENTEEN **DK** - Summer 2023",
+      "idol": "DK",
+      "group": "SEVENTEEN",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139770319406628964/summerforme_1_1_1_1_1_1_1_1_2.png"
+    }
+  ],
+  "ndre_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> NCT DREAM **Renjun** - Summer 2023",
+      "idol": "Renjun",
+      "group": "NCT DREAM",
+      "theme": "Summer 2023",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139781909828874291/summerforme_1_1_1_1_1_1_1_1_1_3.png"
+    }
+  ],
+  "spts_sm23": [
+    {
+      "name": "<:BB_Summer2023:949564660326203393> Soloist **Taylor Swift** - Summer 2023 (Special)",
+      "idol": "Taylor Swift",
+      "group": "Soloist",
+      "theme": "Summer 2023 (Special)",
+      "rarity": "<:BB_Summer2023:949564660326203393>",
+      "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139774836483301426/Untitled169_20230812121622.png"
+    }
+  ],
 "zbha_ys": [{
   "name": "`🟨` ZEROBASEONE **Hanbin** - YOUTH IN THE SHADE",
   "idol": "Hanbin",
