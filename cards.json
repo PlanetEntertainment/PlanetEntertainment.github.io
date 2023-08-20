@@ -16,6 +16,226 @@
   "theme": "None",
   "rarity": "❌"
 }],
+ "l13ha_co": [
+    {
+      "name": "`⬜` LOONA 1/3 **Haseul** - Common",
+      "idol": "Haseul",
+      "group": "LOONA 1/3",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1142386499640381440/haseul_CD33C28.png"
+    }
+  ],
+  "l13vv_co": [
+    {
+      "name": "`⬜` LOONA 1/3 **Vivi** - Common",
+      "idol": "Vivi",
+      "group": "LOONA 1/3",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1142386559757332561/vivi_38DFEFE.png"
+    }
+  ],
+  "l13he_co": [
+    {
+      "name": "`⬜` LOONA 1/3 **Heejin** - Common",
+      "idol": "Heejin",
+      "group": "LOONA 1/3",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1142386584877019166/heejin_4FF34EA.png"
+    }
+  ],
+  "l13hj_co": [
+    {
+      "name": "`⬜` LOONA 1/3 **Hyunjin** - Common",
+      "idol": "Hyunjin",
+      "group": "LOONA 1/3",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1142394127523250177/hyunjin_F6F8B28.png"
+    }
+  ],
+  "loekl_co": [
+    {
+      "name": "`⬜` LOONA / ODD EYE CIRCLE **Kim Lip** - Common",
+      "idol": "Kim Lip",
+      "group": "LOONA / ODD EYE CIRCLE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142397120771534918/1142397194985541652/kim_lip_F693133.png"
+    }
+  ],
+  "loeji_co": [
+    {
+      "name": "`⬜` LOONA / ODD EYE CIRCLE **Jinsoul** - Common",
+      "idol": "Jinsoul",
+      "group": "LOONA / ODD EYE CIRCLE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142397120771534918/1142397226799353916/jinsoul_FCD5C4A.png"
+    }
+  ],
+  "loecr_co": [
+    {
+      "name": "`⬜` LOONA / ODD EYE CIRCLE **Choerry** - Common",
+      "idol": "Choerry",
+      "group": "LOONA / ODD EYE CIRCLE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142397120771534918/1142397262820036701/choerry_FB0D851.png"
+    }
+  ],
+  "lyxyv_co": [
+    {
+      "name": "`⬜` LOONA/yyxy **Yves** - Common",
+      "idol": "Yves",
+      "group": "LOONA/yyxy",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1142423231815491714/yves_580BD8C.png"
+    }
+  ],
+  "lyxgw_co": [
+    {
+      "name": "`⬜` LOONA/yyxy **Go Won** - Common",
+      "idol": "Go Won",
+      "group": "LOONA/yyxy",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1142423265038573638/go_won_9B10A1A.png"
+    }
+  ],
+  "lyxoh_co": [
+    {
+      "name": "`⬜` LOONA/yyxy **Olivia Hye** - Common",
+      "idol": "Olivia Hye",
+      "group": "LOONA/yyxy",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1142423301310910484/olivia_hye_CBD1984.png"
+    }
+  ],
+  "lyxch_co": [
+    {
+      "name": "`⬜` LOONA/yyxy **Chuu** - Common",
+      "idol": "Chuu",
+      "group": "LOONA/yyxy",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1142423327814721596/chuu_8F13A95.png"
+    }
+  ],
+  "l13ha_ll": [
+    {
+      "name": "`⬛` LOONA 1/3 **Haseul** - Love & Live",
+      "idol": "Haseul",
+      "group": "LOONA 1/3",
+      "theme": "Love & Live",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182164299284610/Untitled836_20220726012846.png"
+    }
+  ],
+  "l13vv_ll": [
+    {
+      "name": "`⬛` LOONA 1/3 **Vivi** - Love & Live",
+      "idol": "Vivi",
+      "group": "LOONA 1/3",
+      "theme": "Love & Live",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182174030086215/Untitled836_20220726012859.png"
+    }
+  ],
+  "l13he_ll": [
+    {
+      "name": "`⬛` LOONA 1/3 **Heejin** - Love & Live",
+      "idol": "Heejin",
+      "group": "LOONA 1/3",
+      "theme": "Love & Live",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182149728276490/Untitled836_20220726012815.png"
+    }
+  ],
+  "l13hj_ll": [
+    {
+      "name": "`⬛` LOONA 1/3 **Hyunjin** - Love & Live",
+      "idol": "Hyunjin",
+      "group": "LOONA 1/3",
+      "theme": "Love & Live",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182156921503764/Untitled836_20220726012830.png"
+    }
+  ],
+  "loekl_mm": [
+    {
+      "name": "`⬛` LOONA / ODD EYE CIRCLE **Kim Lip** - Mix & Match",
+      "idol": "Kim Lip",
+      "group": "LOONA / ODD EYE CIRCLE",
+      "theme": "Mix & Match",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1141910912245170207/1141910958021808300/Loona_Odd_Eye_Circle_MixMatch_-_Kim_Lip.png"
+    }
+  ],
+  "loeji_mm": [
+    {
+      "name": "`⬛` LOONA / ODD EYE CIRCLE **Jinsoul** - Mix & Match",
+      "idol": "Jinsoul",
+      "group": "LOONA / ODD EYE CIRCLE",
+      "theme": "Mix & Match",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1141910912245170207/1142443400377925783/Loona_Odd_Eye_Circle_MixMatch_-_Jinsoul.png"
+    }
+  ],
+  "loecr_mm": [
+    {
+      "name": "`⬛` LOONA / ODD EYE CIRCLE **Choerry** - Mix & Match",
+      "idol": "Choerry",
+      "group": "LOONA / ODD EYE CIRCLE",
+      "theme": "Mix & Match",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1141910912245170207/1142457044503384064/Loona_Odd_Eye_Circle_MixMatch_-_Choerry.png"
+    }
+  ],
+  "lyxyv_bb": [
+    {
+      "name": "`⬛` LOONA/yyxy **Yves** - beauty&thebeat",
+      "idol": "Yves",
+      "group": "LOONA/yyxy",
+      "theme": "beauty&thebeat",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443460352295044/Loona_yyxy_Beauty__The_Beast_-_Yves.png"
+    }
+  ],
+  "lyxgw_bb": [
+    {
+      "name": "`⬛` LOONA/yyxy **Go Won** - beauty&thebeat",
+      "idol": "Go Won",
+      "group": "LOONA/yyxy",
+      "theme": "beauty&thebeat",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443427422797834/Loona_yyxy_Beauty__The_Beast_-_Gowon.png"
+    }
+  ],
+  "lyxoh_bb": [
+    {
+      "name": "`⬛` LOONA/yyxy **Olivia Hye** - beauty&thebeat",
+      "idol": "Olivia Hye",
+      "group": "LOONA/yyxy",
+      "theme": "beauty&thebeat",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443474591944814/Loona_yyxy_Beauty__The_Beast_-_Olivia_Hye.png"
+    }
+  ],
+  "lyxch_bb": [
+    {
+      "name": "`⬛` LOONA/yyxy **Chuu** - beauty&thebeat",
+      "idol": "Chuu",
+      "group": "LOONA/yyxy",
+      "theme": "beauty&thebeat",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443442388086824/Loona_yyxy_Beauty__The_Beast_-_Chuu.png"
+    }
+  ],
 "lovv_ft": [
     {
       "name": "`⬛` LOONA **Vivi** - Summer Special [Flip That]",
