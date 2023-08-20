@@ -16,6 +16,126 @@
   "theme": "None",
   "rarity": "❌"
 }],
+  "solha_ha": [
+    {
+      "name": "`⬛` Soloist **Haseul** - Haseul",
+      "idol": "Haseul",
+      "group": "Soloist",
+      "theme": "Haseul",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1000057182437511229/1000057232613969960/Photopea_22_Jul_2022_11_07_11_pm_.png"
+    }
+  ],
+  "solvv_vv": [
+    {
+      "name": "`⬛` Soloist **Vivi** - Vivi",
+      "idol": "Vivi",
+      "group": "Soloist",
+      "theme": "Vivi",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/999976905103130684/999976951978659911/lovv_vv.png"
+    }
+  ],
+  "solyv_yv": [
+    {
+      "name": "`⬛` Soloist **Yves** - Yves",
+      "idol": "Yves",
+      "group": "Soloist",
+      "theme": "Yves",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1000063582488244314/1000063646094856202/Photopea_22_Jul_2022_11_34_21_pm_.png"
+    }
+  ],
+  "solji_ji": [
+    {
+      "name": "`⬛` Soloist **Jinsoul** - Jinsoul",
+      "idol": "Jinsoul",
+      "group": "Soloist",
+      "theme": "Jinsoul",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/983054040978034748/983054094551904317/loji_ji.png"
+    }
+  ],
+  "solkl_kl": [
+    {
+      "name": "`⬛` Soloist **Kim Lip** - Kim Lip",
+      "idol": "Kim Lip",
+      "group": "Soloist",
+      "theme": "Kim Lip",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/982999007943065600/983023250504310924/stanloona.png"
+    }
+  ],
+  "solch_ch": [
+    {
+      "name": "`⬛` Soloist **Chuu** - Chuu",
+      "idol": "Chuu",
+      "group": "Soloist",
+      "theme": "Chuu",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/983032448273231913/983032647381041162/loch_ch.png"
+    }
+  ],
+  "solhe_he": [
+    {
+      "name": "`⬛` Soloist **Heejin** - Heejin",
+      "idol": "Heejin",
+      "group": "Soloist",
+      "theme": "Heejin",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/983013730017226802/983013856605528144/lohe_he.png"
+    }
+  ],
+  "solhj_hj": [
+    {
+      "name": "`⬛` Soloist **Hyunjin** - Hyunjin",
+      "idol": "Hyunjin",
+      "group": "Soloist",
+      "theme": "Hyunjin",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1000080347272331304/1000080384651960440/Photopea_23_Jul_2022_12_38_58_am_.png"
+    }
+  ],
+  "solgw_gw": [
+    {
+      "name": "`⬛` Soloist **Gowon** - Gowon",
+      "idol": "Gowon",
+      "group": "Soloist",
+      "theme": "Gowon",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/983346695205167144/983346773928050738/gowongostop.png"
+    }
+  ],
+  "solcr_cr": [
+    {
+      "name": "`⬛` Soloist **Choerry** - Choerry",
+      "idol": "Choerry",
+      "group": "Soloist",
+      "theme": "Choerry",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/983912968716697600/983913033623560222/Photopea_8_Jun_2022_12_25_18_am_.png"
+    }
+  ],
+  "soloh_oh": [
+    {
+      "name": "`⬛` Soloist **Olivia Hye** - Olivia Hye",
+      "idol": "Olivia Hye",
+      "group": "Soloist",
+      "theme": "Olivia Hye",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/1000083104234471505/1000083144139083867/Photopea_23_Jul_2022_12_52_36_am_.png"
+    }
+  ],
+  "solye_ye": [
+    {
+      "name": "`⬛` Soloist **Yeojin** - Yeojin",
+      "idol": "Yeojin",
+      "group": "Soloist",
+      "theme": "Yeojin",
+      "rarity": "`⬛`",
+      "image": "https://cdn.discordapp.com/attachments/983690504183103499/983690595849613362/smallkid.png"
+    }
+  ],
  "l13ha_co": [
     {
       "name": "`⬜` LOONA 1/3 **Haseul** - Common",
