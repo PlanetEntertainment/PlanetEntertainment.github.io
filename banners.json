@@ -108,6 +108,13 @@
           "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1058020969790316654/1058021033384345660/TXT_Blue_Hour_Banner.png"
     }],
+  "LOFTB1": [{
+          "name": "<:BB_ban1:1126097219985092683> **LOONA** - Summer Special [Flip That]",
+          "group": "LOONA",
+          "theme": "Summer Special [Flip That]",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1142082277036265604/1142082349929070803/Loona_-_Flip_That_Banner.png"
+    }],
     "SM23EV": [
       {
         "name": "<:BB_Summer2023:949564660326203393> Bahiyyih Bot - Summer 2023 (Event)",
