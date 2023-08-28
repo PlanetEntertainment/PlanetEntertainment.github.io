@@ -16,6 +16,186 @@
   "theme": "None",
   "rarity": "❌"
 }],
+  "atsa_fc": [
+    {
+      "name": "`🎥` ATEEZ **San** - Fancam",
+      "idol": "San",
+      "group": "ATEEZ",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/979378398797381692/1071820211944177754/San_Fancam.png"
+    }
+  ],
+  "atmi_fc": [
+    {
+      "name": "`🎥` ATEEZ **Mingi** - Fancam",
+      "idol": "Mingi",
+      "group": "ATEEZ",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/979378398797381692/1071820272249868288/Mingi_Fancam.png"
+    }
+  ],
+  "ikbo_fc": [
+    {
+      "name": "`🎥` iKON **Bobby** - Fancam",
+      "idol": "Bobby",
+      "group": "iKON",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/979378398797381692/996559712168444044/ikonbobby-fancam.png"
+    }
+  ],
+  "svsc_fc": [
+    {
+      "name": "`🎥` SEVENTEEN **S.Coups** - Fancam",
+      "idol": "S.Coups",
+      "group": "SEVENTEEN",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/1143864034874118154/1143869521120202854/svsc_fc.png"
+    }
+  ],
+  "sowo_fc": [
+    {
+      "name": "`🎥` Soloist **WONHO** - Fancam",
+      "idol": "WONHO",
+      "group": "Soloist",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/1143863902912909402/1143868632011640832/sowo_fc.png"
+    }
+  ],
+  "dcsu_fc": [
+    {
+      "name": "`🎥` Dreamcatcher **SuA** - Fancam",
+      "idol": "SuA",
+      "group": "Dreamcatcher",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://media.discordapp.net/attachments/955004001928216612/1141381926893125733/Sua_Fancam.png"
+    }
+  ],
+  "locr_fc": [
+    {
+      "name": "`🎥` LOONA **Choerry** - Fancam",
+      "idol": "Choerry",
+      "group": "LOONA",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/979378398797381692/996574730020728892/loonachoerry-fancam.png"
+    }
+  ],
+    "mmmb_fc": [
+    {
+      "name": "`🎥` MAMAMOO **Moonbyul** - Fancam",
+      "idol": "Moonbyul",
+      "group": "MAMAMOO",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/1141908426776133742/1141908554492674109/Moonbyul_Fancam.png"
+    }
+  ],
+  "mmso_fc": [
+    {
+      "name": "`🎥` MAMAMOO **Solar** - Fancam",
+      "idol": "Solar",
+      "group": "MAMAMOO",
+      "theme": "Fancam",
+      "rarity": "`🎥`",
+      "image": "https://cdn.discordapp.com/attachments/1141908426776133742/1141908533575680051/Solar_Fancam.png"
+    }
+  ],
+  "drjh_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> DRIPPIN **Junho** - Ruby",
+      "idol": "Junho",
+      "group": "DRIPPIN",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/1145344201173778463/Junho_Ruby.png"
+    }
+  ],
+  "enja_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> ENHYPEN **Jay** - Ruby",
+      "idol": "Jay",
+      "group": "ENHYPEN",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/1054323470143586365/jay_ruby.png"
+    }
+  ],
+  "ensu_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> ENHYPEN **Sunoo** - Ruby",
+      "idol": "Sunoo",
+      "group": "ENHYPEN",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/1054323754831982622/sunoo_ruby.png"
+    }
+  ],
+  "somc_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> Soloist **Max Changmin** - Ruby",
+      "idol": "Max Changmin",
+      "group": "Soloist",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/1144809238221303958/Max_Changmin_Ruby.png"
+    }
+  ],
+  "aeka_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> aespa **Karina** - Ruby",
+      "idol": "Karina",
+      "group": "aespa",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/998131310906310707/KARINARUBY.png"
+    }
+  ],
+  "aewi_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> aespa **Winter** - Ruby",
+      "idol": "Winter",
+      "group": "aespa",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/998131454473158737/WINTERRUBY.png"
+    }
+  ],
+  "blts_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> Billlie **Tsuki** - Ruby",
+      "idol": "Tsuki",
+      "group": "Billlie",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/1144809177768800266/Tsuki_Ruby.png"
+    }
+  ],
+  "gimy_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> (G)I-DLE **Miyeon** - Ruby",
+      "idol": "Miyeon",
+      "group": "(G)I-DLE",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/1144809312586313840/Miyeon_Ruby_2.1.png"
+    }
+  ],
+    "twji_rb": [
+    {
+      "name": "<:BB_ruby:944030574941720647> TWICE **Jihyo** - Ruby",
+      "idol": "Jihyo",
+      "group": "TWICE",
+      "theme": "Ruby",
+      "rarity": "<:BB_ruby:944030574941720647>",
+      "image": "https://cdn.discordapp.com/attachments/972147039469178951/1145344152398209155/Jihyo_Ruby.png"
+    }
+  ],
   "exsu_ls": [
     {
       "name": "`⬛` EXO **Suho** - Love Shot",
