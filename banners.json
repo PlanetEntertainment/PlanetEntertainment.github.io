@@ -115,6 +115,76 @@
           "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1142082277036265604/1142082349929070803/Loona_-_Flip_That_Banner.png"
     }],
+    "SKNEB1": [{
+          "name": "<:BB_ban1:1126097219985092683> Stray Kids - Noeasy",
+          "group": "Stray Kids",
+          "theme": "Noeasy",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1142483714962640966/1142483756637233212/Stray_Kids_-_Noeasy_Banner.png"
+    }],
+    "PTFVB1": [{
+          "name": "<:BB_ban1:1126097219985092683> PENTAGON - Five Senses",
+          "group": "PENTAGON",
+          "theme": "Five Senses",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1058388381085749288/1058388449499037786/pentagon.png"
+    }],
+    "N1NZB1": [{
+          "name": "<:BB_ban1:1126097219985092683> NCT 127 - NCT #127 Neo Zone",
+          "group": "NCT 127",
+          "theme": "NCT #127 Neo Zone",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1058350762448650303/1058350821835821087/nct127_neozone_banner.png"
+    }],
+    "ATZFB1": [{
+          "name": "<:BB_ban1:1126097219985092683> ATEEZ - Zero : Fever Epilogue",
+          "group": "ATEEZ",
+          "theme": "Zero : Fever Epilogue",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1058021128301465630/1058021178901528657/Ateez_Zero-Fever_Epilogue_Banner.png"
+    }],
+    "CXSRB1": [{
+          "name": "<:BB_ban1:1126097219985092683> CIX - Hello Chapter 3 : Hello, Strange Time",
+          "group": "CIX",
+          "theme": "Hello Chapter 3 : Hello, Strange Time",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1058241282935377982/1058241360433528842/cix.png"
+    }],
+    "GTSBB1": [{
+          "name": "<:BB_ban1:1126097219985092683> GOT The Beat - Step Back",
+          "group": "GOT The Beat",
+          "theme": "Step Back",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1142485476209590312/1142485513702490162/GOT_The_Beat_-_Step_Back_Banner.png"
+    }],
+    "IZWNB1": [{
+          "name": "<:BB_ban1:1126097219985092683> ITZY - IT'z ME",
+          "group": "ITZY",
+          "theme": "IT'z ME",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1142474967615799448/1142475026113765528/ITZY_-_Itz_Me_Banner.png"
+    }],
+    "BLCUB1": [{
+          "name": "<:BB_ban1:1126097219985092683> Billlie - The Collective Soul and Unconscious : Chapter One",
+          "group": "Billlie",
+          "theme": "The Collective Soul and Unconscious : Chapter One",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1058021288268005526/1058021329686769774/Billlie_The_Collective_Soul_and_Unconscious_-_Chapter_One.png"
+    }],
+    "GIILB1": [{
+          "name": "<:BB_ban1:1126097219985092683> (G)I-DLE - I Love",
+          "group": "(G)I-DLE",
+          "theme": "I Love",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1058032004601487430/1058032043616907324/gidle_I_Love_Banner.png"
+    }],
+    "BGROB1": [{
+          "name": "<:BB_ban1:1126097219985092683> Brave Girls - Rollin'",
+          "group": "Brave Girls",
+          "theme": "Rollin'",
+          "rarity": "<:BB_ban1:1126097219985092683>",          
+          "image": "https://cdn.discordapp.com/attachments/1142486449623666758/1142486486621634580/Brave_Girls_-_Rollin_Banner.png"
+    }],
     "SM23EV": [
       {
         "name": "<:BB_Summer2023:949564660326203393> Bahiyyih Bot - Summer 2023 (Event)",
