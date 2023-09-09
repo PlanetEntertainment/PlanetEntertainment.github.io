@@ -16,6 +16,62 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"dcji_su": [{
+  "name": "`⬛` Dreamcatcher **JiU** - Apocalypse : Save Us",
+  "idol": "JiU",
+  "group": "Dreamcatcher",
+  "theme": "Apocalypse : Save Us",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1056011970681262130/1056012144723890227/Apocalypse_Save_Us_Concept_-_Jiu.png"
+}],
+"dcsu_su": [{
+  "name": "`⬛` Dreamcatcher **SuA** - Apocalypse : Save Us",
+  "idol": "SuA",
+  "group": "Dreamcatcher",
+  "theme": "Apocalypse : Save Us",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1056011970681262130/1056012145009106994/Apocalypse_Save_Us_Concept_-_Sua.png"
+}],
+"dcsy_su": [{
+  "name": "`⬛` Dreamcatcher **Siyeon** - Apocalypse : Save Us",
+  "idol": "Siyeon",
+  "group": "Dreamcatcher",
+  "theme": "Apocalypse : Save Us",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1056011970681262130/1056012145361432686/Apocalypse_Save_Us_Concept_-_Siyeon.png"
+}],
+"dcha_su": [{
+  "name": "`⬛` Dreamcatcher **Handong** - Apocalypse : Save Us",
+  "idol": "Handong",
+  "group": "Dreamcatcher",
+  "theme": "Apocalypse : Save Us",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1056011970681262130/1056012145717940225/Apocalypse_Save_Us_Concept_-_Handong.png"
+}],
+"dcyo_su": [{
+  "name": "`⬛` Dreamcatcher **Yoohyeon** - Apocalypse : Save Us",
+  "idol": "Yoohyeon",
+  "group": "Dreamcatcher",
+  "theme": "Apocalypse : Save Us",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1056011970681262130/1056012146066071623/Apocalypse_Save_Us_Concept_-_Yoohyeon.png"
+}],
+"dcda_su": [{
+  "name": "`⬛` Dreamcatcher **Dami** - Apocalypse : Save Us",
+  "idol": "Dami",
+  "group": "Dreamcatcher",
+  "theme": "Apocalypse : Save Us",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1056011970681262130/1056012146389037086/Apocalypse_Save_Us_Concept_-_Dami.png"
+}],
+"dcga_su": [{
+  "name": "`⬛` Dreamcatcher **Gahyeon** - Apocalypse : Save Us",
+  "idol":   "gahyeon",
+  "group": "Dreamcatcher",
+  "theme": "Apocalypse : Save Us",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1056011970681262130/1056012146707796018/Apocalypse_Save_Us_Concept_-_Gahyeon.png"
+}],
 "sodi_co": [
   {
     "name": "`⬜` Soloist **DPR IAN** - Common",
