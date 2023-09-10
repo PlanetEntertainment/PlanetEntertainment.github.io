@@ -16,6 +16,110 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"izyu_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> ITZY **Yuna** - Barbie",
+    "idol": "Yuna",
+    "group": "ITZY",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147675265527455766/Sans_titre_256_20230903002735.png"
+}
+],
+"bpro_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> BLACKPINK **Rosé** - Barbie",
+    "idol": "Rosé",
+    "group": "BLACKPINK",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147884818462412931/barbie_rose_20230903141819.png"
+}
+],
+"ivli_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> IVE **Liz** - Barbie",
+    "idol": "Liz",
+    "group": "IVE",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1148065855540822046/ive_liz_.png"
+}
+],
+"soty_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> Soloist **TAEYEON** - Barbie",
+    "idol": "TAEYEON",
+    "group": "Soloist",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460225301164133/Barbie_-_Taeyeon.png"
+}
+],
+"vveu_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> VIVIZ **Eunha** - Barbie",
+    "idol": "Eunha",
+    "group": "VIVIZ",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460425600151562/Barbie_-_Viviz_Eunha.png"
+}
+],
+"k1ba_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> Kep1er **Huening Bahiyyih** - Barbie",
+    "idol": "Huening Bahiyyih",
+    "group": "Kep1er",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149470946428731402/barbie_bahiyyih_2.png"
+}],
+"wjdy_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> WJSN **Dayoung** - Barbie",
+    "idol": "Dayoung",
+    "group": "WJSN",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149480335399211068/WJSN_Dayoung_4.png"
+}],
+"apbo_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> Apink **Bomi** - Barbie",
+    "idol": "Bomi",
+    "group": "Apink",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149480556778754138/apink_bomi_3.png"
+}],
+"sosm_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> Soloist **JEON SOMI** - Barbie",
+    "idol": "JEON SOMI",
+    "group": "Soloist",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149495739223900180/Barbie_-_Soloist_Jeon_Somi.png"
+}],
+"scsi_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> STAYC **Sieun** - Barbie",
+    "idol": "Sieun",
+    "group": "STAYC",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149497571409150003/BOOON.png"
+}],
+"spmr_bk": [
+  {
+    "name": "<:BB_barbie:1149164280374116362> Special **Margot Robbie** - Barbie",
+    "idol": "Margot Robbie",
+    "group": "Special",
+    "theme": "Barbie",
+    "rarity": "<:BB_barbie:1149164280374116362>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460510807441448/Barbie_-_Margot_Robbie.png"
+}],
 "svvn_bk": [
   {
     "name": "<:BB_ken:1149164094444798035> SEVENTEEN **Vernon** - Ken",
