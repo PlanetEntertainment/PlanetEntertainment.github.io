@@ -16,6 +16,96 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"svvn_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> SEVENTEEN **Vernon** - Ken",
+    "idol": "Vernon",
+    "group": "SEVENTEEN",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147504355210174524/Barbie_and_Ken_20230902193635.png"
+}],
+"n1jw_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> NCT 127 **Jungwoo** - Ken",
+    "idol": "Jungwoo",
+    "group": "NCT 127",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147697788549869568/ken_jungwoo_20230903015511.png"
+}],
+"txhk_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> TXT **Huening Kai** - Ken",
+    "idol": "Huening Kai",
+    "group": "TXT",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147874923214286928/ken_hkai_20230903133319.png"
+}],
+"atys_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> ATEEZ **Yeosang** - Ken",
+    "idol": "Yeosang",
+    "group": "ATEEZ",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460352946417694/Barbie_-_Ateez_Yeosang.png"
+}],
+"vxke_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> VIXX **Ken** - Ken",
+    "idol": "Ken",
+    "group": "VIXX",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460265667137577/Barbie_-_Vixx_Ken.png"
+}],
+"mxjo_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> Monsta X **Joohoney** - Ken",
+    "idol": "Joohoney",
+    "group": "Monsta X",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://media.discordapp.net/attachments/1143350925205983325/1149460388316983490/Barbie_-_Monsta_X_Joohoney.png"
+}],
+"btji_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> BTS **Jin** - Ken",
+    "idol": "Jin",
+    "group": "BTS",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149489002106331217/Barbie_-_BTS_Jin.png"
+}],
+"skbc_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> Stray Kids **Bang Chan** - Ken",
+    "idol": "Bang Chan",
+    "group": "Stray Kids",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://media.discordapp.net/attachments/1143350925205983325/1149500725450244136/sigh.png"
+}],
+"tryo_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> TREASURE **Yoshi** - Ken",
+    "idol": "Yoshi",
+    "group": "TREASURE",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://media.discordapp.net/attachments/955004001928216612/1149935474799038555/Barbie_and_Ken_20230909131112.png"
+}],
+"sprr_bk": [
+  {
+    "name": "<:BB_ken:1149164094444798035> Special **Ryan Reynolds** - Ken",
+    "idol": "Ryan Reynolds",
+    "group": "Special",
+    "theme": "Ken",
+    "rarity": "<:BB_ken:1149164094444798035>",
+    "image": "https://media.discordapp.net/attachments/1143350925205983325/1149460477995393106/Barbie_-_Ryan_Reynolds.png"
+}],
 "dcji_su": [{
   "name": "`⬛` Dreamcatcher **JiU** - Apocalypse : Save Us",
   "idol": "JiU",
@@ -161,7 +251,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/979378398797381692/1071820211944177754/San_Fancam.png"
-  }
+}
   ],
   "atmi_fc": [
     {
@@ -171,7 +261,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/979378398797381692/1071820272249868288/Mingi_Fancam.png"
-  }
+}
   ],
   "ikbo_fc": [
     {
@@ -181,7 +271,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/979378398797381692/996559712168444044/ikonbobby-fancam.png"
-  }
+}
   ],
   "svsc_fc": [
     {
@@ -191,7 +281,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/1143864034874118154/1143869521120202854/svsc_fc.png"
-  }
+}
   ],
   "sowo_fc": [
     {
@@ -201,7 +291,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/1143863902912909402/1143868632011640832/sowo_fc.png"
-  }
+}
   ],
   "dcsu_fc": [
     {
@@ -211,7 +301,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://media.discordapp.net/attachments/955004001928216612/1141381926893125733/Sua_Fancam.png"
-  }
+}
   ],
   "locr_fc": [
     {
@@ -221,7 +311,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/979378398797381692/996574730020728892/loonachoerry-fancam.png"
-  }
+}
   ],
     "mmmb_fc": [
     {
@@ -231,7 +321,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/1141908426776133742/1141908554492674109/Moonbyul_Fancam.png"
-  }
+}
   ],
   "mmso_fc": [
     {
@@ -241,7 +331,7 @@
       "theme": "Fancam",
       "rarity": "`🎥`",
       "image": "https://cdn.discordapp.com/attachments/1141908426776133742/1141908533575680051/Solar_Fancam.png"
-  }
+}
   ],
   "drjh_rb": [
     {
@@ -251,7 +341,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/1145344201173778463/Junho_Ruby.png"
-  }
+}
   ],
   "enja_rb": [
     {
@@ -261,7 +351,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/1054323470143586365/jay_ruby.png"
-  }
+}
   ],
   "ensu_rb": [
     {
@@ -271,7 +361,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/1054323754831982622/sunoo_ruby.png"
-  }
+}
   ],
   "somc_rb": [
     {
@@ -281,7 +371,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/1144809238221303958/Max_Changmin_Ruby.png"
-  }
+}
   ],
   "aeka_rb": [
     {
@@ -291,7 +381,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/998131310906310707/KARINARUBY.png"
-  }
+}
   ],
   "aewi_rb": [
     {
@@ -301,7 +391,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/998131454473158737/WINTERRUBY.png"
-  }
+}
   ],
   "blts_rb": [
     {
@@ -311,7 +401,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/1144809177768800266/Tsuki_Ruby.png"
-  }
+}
   ],
   "gimy_rb": [
     {
@@ -321,7 +411,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/1144809312586313840/Miyeon_Ruby_2.1.png"
-  }
+}
   ],
     "twji_rb": [
     {
@@ -331,7 +421,7 @@
       "theme": "Ruby",
       "rarity": "<:BB_ruby:944030574941720647>",
       "image": "https://cdn.discordapp.com/attachments/972147039469178951/1145344152398209155/Jihyo_Ruby.png"
-  }
+}
   ],
   "exsu_ls": [
     {
@@ -341,7 +431,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145535179008528505/EXO_Love_Shot_-_Suho.png"
-  }
+}
   ],
   "exxm_ls": [
     {
@@ -351,7 +441,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145500020557230090/EXO_Love_Shot_-_Xiumin.png"
-  }
+}
   ],
   "exbh_ls": [
     {
@@ -361,7 +451,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145500046339620934/EXO_Love_Shot_-_Baekhyun.png"
-  }
+}
   ],
   "exch_ls": [
     {
@@ -371,7 +461,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145535151678439486/EXO_Love_Shot_-_Chen.png"
-  }
+}
   ],
   "excy_ls": [
     {
@@ -381,7 +471,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145500102933356575/EXO_Love_Shot_-_Chanyeol.png"
-  }
+}
   ],
   "exdo_ls": [
     {
@@ -391,7 +481,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145500131374940252/EXO_Love_Shot_-_D.O.png"
-  }
+}
   ],
   "exka_ls": [
     {
@@ -401,7 +491,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145535127154327677/EXO_Love_Shot_-_Kai.png"
-  }
+}
   ],
   "exsh_ls": [
     {
@@ -411,7 +501,7 @@
       "theme": "Love Shot",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145499875673391164/1145500179403915365/EXO_Love_Shot_-_Sehun.png"
-  }
+}
   ],
   "skbc_od": [
     {
@@ -421,7 +511,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1144062552305840188/skz_cp_20230823233658.png"
-  }
+}
   ],
   "sklk_od": [
     {
@@ -431,7 +521,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1144062606311686305/skz_cp_20230824000305.png"
-  }
+}
   ],
   "skcb_od": [
     {
@@ -441,7 +531,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1144064174561951825/skz_cp_20230824001915.png"
-  }
+}
   ],
   "skhj_od": [
     {
@@ -451,7 +541,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1145292503654875176/skz_cp_20230824143436.png"
-  }
+}
   ],
   "skha_od": [
     {
@@ -461,7 +551,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1144063837419614319/skz_cp_20230824001519.png"
-  }
+}
   ],
   "skfe_od": [
     {
@@ -471,7 +561,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1144063622000165045/skz_cp_20230824004555.png"
-  }
+}
   ],
   "skse_od": [
     {
@@ -481,7 +571,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1144063481973329961/skz_cp_20230824002800.png"
-  }
+}
   ],
   "skin_od": [
     {
@@ -491,7 +581,7 @@
       "theme": "Oddinary",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144062457803976755/1144063294068502588/skz_cp_20230824004941.png"
-  }
+}
   ],
   "crse_lc": [
     {
@@ -501,7 +591,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211714552463453/Untitled5_20230827105205.png"
-  }
+}
   ],
   "cral_lc": [
     {
@@ -511,7 +601,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211750426365992/Untitled5_20230827084440.png"
-  }
+}
   ],
   "crjm_lc": [
     {
@@ -521,7 +611,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211777274097775/Untitled5_20230827105049.png"
-  }
+}
   ],
   "crwo_lc": [
     {
@@ -531,7 +621,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211871981477930/Untitled5_20230827083858.png"
-  }
+}
   ],
   "crwj_lc": [
     {
@@ -541,7 +631,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211894987247676/Untitled5_20230827083453.png"
-  }
+}
   ],
   "crmh_lc": [
     {
@@ -551,7 +641,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211916151689316/Untitled5_20230827084329.png"
-  }
+}
   ],
   "crhj_lc": [
     {
@@ -561,7 +651,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211937660092487/Untitled5_20230827075653.png"
-  }
+}
   ],
   "crty_lc": [
     {
@@ -571,7 +661,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211961383059476/Untitled5_20230827081829.png"
-  }
+}
   ],
     "crsm_lc": [
     {
@@ -581,7 +671,7 @@
       "theme": "Liberty : In Our Cosmos",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1145211631761100801/1145211985559040031/Untitled5_20230827082806.png"
-  }
+}
   ],
   "mccj_te": [
     {
@@ -591,7 +681,7 @@
       "theme": "THE EARTH : SECRET MISSION Chapter.2",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1044928811319447572/1044928995357114399/castle_j_tesmc2.png"
-  }
+}
   ],
   "mcbi_te": [
     {
@@ -601,7 +691,7 @@
       "theme": "THE EARTH : SECRET MISSION Chapter.2",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1044928811319447572/1044928995705225226/bic_tesmc2.png"
-  }
+}
   ],
   "mcmj_te": [
     {
@@ -611,7 +701,7 @@
       "theme": "THE EARTH : SECRET MISSION Chapter.2",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1044928811319447572/1044928996091113532/minjae_tesmc2.png"
-  }
+}
   ],
   "mchu_te": [
     {
@@ -621,7 +711,7 @@
       "theme": "THE EARTH : SECRET MISSION Chapter.2",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1044928811319447572/1044928996527325204/huijun_tesmc2.png"
-  }
+}
   ],
   "mcwi_te": [
     {
@@ -631,7 +721,7 @@
       "theme": "THE EARTH : SECRET MISSION Chapter.2",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1044928811319447572/1044928996820910142/win_tesmc2.png"
-  }
+}
   ],
   "gtbo_sm": [
     {
@@ -641,7 +731,7 @@
       "theme": "Stamp On It",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144237697968386138/1144238561839820930/BOA_STAMP_ON_IT..png"
-  }
+}
   ],
   "gtty_sm": [
     {
@@ -651,7 +741,7 @@
       "theme": "Stamp On It",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144237697968386138/1144238668991709215/got_the_beat_Taeyeon_3.png"
-  }
+}
   ],
   "gthy_sm": [
     {
@@ -661,7 +751,7 @@
       "theme": "Stamp On It",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144237697968386138/1144238722720739429/hyoyeon_stamp_on_it.png"
-  }
+}
   ],
   "gtsl_sm": [
     {
@@ -671,7 +761,7 @@
       "theme": "Stamp On It",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144237697968386138/1144238931181850765/got_the_beat_Seulgi_2_2.png"
-  }
+}
   ],
   "gtwe_sm": [
     {
@@ -681,7 +771,7 @@
       "theme": "Stamp On It",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144237697968386138/1144239214200901753/WENDY_STAMP_ON_IT.png"
-  }
+}
   ],
   "gtka_sm": [
     {
@@ -691,7 +781,7 @@
       "theme": "Stamp On It",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144237697968386138/1144239451778850857/got_the_beat_karina_4.png"
-  }
+}
   ],
   "gtwi_sm": [
     {
@@ -701,7 +791,7 @@
       "theme": "Stamp On It",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144237697968386138/1144239551968194570/got_the_beat_winter_4.png"
-  }
+}
   ],
   "soiu_lp": [
     {
@@ -711,7 +801,7 @@
       "theme": "Love Poem",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141914126818488442/1141914191297511594/IU_Love_Poem.png"
-  }
+}
   ],
   "sosm_gp": [
     {
@@ -721,7 +811,7 @@
       "theme": "GAME PLAN",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144421348362424413/1144461866500890734/JEON_SOMI_GAME_PLAN.png"
-  }
+}
   ],
   "sokd_ts": [
     {
@@ -731,7 +821,7 @@
       "theme": "The Story",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1131383056092106862/1144400294629875732/kangdaniel-thestory_FCC7FA6.png"
-  }
+}
   ],
   "sokw_bp": [
     {
@@ -741,7 +831,7 @@
       "theme": "Blank Page",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1131383056092106862/1144578882448666665/Untitled5_20230825181822.png"
-  }
+}
   ],
   "vvsb_sv": [
     {
@@ -751,7 +841,7 @@
       "theme": "Summer Vibe",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/996698600983773204/996698792948678696/vzsb_sv.png"
-  }
+}
   ],
   "vveu_sv": [
     {
@@ -761,7 +851,7 @@
       "theme": "Summer Vibe",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/996698600983773204/996698718592053348/vzeu_sv.png"
-  }
+}
   ],
   "vvum_sv": [
     {
@@ -771,7 +861,7 @@
       "theme": "Summer Vibe",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/996698600983773204/996699843693117520/vzum_cp.png"
-  }
+}
   ],
   "gwsy_os": [
     {
@@ -781,7 +871,7 @@
       "theme": "THE OTHER SIDE OF THE MOON",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144809470694797322/1144809615528300677/GWSN_The_Other_Side_of_the_Moon_-_Seoryoung.png"
-  }
+}
   ],
   "gwmy_os": [
     {
@@ -791,7 +881,7 @@
       "theme": "THE OTHER SIDE OF THE MOON",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144809470694797322/1144810821977899078/GWSN_The_Other_Side_of_the_Moon_-_Miya.png"
-  }
+}
   ],
   "gwsk_os": [
     {
@@ -801,7 +891,7 @@
       "theme": "THE OTHER SIDE OF THE MOON",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144809470694797322/1144809641906274344/GWSN_The_Other_Side_of_the_Moon_-_Seokyoung.png"
-  }
+}
   ],
   "gwan_os": [
     {
@@ -811,7 +901,7 @@
       "theme": "THE OTHER SIDE OF THE MOON",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144809470694797322/1144809530174222436/GWSN_The_Other_Side_of_the_Moon_-_Anne.png"
-  }
+}
   ],
   "gwmj_os": [
     {
@@ -821,7 +911,7 @@
       "theme": "THE OTHER SIDE OF THE MOON",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144809470694797322/1144809546271952906/GWSN_The_Other_Side_of_the_Moon_-_Minju.png"
-  }
+}
   ],
   "gwso_os": [
     {
@@ -831,7 +921,7 @@
       "theme": "THE OTHER SIDE OF THE MOON",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144809470694797322/1144809577976700948/GWSN_The_Other_Side_of_the_Moon_-_SoSo.png"
-  }
+}
   ],
   "gwle_os": [
     {
@@ -841,7 +931,7 @@
       "theme": "THE OTHER SIDE OF THE MOON",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1144809470694797322/1144809594200264827/GWSN_The_Other_Side_of_the_Moon_-_Lena.png"
-  }
+}
   ],
   "nmhw_ew": [
     {
@@ -851,7 +941,7 @@
       "theme": "Entwurf",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1037024714809413695/1037024922750439424/entwurf-haewon-cp1.png"
-  }
+}
   ],
   "nmli_ew": [
     {
@@ -861,7 +951,7 @@
       "theme": "Entwurf",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1037024714809413695/1037024923270516746/entwurf-lily-cp1.png"
-  }
+}
   ],
   "nmsl_ew": [
     {
@@ -871,7 +961,7 @@
       "theme": "Entwurf",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1037024714809413695/1037024923668988004/entwurf-sullyoon-cp1.png"
-  }
+}
   ],
   "nmji_ew": [
     {
@@ -881,7 +971,7 @@
       "theme": "Entwurf",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1037024714809413695/1037024924541403197/entwurf-jinni-cp1.png"
-  }
+}
   ],
   "nmba_ew": [
     {
@@ -891,7 +981,7 @@
       "theme": "Entwurf",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1037024714809413695/1037024924130349156/entwurf-bae-cp1.png"
-  }
+}
   ],
   "nmjw_ew": [
     {
@@ -901,7 +991,7 @@
       "theme": "Entwurf",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1037024714809413695/1037024924977614978/entwurf-jiwoo-cp1.png"
-  }
+}
   ],
   "nmky_ew": [
     {
@@ -911,7 +1001,7 @@
       "theme": "Entwurf",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1037024714809413695/1037024925405417502/entwurf-kyujin-cp1.png"
-  }
+}
   ],
   "bnjh_co": [
     {
@@ -921,7 +1011,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143356013743964200/1143366681847136266/bnjh_co.png"
-  }
+}
   ],
   "bnsu_co": [
     {
@@ -931,7 +1021,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143356013743964200/1143366682153336842/bnsh_co.png"
-  }
+}
   ],
   "bnri_co": [
     {
@@ -941,7 +1031,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143356013743964200/1143366682459504650/bnri_co.png"
-  }
+}
   ],
   "bnts_co": [
     {
@@ -951,7 +1041,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143356013743964200/1143366682807644209/bnts_co.png"
-  }
+}
   ],
   "bnle_co": [
     {
@@ -961,7 +1051,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143356013743964200/1143366683113832609/bnle_co.png"
-  }
+}
   ],
   "bnwh_co": [
     {
@@ -971,7 +1061,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143356013743964200/1143366683566801006/bnwo_co.png"
-  }
+}
   ],
   "cihb_co": [
     {
@@ -981,7 +1071,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144168514664529920/1144168688577163274/hyunbin_C9875E7.png"
-  }
+}
   ],
   "cita_co": [
     {
@@ -991,7 +1081,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144168514664529920/1144168721372418149/tan_A2B37FC.png"
-  }
+}
   ],
   "cihw_co": [
     {
@@ -1001,7 +1091,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144168514664529920/1144168783217426432/hwi_E1AB0BA.png"
-  }
+}
   ],
   "cike_co": [
     {
@@ -1011,7 +1101,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144168514664529920/1144168819439444018/keita_98FE798.png"
-  }
+}
   ],
   "citg_co": [
     {
@@ -1021,7 +1111,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144168514664529920/1144168856533872690/tag_B83DD4D.png"
-  }
+}
   ],
   "cidh_co": [
     {
@@ -1031,7 +1121,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144168514664529920/1144168879791292466/dohwan_4DDFE2E.png"
-  }
+}
   ],
   "ciwo_co": [
     {
@@ -1041,7 +1131,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144168514664529920/1144168907045871687/won_37E5DC3.png"
-  }
+}
   ],
 "dkwo_co": [
     {
@@ -1051,7 +1141,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144918318613016636/dkwo_co.png"
-  }
+}
   ],
   "dkjo_co": [
     {
@@ -1061,7 +1151,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144914253497761842/dkjo_co.png"
-  }
+}
   ],
   "dkky_co": [
     {
@@ -1071,7 +1161,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144914307407167498/dkky.png"
-  }
+}
   ],
   "dksh_co": [
     {
@@ -1081,7 +1171,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144915264987742269/dksh_co.png"
-  }
+}
   ],
   "dkmi_co": [
     {
@@ -1091,7 +1181,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144916839592362024/dkmi_co.png"
-  }
+}
   ],
   "dkmu_co": [
     {
@@ -1101,7 +1191,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144916914154512404/dkmu_co.png"
-  }
+}
   ],
   "dkja_co": [
     {
@@ -1111,7 +1201,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144916972816039956/dkja_co.png"
-  }
+}
   ],
   "dkgs_co": [
     {
@@ -1121,7 +1211,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144171748485500950/1144921080503476224/dkgs_co.png"
-  }
+}
   ],
   "xksu_co": [
     {
@@ -1131,7 +1221,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912197874856036/Sumin_Common.png"
-  }
+}
   ],
   "xkjs_co": [
     {
@@ -1141,7 +1231,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912206041157682/Jinsik_Common.png"
-  }
+}
   ],
   "xkye_co": [
     {
@@ -1151,7 +1241,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912221077741619/Yechan_Common.png"
-  }
+}
   ],
   "xkht_co": [
     {
@@ -1161,7 +1251,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912231789998120/Hunter_Common.png"
-  }
+}
   ],
   "xkmj_co": [
     {
@@ -1171,7 +1261,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912251972984832/Minjae_Common.png"
-  }
+}
   ],
   "xkse_co": [
     {
@@ -1181,7 +1271,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912271698788443/Seeun_Common.png"
-  }
+}
   ],
   "xkyu_co": [
     {
@@ -1191,7 +1281,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912287167393893/Yujun_Common.png"
-  }
+}
   ],
   "xkjm_co": [
     {
@@ -1201,7 +1291,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912299750309949/Junmin_Common.png"
-  }
+}
   ],
   "xkhy_co": [
     {
@@ -1211,7 +1301,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912311930552370/Hyunwoo_Common.png"
-  }
+}
   ],
   "xkjh_co": [
     {
@@ -1221,7 +1311,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141912147824218153/1141912328049283204/Junghoon_Common.png"
-  }
+}
   ],
   "ffsa_co": [
     {
@@ -1231,7 +1321,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143542016358219877/1143542136780894268/Saena_Common.png"
-  }
+}
   ],
   "ffkn_co": [
     {
@@ -1241,7 +1331,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143542016358219877/1143542155793666118/Keena_Common.png"
-  }
+}
   ],
   "ffar_co": [
     {
@@ -1251,7 +1341,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143542016358219877/1143542198856581271/Aran_Common.png"
-  }
+}
   ],
   "ffsi_co": [
     {
@@ -1261,7 +1351,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143542016358219877/1143671751193133066/Sio_Common2.png"
-  }
+}
   ],
   "guha_co": [
     {
@@ -1271,7 +1361,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900402572177459/hana_95D2663.png"
-  }
+}
   ],
   "gumm_co": [
     {
@@ -1281,7 +1371,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900432431415366/mimi_2F385C0.png"
-  }
+}
   ],
   "guny_co": [
     {
@@ -1291,7 +1381,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900473963417650/nayoung_3F609AA.png"
-  }
+}
   ],
   "guhb_co": [
     {
@@ -1301,7 +1391,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900453138714735/haebin_B353BA2.png"
-  }
+}
   ],
   "gusj_co": [
     {
@@ -1311,7 +1401,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900502098817044/sejeong_B17EE55.png"
-  }
+}
   ],
   "gusa_co": [
     {
@@ -1321,7 +1411,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900522437005352/sally_0B5258A.png"
-  }
+}
   ],
   "guso_co": [
     {
@@ -1331,7 +1421,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900558436708352/soyee_78F1251.png"
-  }
+}
   ],
   "gumi_co": [
     {
@@ -1341,7 +1431,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900593224273981/mina_312EBB2.png"
-  }
+}
   ],
     "guhy_co": [
     {
@@ -1351,7 +1441,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144900326844010496/1144900612933308517/hyeyeon_1D6286C.png"
-  }
+}
   ],
   "icej_co": [
     {
@@ -1361,7 +1451,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142993727510544395/1143552183384686744/E.ji_commoncard_1.png"
-  }
+}
   ],
   "icjk_co": [
     {
@@ -1371,7 +1461,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142993727510544395/1143552245833666570/Jackie_commoncard.png"
-  }
+}
   ],
   "icch_co": [
     {
@@ -1381,7 +1471,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142993727510544395/1143552350645141657/chaerin_commoncards.png"
-  }
+}
   ],
   "icjo_co": [
     {
@@ -1391,7 +1481,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142993727510544395/1143552538109542400/Joonie_CommonCard_1.png"
-  }
+}
   ],
   "iccw_co": [
     {
@@ -1401,7 +1491,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142993727510544395/1143552612612972635/chowon_commoncard.png"
-  }
+}
   ],
   "icjy_co": [
     {
@@ -1411,7 +1501,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142993727510544395/1143552690618646538/Jiyoon_common_cards.png"
-  }
+}
   ],
   "icye_co": [
     {
@@ -1421,7 +1511,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142993727510544395/1143679918153142363/yeju.commoncard.png"
-  }
+}
   ],
     "whna_co": [
     {
@@ -1431,7 +1521,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144271313729491094/1144302534362665010/Common2_20230824143249.png"
-  }
+}
   ],
   "whwy_co": [
     {
@@ -1441,7 +1531,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144271313729491094/1144302605531619349/Common2_20230824143849.png"
-  }
+}
   ],
   "whso_co": [
     {
@@ -1451,7 +1541,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144271313729491094/1144302676511838269/Common2_20230824151629.png"
-  }
+}
   ],
   "whlu_co": [
     {
@@ -1461,7 +1551,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144271313729491094/1144302757457690645/Common2_20230824151359.png"
-  }
+}
   ],
   "whms_co": [
     {
@@ -1471,7 +1561,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144271313729491094/1144302807592210472/Common2_20230824145409.png"
-  }
+}
   ],
   "akch_co": [
     {
@@ -1481,7 +1571,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144129708737429534/1144129752563712060/chanhyuk_80ED383.png"
-  }
+}
   ],
   "aksu_co": [
     {
@@ -1491,7 +1581,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1144129708737429534/1144129776232190062/suhyun_CED407A.png"
-  }
+}
   ],
   "kajs_co": [
     {
@@ -1501,7 +1591,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143537953692467301/1143538018100203600/J.Seph_Common.png"
-  }
+}
   ],
   "kasm_co": [
     {
@@ -1511,7 +1601,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143537953692467301/1143538050421498007/Somin_Common.png"
-  }
+}
   ],
   "kajw_co": [
     {
@@ -1521,7 +1611,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143537953692467301/1143680578818936853/Jiwoo_Common.png"
-  }
+}
   ],
   "kabm_co": [
     {
@@ -1531,7 +1621,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143537953692467301/1143884489836208148/BM_Common.png"
-  }
+}
   ],
   "sorm_co": [
     {
@@ -1541,7 +1631,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1143056588572200960/1143056705790410812/sorm_co.png"
-  }
+}
   ],
   "solv_co": [
     {
@@ -1551,7 +1641,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1131382895722897592/1143479184832860240/lev_1D2D761.png"
-  }
+}
   ],
   "somb_co": [
     {
@@ -1561,7 +1651,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://media.discordapp.net/attachments/955004001928216610/1083139750912856105/Moonbyul_Common.png?width=730&height=1034"
-  }
+}
   ],
   "soyr_co": [
     {
@@ -1571,7 +1661,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1141913726203732029/1141913792117211207/Yerin_Common.png"
-  }
+}
   ],
   "solha_ha": [
     {
@@ -1581,7 +1671,7 @@
       "theme": "Haseul",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404869201645578/Untitled1298_Restored_Restored_20230828010627.png"
-  }
+}
   ],
   "solvv_vv": [
     {
@@ -1591,7 +1681,7 @@
       "theme": "Vivi",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404870283776061/Untitled1298_Restored_Restored_20230828010638.png"
-  }
+}
   ],
   "solyv_yv": [
     {
@@ -1601,7 +1691,7 @@
       "theme": "Yves",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404938768363570/Untitled1298_Restored_Restored_20230828010655.png"
-  }
+}
   ],
   "solji_ji": [
     {
@@ -1611,7 +1701,7 @@
       "theme": "Jinsoul",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404909722812416/Untitled1298_Restored_Restored_20230828010647.png"
-  }
+}
   ],
   "solkl_kl": [
     {
@@ -1621,7 +1711,7 @@
       "theme": "Kim Lip",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404904777711798/Untitled1298_Restored_Restored_20230828010642.png"
-  }
+}
   ],
   "solch_ch": [
     {
@@ -1631,7 +1721,7 @@
       "theme": "Chuu",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404939305226382/Untitled1298_Restored_Restored_20230828010700.png"
-  }
+}
   ],
   "solhe_he": [
     {
@@ -1641,7 +1731,7 @@
       "theme": "Heejin",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404864256544880/Untitled1298_Restored_Restored_20230828010619.png"
-  }
+}
   ],
   "solhj_hj": [
     {
@@ -1651,7 +1741,7 @@
       "theme": "Hyunjin",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404868752842834/Untitled1298_Restored_Restored_20230828010623.png"
-  }
+}
   ],
   "solgw_gw": [
     {
@@ -1661,7 +1751,7 @@
       "theme": "Gowon",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404939682709594/Untitled1298_Restored_Restored_20230828010706.png"
-  }
+}
   ],
   "solcr_cr": [
     {
@@ -1671,7 +1761,7 @@
       "theme": "Choerry",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404910305808574/Untitled1298_Restored_Restored_20230828010651.png"
-  }
+}
   ],
   "soloh_oh": [
     {
@@ -1681,7 +1771,7 @@
       "theme": "Olivia Hye",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404940014063666/Untitled1298_Restored_Restored_20230828010712.png"
-  }
+}
   ],
   "solye_ye": [
     {
@@ -1691,7 +1781,7 @@
       "theme": "Yeojin",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/921335691055624223/1145404869688168509/Untitled1298_Restored_Restored_20230828010631.png"
-  }
+}
   ],
  "l13ha_co": [
     {
@@ -1701,7 +1791,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1145866164933771404/haseul_0C0DBCB.png"
-  }
+}
   ],
   "l13vv_co": [
     {
@@ -1711,7 +1801,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1145866165319639080/vivi_598E8C8.png"
-  }
+}
   ],
   "l13he_co": [
     {
@@ -1721,7 +1811,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1145866165688746034/vivi_38F0296.png"
-  }
+}
   ],
   "l13hj_co": [
     {
@@ -1731,7 +1821,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142386427439616000/1146021175508607108/hyunjin_E161525.png"
-  }
+}
   ],
   "loekl_co": [
     {
@@ -1741,7 +1831,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142397120771534918/1145911808130039848/kim_lip_9A968DC.png"
-  }
+}
   ],
   "loeji_co": [
     {
@@ -1751,7 +1841,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142397120771534918/1145911808448798841/jinsoul_062F4C5.png"
-  }
+}
   ],
   "loecr_co": [
     {
@@ -1761,7 +1851,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142397120771534918/1145911808763375676/choerry_778736E.png"
-  }
+}
   ],
   "lyxyv_co": [
     {
@@ -1771,7 +1861,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1145932829948137472/yves_D54F7BF.png"
-  }
+}
   ],
   "lyxgw_co": [
     {
@@ -1781,7 +1871,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1145932830220746854/gowon_E0B5AF1.png"
-  }
+}
   ],
   "lyxoh_co": [
     {
@@ -1791,7 +1881,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1145932830807969812/olivia_hye_905DA7B.png"
-  }
+}
   ],
   "lyxch_co": [
     {
@@ -1801,7 +1891,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1142423056527147080/1145932830510166017/chuu_710C3CA.png"
-  }
+}
   ],
   "l13ha_ll": [
     {
@@ -1811,7 +1901,7 @@
       "theme": "Love & Live",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182164299284610/Untitled836_20220726012846.png"
-  }
+}
   ],
   "l13vv_ll": [
     {
@@ -1821,7 +1911,7 @@
       "theme": "Love & Live",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182174030086215/Untitled836_20220726012859.png"
-  }
+}
   ],
   "l13he_ll": [
     {
@@ -1831,7 +1921,7 @@
       "theme": "Love & Live",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182149728276490/Untitled836_20220726012815.png"
-  }
+}
   ],
   "l13hj_ll": [
     {
@@ -1841,7 +1931,7 @@
       "theme": "Love & Live",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1001182085987454976/1001182156921503764/Untitled836_20220726012830.png"
-  }
+}
   ],
   "loekl_mm": [
     {
@@ -1851,7 +1941,7 @@
       "theme": "Mix & Match",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141910912245170207/1141910958021808300/Loona_Odd_Eye_Circle_MixMatch_-_Kim_Lip.png"
-  }
+}
   ],
   "loeji_mm": [
     {
@@ -1861,7 +1951,7 @@
       "theme": "Mix & Match",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141910912245170207/1142443400377925783/Loona_Odd_Eye_Circle_MixMatch_-_Jinsoul.png"
-  }
+}
   ],
   "loecr_mm": [
     {
@@ -1871,7 +1961,7 @@
       "theme": "Mix & Match",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141910912245170207/1142457044503384064/Loona_Odd_Eye_Circle_MixMatch_-_Choerry.png"
-  }
+}
   ],
   "lyxyv_bb": [
     {
@@ -1881,7 +1971,7 @@
       "theme": "beauty&thebeat",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443460352295044/Loona_yyxy_Beauty__The_Beast_-_Yves.png"
-  }
+}
   ],
   "lyxgw_bb": [
     {
@@ -1891,7 +1981,7 @@
       "theme": "beauty&thebeat",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443427422797834/Loona_yyxy_Beauty__The_Beast_-_Gowon.png"
-  }
+}
   ],
   "lyxoh_bb": [
     {
@@ -1901,7 +1991,7 @@
       "theme": "beauty&thebeat",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443474591944814/Loona_yyxy_Beauty__The_Beast_-_Olivia_Hye.png"
-  }
+}
   ],
   "lyxch_bb": [
     {
@@ -1911,7 +2001,7 @@
       "theme": "beauty&thebeat",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1141910584611319959/1142443442388086824/Loona_yyxy_Beauty__The_Beast_-_Chuu.png"
-  }
+}
   ],
 "lovv_ft": [
     {
@@ -1921,7 +2011,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551202598723744/Flip_That_-_Vivi.png"
-  }
+}
   ],
   "lohe_ft": [
     {
@@ -1931,7 +2021,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551203374661652/Flip_That_-_Heejin.png"
-  }
+}
   ],
   "loha_ft": [
     {
@@ -1941,7 +2031,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551204079312916/Flip_That_-_Haseul.png"
-  }
+}
   ],
   "loye_ft": [
     {
@@ -1951,7 +2041,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551205253709834/Flip_That_-_Yeojin.png"
-  }
+}
   ],
   "loch_ft": [
     {
@@ -1961,7 +2051,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551206260351006/Flip_That_-_Chuu.png"
-  }
+}
   ],
   "logw_ft": [
     {
@@ -1971,7 +2061,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551206897893426/Flip_That_-_Gowon.png"
-  }
+}
   ],  
   "looh_ft": [
     {
@@ -1981,7 +2071,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551217555603516/Flip_That_-_Olivia_Hye.png"
-  }
+}
   ],
   "loyv_ft": [
     {
@@ -1991,7 +2081,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551217954078820/Flip_That_-_Yves.png"
-  }
+}
   ],
   "locr_ft": [
     {
@@ -2001,7 +2091,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://cdn.discordapp.com/attachments/1079212847239790592/1142461163888713878/Flip_That_-_Choerry.png"
-  }
+}
   ],
   "lokl_ft": [
     {
@@ -2011,7 +2101,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551219019415602/Flip_That_-_Kim_Lip.png"
-  }
+}
   ],
   "lohj_ft": [
     {
@@ -2021,7 +2111,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551219484999710/Flip_That_-_Hyunjin.png"
-  }
+}
   ],
   "loji_ft": [
     {
@@ -2031,7 +2121,7 @@
       "theme": "Summer Special [Flip That]",
       "rarity": "`⬛`",
       "image": "https://media.discordapp.net/attachments/1079212847239790592/1139551219958943845/Flip_That_-_Jinsoul.png"
-  }
+}
   ],
   "loha_sg22": [
     {
@@ -2041,7 +2131,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911271218884658/Loona_Season_Greetings_2022_-_Haseul.png"
-  }
+}
   ],
   "lovv_sg22": [
     {
@@ -2051,7 +2141,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911360788238467/Loona_Season_Greetings_2022_-_ViVi.png"
-  }
+}
   ],
   "loyv_sg22": [
     {
@@ -2061,7 +2151,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911230643191899/Loona_Season_Greetings_2022_-_Yves.png"
-  }
+}
   ],
   "loji_sg22": [
     {
@@ -2071,7 +2161,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911411186991215/Loona_Season_Greetings_2022_-_Jinsoul.png"
-  }
+}
   ],
   "lokl_sg22": [
     {
@@ -2081,7 +2171,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911394598518824/Loona_Season_Greetings_2022_-_Kim_Lip.png"
-  }
+}
   ],
   "loch_sg22": [
     {
@@ -2091,7 +2181,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911216453865644/Loona_Season_Greetings_2022_-_Chuu.png"
-  }
+}
   ],
   "lohe_sg22": [
     {
@@ -2101,7 +2191,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911322280349840/Loona_Season_Greetings_2022_-_Heejin.png"
-  }
+}
   ],
   "lohj_sg22": [
     {
@@ -2111,7 +2201,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911345135099934/Loona_Season_Greetings_2022_-_Hyunjin.png"
-  }
+}
   ],
   "logw_sg22": [
     {
@@ -2121,7 +2211,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911426437484554/Loona_Season_Greetings_2022_-_Gowon.png"
-  }
+}
   ],
   "locr_sg22": [
     {
@@ -2131,7 +2221,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911252902359070/Loona_Season_Greetings_2022_-_Choerry.png"
-  }
+}
   ],
   "looh_sg22": [
     {
@@ -2141,7 +2231,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911197017456700/Loona_Season_Greetings_2022_-_Olivia_Hye.png"
-  }
+}
   ],
   "loye_sg22": [
     {
@@ -2151,7 +2241,7 @@
       "theme": "Season's Greetings 2022",
       "rarity": "`📆`",
       "image": "https://cdn.discordapp.com/attachments/1141911164918444133/1141911292211384341/Loona_Season_Greetings_2022_-_Yeojin.png"
-  }
+}
   ],
 "solkl_co": [{
   "name": "`⬜` Soloist **Kim Lip** - Common",
@@ -2265,7 +2355,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114783661539429/Summer_-_Sua.png"
-  }
+}
   ],
   "wjyr_sm23": [
     {
@@ -2275,7 +2365,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114849822490694/Summer_-_Yeoreum.png"
-  }
+}
   ],
   "k1yo_sm23": [
     {
@@ -2285,7 +2375,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114896949694564/Summer_-_Youngeun.png"
-  }
+}
   ],
   "bpji_sm23": [
     {
@@ -2295,7 +2385,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114936455843980/Summer_-_Jisoo.png"
-  }
+}
   ],
   "g7ma_sm23": [
     {
@@ -2305,7 +2395,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138114973428629584/Summer_-_Mark.png"
-  }
+}
   ],
   "sohy_sm23": [
     {
@@ -2315,7 +2405,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138239831311405117/Summer_-_Hyolyn.png"
-  }
+}
   ],
   "asew_sm23": [
     {
@@ -2325,7 +2415,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138641472476958840/Summer_-_Cha_Eunwoo_2.png"
-  }
+}
   ],
   "trhs_sm23": [
     {
@@ -2335,7 +2425,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1138822371327868979/Summer_-_Hyunsuk.png"
-  }
+}
   ],
   "ivyj_sm23": [
     {
@@ -2345,7 +2435,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139405761362002012/Untitled80_20230811114459.png"
-  }
+}
   ],
   "loji_sm23": [
     {
@@ -2355,7 +2445,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139468234379235338/summerforme_3.png"
-  }
+}
   ],
   "tbju_sm23": [
     {
@@ -2365,7 +2455,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139468298174615613/summerforme_4.png"
-  }
+}
   ],
   "atyu_sm23": [
     {
@@ -2375,7 +2465,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139562806816018463/Summer_-_Yunho.png"
-  }
+}
   ],
   "onle_sm23": [
     {
@@ -2385,7 +2475,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139562837304422420/Summer_-_Leedo.png"
-  }
+}
   ],
   "btsg_sm23": [
     {
@@ -2395,7 +2485,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139729765545291846/Summer_-_Suga_2.png"
-  }
+}
   ],
   "izye_sm23": [
     {
@@ -2405,7 +2495,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139569278144757791/Summer_-_Yeji.png"
-  }
+}
   ],
   "twjy_sm23": [
     {
@@ -2415,7 +2505,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139600439281725591/summerforme_1_1_1_1_1_2.png"
-  }
+}
   ],
   "a6wo_sm23": [
     {
@@ -2425,7 +2515,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139602081523707915/summerforme_1_1_5.png"
-  }
+}
   ],
   "csri_sm23": [
     {
@@ -2435,7 +2525,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139602463037595808/summerforme_1_1_3.png"
-  }
+}
   ],
   "txye_sm23": [
     {
@@ -2445,7 +2535,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139602972192542720/summerforme_1_4.png"
-  }
+}
   ],
   "enja_sm23": [
     {
@@ -2455,7 +2545,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139617603489386556/Jay_Summer_2023.png"
-  }
+}
   ],
   "f9cy_sm23": [
     {
@@ -2465,7 +2555,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139761313795547136/summerforme_1_1_1_1_1_1_1_1.png"
-  }
+}
   ],
   "fxsu_sm23": [
     {
@@ -2475,7 +2565,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139761495568293898/summerforme_1_1_1_1_1_1_3.png"
-  }
+}
   ],
   "svdk_sm23": [
     {
@@ -2485,7 +2575,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139770319406628964/summerforme_1_1_1_1_1_1_1_1_2.png"
-  }
+}
   ],
   "ndre_sm23": [
     {
@@ -2495,7 +2585,7 @@
       "theme": "Summer 2023",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139781909828874291/summerforme_1_1_1_1_1_1_1_1_1_3.png"
-  }
+}
   ],
   "spts_sm23": [
     {
@@ -2505,7 +2595,7 @@
       "theme": "Summer 2023 (Special)",
       "rarity": "<:BB_Summer2023:949564660326203393>",
       "image": "https://cdn.discordapp.com/attachments/1136622959323267072/1139774836483301426/Untitled169_20230812121622.png"
-  }
+}
   ],
 "zbha_ys": [{
   "name": "`🟨` ZEROBASEONE **Hanbin** - YOUTH IN THE SHADE",
@@ -2851,7 +2941,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782188274061412/jaehan_79B1C79.png"
-  }
+}
   ],
   "oxhc_co": [
     {
@@ -2861,7 +2951,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782233253789716/hwichan_354F1FD.png"
-  }
+}
   ],
   "oxse_co": [
     {
@@ -2871,7 +2961,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782266535583836/sebin_DF5BD5C.png"
-  }
+}
   ],
   "oxha_co": [
     {
@@ -2881,7 +2971,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782332046417940/hangyeom_9E1D90D.png"
-  }
+}
   ],
   "oxtd_co": [
     {
@@ -2891,7 +2981,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782372643090533/taedong_5DBD5B4.png"
-  }
+}
   ],
   "oxxe_co": [
     {
@@ -2901,7 +2991,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782399075598336/xen_3F4C68F.png"
-  }
+}
   ],
   "oxjy_co": [
     {
@@ -2911,7 +3001,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782422773420042/jehyun_45A8218.png"
-  }
+}
   ],
   "oxke_co": [
     {
@@ -2921,7 +3011,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782458966057010/kevin_63116D0.png"
-  }
+}
   ],
   "oxju_co": [
     {
@@ -2931,7 +3021,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782483515322378/junghoon_81C21FF.png"
-  }
+}
   ],
   "oxhy_co": [
     {
@@ -2941,7 +3031,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782511864610948/hyuk_10EEA00.png"
-  }
+}
   ],
   "oxye_co": [
     {
@@ -2951,7 +3041,7 @@
       "theme": "Common",
       "rarity": "`⬜`",
       "image": "https://cdn.discordapp.com/attachments/1134782090198650992/1134782539387637770/yechan_5AEE3B5.png"
-  }
+}
   ],
 "csrdu_co": [
     {
@@ -2961,7 +3051,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1046398224736469042/1055678122818818078/COMMON_XML_FILE_890F9DC.png"
-  }
+}
   ],
 "csrgh_co": [
     {
@@ -2971,7 +3061,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1046398224736469042/1055678122395181146/COMMON_XML_FILE_F01BDFF.png"
-  }
+}
   ],
 "csrsi_co": [
     {
@@ -2981,7 +3071,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1046398224736469042/1055678121673773096/COMMON_XML_FILE_6F3F679.png"
-  }
+}
   ],
 "csrsy_co": [
     {
@@ -2991,7 +3081,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1046398224736469042/1055678120902017075/COMMON_XML_FILE_08C03B6.png"
-  }
+}
   ],
 "csryu_co": [
     {
@@ -3001,7 +3091,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1046398224736469042/1055678122026090577/COMMON_XML_FILE_73C6EBF.png"
-  }
+}
   ],
 "csrsu_co": [
     {
@@ -3011,7 +3101,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1046398224736469042/1055678120516145152/COMMON_XML_FILE_E5B88ED.png"
-  }
+}
   ],
 "csryh_co": [
     {
@@ -3021,7 +3111,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1046398224736469042/1055678121279496233/COMMON_XML_FILE_AC6A198.png"
-  }
+}
   ],
 "bvyy_co": [
     {
@@ -3031,7 +3121,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1079212847239790592/1133366550942982195/Yiyeon_Common.png"
-  }
+}
   ],
 "bvsh_co": [
     {
@@ -3041,7 +3131,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1079212847239790592/1133366551656026182/SongheeCommon.png"
-  }
+}
   ],
 "bvju_co": [
     {
@@ -3051,7 +3141,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1079212847239790592/1133366553375678464/Jungwoo_Common.png"
-  }
+}
   ],
 "bvsy_co": [
     {
@@ -3061,7 +3151,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1079212847239790592/1133366552243224668/Simyeong_Common.png"
-  }
+}
   ],
 "bvse_co": [
     {
@@ -3071,7 +3161,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1079212847239790592/1133366554025807912/Seungeun_Common.png"
-  }
+}
   ],
 "snle_co": [
     {
@@ -3081,7 +3171,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/955004001928216612/1134481637653098496/Lea_Common.png"
-  }
+}
   ],
 "sndi_co": [
     {
@@ -3091,7 +3181,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/955004001928216612/1134481638177378364/Dita_Common.png"
-  }
+}
   ],
 "snji_co": [
     {
@@ -3101,7 +3191,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/955004001928216612/1134489424038744115/Jinny_Common.png"
-  }
+}
   ],
 "snmj_co": [
     {
@@ -3111,7 +3201,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/955004001928216612/1134489424516886549/Minji_Common.png"
-  }
+}
   ],
 "snsd_co": [
     {
@@ -3121,7 +3211,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/955004001928216612/1134481637107843296/Soodam_Common.png"
-  }
+}
   ],
 "snzu_co": [
     {
@@ -3131,7 +3221,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://media.discordapp.net/attachments/955004001928216612/1134481638844284948/Zuu_Common.png"
-  }
+}
   ],
   "klju_co": [
     {
@@ -3141,7 +3231,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134724740465037324/1134724929842053120/Common_1_4.png"
-  }
+}
   ],
 "klna_co": [
     {
@@ -3151,7 +3241,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134724740465037324/1134724947730772028/Common_1_2.png"
-  }
+}
   ],
 "klbe_co": [
     {
@@ -3161,7 +3251,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134724740465037324/1134724966391238786/Common_1_3.png"
-  }
+}
   ],
 "klha_co": [
     {
@@ -3171,7 +3261,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134724740465037324/1134727922389884928/Common_1_6.png"
-  }
+}
   ],
 "onra_co": [
     {
@@ -3181,7 +3271,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1135187258480263320/1135187379028762634/ravn_E5CA1B3.png"
-  }
+}
   ],
 "onsh_co": [
     {
@@ -3191,7 +3281,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1135187258480263320/1135187419663179776/seoho_5A2DEFE.png"
-  }
+}
   ],
 "onle_co": [
     {
@@ -3201,7 +3291,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1135187258480263320/1135187444703174737/leedo_5C9E017.png"
-  }
+}
   ],
 "onkh_co": [
     {
@@ -3211,7 +3301,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1135187258480263320/1135187500491620482/keonhee_3DEF170.png"
-  }
+}
   ],
 "onhw_co": [
     {
@@ -3221,7 +3311,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1135187258480263320/1135187533563707455/hwanwoong_FDED516.png"
-  }
+}
   ],
 "onxi_co": [
     {
@@ -3231,7 +3321,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1135187258480263320/1135187561971720252/xion_B08CD34.png"
-  }
+}
   ],
 "ikbi_co": [
     {
@@ -3241,7 +3331,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134750316361949304/1134750429662683176/template_for_common_63AAF70.png"
-  }
+}
   ],
 "ikja_co": [
     {
@@ -3251,7 +3341,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134750316361949304/1134750476886360134/template_for_common_C7DD797.png"
-  }
+}
   ],
 "ikso_co": [
     {
@@ -3261,7 +3351,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134750316361949304/1134750546486644736/template_for_common_8DDCCB9.png"
-  }
+}
   ],
 "ikbo_co": [
     {
@@ -3271,7 +3361,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134750316361949304/1134750610743369728/template_for_common_728A5D9.png"
-  }
+}
   ],
 "ikdk_co": [
     {
@@ -3281,7 +3371,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134750316361949304/1134750703970173050/template_for_common_F7F1A10.png"
-  }
+}
   ],
 "ikjn_co": [
     {
@@ -3291,7 +3381,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134750316361949304/1134750745149833397/template_for_common_6A662E1.png"
-  }
+}
   ],
 "ikch_co": [
     {
@@ -3301,7 +3391,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1134750316361949304/1134750774182809670/template_for_common_3B444E1.png"
-  }
+}
   ],
 "epwi_co": [
     {
@@ -3311,7 +3401,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136488853373472788/wish_3FFB6E4.png"
-  }
+}
   ],
 "epke_co": [
     {
@@ -3321,7 +3411,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136488875339022356/keum_C433996.png"
-  }
+}
   ],
 "epmu_co": [
     {
@@ -3331,7 +3421,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136488896750964837/MU_58ECE85.png"
-  }
+}
   ],
 "epam_co": [
     {
@@ -3341,7 +3431,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136488919098196080/A-min_E661566.png"
-  }
+}
   ],
 "epbs_co": [
     {
@@ -3351,7 +3441,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136488949599174790/baekseung_FBC03F2.png"
-  }
+}
   ],
 "epad_co": [
     {
@@ -3361,7 +3451,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136488972055482429/ayden_CC230A5.png"
-  }
+}
   ],
 "epyw_co": [
     {
@@ -3371,7 +3461,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136488990959210716/yewang_A9048A1.png"
-  }
+}
   ],
 "epje_co": [
     {
@@ -3381,7 +3471,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1136488752085213224/1136489009833590935/jeff_280C22D.png"
-  }
+}
   ],
 "sosa_co": [
     {
@@ -3391,7 +3481,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/955004001928216612/1133734469426237510/Swan_Solo_Common.png"
-  }
+}
   ],
 "sobh_co": [
     {
@@ -3401,7 +3491,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131382895722897592/1136226614330523668/solo_baekhyun_7CA9CA3.png"
-  }
+}
   ],
 "njmj_nj": [{
   "name": "`🟨` NewJeans **Minji** - New Jeans",
@@ -3555,7 +3645,7 @@
   "theme": "Follow - Find You",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1068701501117186129/1068701848753676288/Follow_-_Find_You_Concept_-_Shownu.png"
-  }
+}
   ],
 "mxmh_ff": [
     {
@@ -3565,7 +3655,7 @@
   "theme": "Follow - Find You",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1068701501117186129/1068701849827409990/Follow_-_Find_You_Concept_-_Minhyuk.png"
-  }
+}
   ],
 "mxki_ff": [
     {
@@ -3575,7 +3665,7 @@
   "theme": "Follow - Find You",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1068701501117186129/1068701850280402984/Follow_-_Find_You_Concept_-_Kihyun.png"
-  }
+}
   ],
 "mxhw_ff": [
     {
@@ -3585,7 +3675,7 @@
   "theme": "Follow - Find You",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1068701501117186129/1068701850641125457/Follow_-_Find_You_Concept_-_Hyungwon.png"
-  }
+}
   ],
 "mxjo_ff": [
     {
@@ -3595,7 +3685,7 @@
   "theme": "Follow - Find You",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1068701501117186129/1068701851068924035/Follow_-_Find_You_Concept_-_Joohoney.png"
-  }
+}
   ],
 "mxim_ff": [
     {
@@ -3605,7 +3695,7 @@
   "theme": "Follow - Find You",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1068701501117186129/1068701851417059439/Follow_-_Find_You_Concept_-_I.M.png"
-  }
+}
   ],
 "mxwo_ff": [
     {
@@ -3615,7 +3705,7 @@
   "theme": "Follow - Find You",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1068701501117186129/1068701849286365266/Follow_-_Find_You_Concept_-_Wonho.png"
-  }
+}
   ],
 "rvir_qd": [
     {
@@ -3625,7 +3715,7 @@
   "theme": "Queendom",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/872889698853470221/1131716370116120747/Red_Velvet_Queendom_-_Irene.png"
-  }
+}
   ],
 "rvsl_qd": [
     {
@@ -3635,7 +3725,7 @@
   "theme": "Queendom",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/872889698853470221/1131716389321855126/Red_Velvet_Queendom_-_Seulgi.png"
-  }
+}
   ],
 "rvwe_qd": [
     {
@@ -3645,7 +3735,7 @@
   "theme": "Queendom",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/872889698853470221/1131716402865242132/Red_Velvet_Queendom_-_Wendy.png"
-  }
+}
   ],
 "rvjo_qd": [
     {
@@ -3655,7 +3745,7 @@
   "theme": "Queendom",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/872889698853470221/1131716423656411166/Red_Velvet_Queendom_-_Joy.png"
-  }
+}
   ],
 "rvye_qd": [
     {
@@ -3665,7 +3755,7 @@
   "theme": "Queendom",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/872889698853470221/1131716437921239090/Red_Velvet_Queendom_-_Yeri.png"
-  }
+}
   ],
 "cxbx_ok": [
     {
@@ -3675,7 +3765,7 @@
   "theme": "OK EPISODE 1 : OK NOT",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1043738578599034900/1043738671792271390/cixbx-oknot.png"
-  }
+}
   ],
 "cxsh_ok": [
     {
@@ -3685,7 +3775,7 @@
   "theme": "OK EPISODE 1 : OK NOT",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1043738578599034900/1043738692298227812/cixseunghun-oknot.png"
-  }
+}
   ],
 "cxyo_ok": [
     {
@@ -3695,7 +3785,7 @@
   "theme": "OK EPISODE 1 : OK NOT",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1043738578599034900/1043738990634876978/cixyonghee-oknot.png"
-  }
+}
   ],
 "cxjy_ok": [
     {
@@ -3705,7 +3795,7 @@
   "theme": "OK EPISODE 1 : OK NOT",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1043738578599034900/1043741531263213578/cixjinyoung-oknot.png"
-  }
+}
   ],
 "cxhs_ok": [
     {
@@ -3715,7 +3805,7 @@
   "theme": "OK EPISODE 1 : OK NOT",
   "rarity": "`⬛`",
   "image": "https://cdn.discordapp.com/attachments/1043738578599034900/1043742074580779118/cixhyunsuk-oknot.png"
-  }
+}
   ],
 "soyk_co": [
     {
@@ -3725,7 +3815,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1057336213293498368/1057336348811477012/yukika_common.png"
-  }
+}
   ],
 "sona_co": [
     {
@@ -3735,7 +3825,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131968382812569600/1131968496562090055/nayeoncommon.png"
-  }
+}
   ],
 "sosk_co": [
     {
@@ -3745,7 +3835,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131382895722897592/1131382961997107240/template_for_common_3E85376.png"
-  }
+}
   ],
 "sosw_co": [
     {
@@ -3755,7 +3845,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131382895722897592/1131382985652965526/template_for_common_BC32079.png"
-  }
+}
   ],
 "xgjr_co": [
     {
@@ -3765,7 +3855,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1083382999682388058/1083383168779948122/template_for_common_65336A4.png"
-  }
+}
   ],
 "xgch_co": [
     {
@@ -3775,7 +3865,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1083382999682388058/1083383201197736036/template_for_common_EA0F5FF.png"
-  }
+}
   ],
 "xghi_co": [
     {
@@ -3785,7 +3875,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1083382999682388058/1083383229911924776/template_for_common_682DCC1.png"
-  }
+}
   ],
 "xghv_co": [
     {
@@ -3795,7 +3885,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1083382999682388058/1083383264707887114/template_for_common_B2CA649.png"
-  }
+}
   ],
 "xgju_co": [
     {
@@ -3805,7 +3895,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1083382999682388058/1083383288904827010/template_for_common_33CD514.png"
-  }
+}
   ],
 "xgma_co": [
     {
@@ -3815,7 +3905,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1083382999682388058/1083383312959156265/template_for_common_BAA2938.png"
-  }
+}
   ],
 "xgcc_co": [
     {
@@ -3825,7 +3915,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1083382999682388058/1083383335709069403/template_for_common_C59969F.png"
-  }
+}
   ],
 "wksj_co": [
     {
@@ -3835,7 +3925,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131955802022891591/1131955864538976256/soojincommon.png"
-  }
+}
   ],
 "wkjy_co": [
     {
@@ -3845,7 +3935,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131955802022891591/1131955865033920532/jiyooncommon.png"
-  }
+}
   ],
 "wkmo_co": [
     {
@@ -3855,7 +3945,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131955802022891591/1131955865579163804/mondaycommon.png"
-  }
+}
   ],
 "wkso_co": [
     {
@@ -3865,7 +3955,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131955802022891591/1131955866447388722/soeuncommon.png"
-  }
+}
   ],
 "wkjh_co": [
     {
@@ -3875,7 +3965,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131955802022891591/1131955866891980941/jaeheecommon.png"
-  }
+}
   ],
 "wkji_co": [
     {
@@ -3885,7 +3975,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131955802022891591/1131955867412090890/jihancommon.png"
-  }
+}
   ],
 "wkzo_co": [
     {
@@ -3895,7 +3985,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131955802022891591/1131955867835703427/zoacommon.png"
-  }
+}
   ],
 "zbzh_co": [
     {
@@ -3905,7 +3995,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131475632094728253/template_for_common_FDBB6DB.png"
-  }
+}
   ],
 "zbha_co": [
     {
@@ -3915,7 +4005,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543057649635369/template_for_common_0015AFA.png"
-  }
+}
   ],
 "zbma_co": [
     {
@@ -3925,7 +4015,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543114209829016/template_for_common_8393556.png"
-  }
+}
   ],
 "zbri_co": [
     {
@@ -3935,7 +4025,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543152684179486/template_for_common_1A109DB.png"
-  }
+}
   ],
 "zbgw_co": [
     {
@@ -3945,7 +4035,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543181503254578/template_for_common_AE442FE.png"
-  }
+}
   ],
 "zbta_co": [
     {
@@ -3955,7 +4045,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543215384842240/template_for_common_853C827.png"
-  }
+}
   ],
 "zbgv_co": [
     {
@@ -3965,7 +4055,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543238730338464/template_for_common_861453E.png"
-  }
+}
   ],
 "zbjw_co": [
     {
@@ -3975,7 +4065,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543295512821790/template_for_common_04A5476.png"
-  }
+}
   ],
 "zbyj_co": [
     {
@@ -3985,7 +4075,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131473981996802068/1131543352823775293/template_for_common_FDA0D8E.png"
-  }
+}
   ],
 "xedo_co": [
     {
@@ -3995,7 +4085,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1070067734659989516/1070067899747799161/xddh_co.png"
-  }
+}
   ],
 "xero_co": [
     {
@@ -4005,7 +4095,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1070067734659989516/1070067900179824852/xdrn_co.png"
-  }
+}
   ],
 "xeba_co": [
     {
@@ -4015,7 +4105,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1070067734659989516/1070430460154499225/xdba_co1.png"
-  }
+}
   ],
 "xejm_co": [
     {
@@ -4025,7 +4115,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1070067734659989516/1070067901534584942/xdjm_co.png"
-  }
+}
   ],
 "ndma_co": [
     {
@@ -4035,7 +4125,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131887555609120808/1131888052491522098/template_for_common_685A401.png"
-  }
+}
   ],
 "ndre_co": [
     {
@@ -4045,7 +4135,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131887555609120808/1131888076986253322/template_for_common_DD10731.png"
-  }
+}
   ],
 "ndje_co": [
     {
@@ -4055,7 +4145,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131887555609120808/1131888166266216488/template_for_common_318C506.png"
-  }
+}
   ],
 "ndhc_co": [
     {
@@ -4065,7 +4155,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131887555609120808/1131888218070073455/template_for_common_B09E9A3.png"
-  }
+}
   ],
 "ndjm_co": [
     {
@@ -4075,7 +4165,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131887555609120808/1131888237913313310/template_for_common_B6309E5.png"
-  }
+}
   ],
 "ndch_co": [
     {
@@ -4085,7 +4175,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131887555609120808/1131897409455271946/template_for_common_09BB240.png"
-  }
+}
   ],
 "ndji_co": [
     {
@@ -4095,7 +4185,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1131887555609120808/1131888297908637736/template_for_common_A993761.png"
-  }
+}
   ],
 "egsy_co": [
     {
@@ -4105,7 +4195,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1132871844001746974/1132872043096985690/template_for_common_84B659B.png"
-  }
+}
   ],
 "egeu_co": [
     {
@@ -4115,7 +4205,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1132871844001746974/1132872612121415750/template_for_common_C79FDE8.png"
-  }
+}
   ],
 "egmi_co": [
     {
@@ -4125,7 +4215,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1132871844001746974/1132872652755845210/template_for_common_3452B3C.png"
-  }
+}
   ],
 "egon_co": [
     {
@@ -4135,7 +4225,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1132871844001746974/1132872688524853339/template_for_common_86FE10E.png"
-  }
+}
   ],
 "egai_co": [
     {
@@ -4145,7 +4235,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1132871844001746974/1132872719273316413/template_for_common_0138765.png"
-  }
+}
   ],
 "egyi_co": [
     {
@@ -4155,7 +4245,7 @@
   "theme": "Common",
   "rarity": "`⬜`",
   "image": "https://cdn.discordapp.com/attachments/1132871844001746974/1132872751418441888/template_for_common_B7E2992.png"
-  }
+}
   ],
 "soad_dd": [{
   "name": "`⬛` Soloist **Agust D** - D-DAY",
