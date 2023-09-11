@@ -185,6 +185,15 @@
           "rarity": "<:BB_ban1:1126097219985092683>",          
           "image": "https://cdn.discordapp.com/attachments/1142486449623666758/1142486486621634580/Brave_Girls_-_Rollin_Banner.png"
     }],
+    "BBKEEV": [
+      {
+        "name": "<:BB_Summer2023:949564660326203393> Hiyyih Bot - Barbie and Ken (Event)",
+        "group": "Hiyyih Bot",
+        "theme": "Barbie and Ken (Event)",
+        "rarity": "<:BB_barbie:1149164280374116362>",
+        "image": "https://cdn.discordapp.com/attachments/1150744339987824650/1150745446600413204/Barbie_Event_Banner.png"
+      }
+    ],
     "SM23EV": [
       {
         "name": "<:BB_Summer2023:949564660326203393> Hiyyih Bot - Summer 2023 (Event)",
