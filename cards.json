@@ -16,58 +16,383 @@
   "theme": "None",
   "rarity": "❌"
 }],
-"izyu_bk": [
-  {
+"sotm_ad": [{
+  "name": "`⬛` Soloist **TAEMIN** - Advice",
+  "idol": "TAEMIN",
+  "group": "Soloist",
+  "theme": "Advice",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1079831129135263824/1079831408547205160/Taemin_Advice.png"
+}],
+"soye_sp": [{
+  "name": "`⬛` Soloist **YENA** - Smartphone `v2`",
+  "idol": "YENA",
+  "group": "Soloist",
+  "theme": "Smartphone `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1055813875062276106/1055813938358538260/Photopea_23_Dec_2022_1_53_05_pm_.png"
+}],
+"omhj_fl": [{
+  "name": "`⬛` Oh My Girl **Hyojung** - Fall in Love",
+  "idol": "Hyojung",
+  "group": "Oh My Girl",
+  "theme": "Fall in Love",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/999539087197351967/999539311450013826/omghyojung-concept.png"
+}],
+"omyb_fl": [{
+  "name": "`⬛` Oh My Girl **Yubin** - Fall in Love",
+  "idol": "Binnie",
+  "group": "Oh My Girl",
+  "theme": "Fall in Love",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/999539087197351967/999539984870686760/omgbinnie-concept.png"
+}],
+"omar_fl": [{
+  "name": "`⬛` Oh My Girl **Arin** - Fall in Love",
+  "idol": "Arin",
+  "group": "Oh My Girl",
+  "theme": "Fall in Love",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/999539087197351967/999540073383088158/omgarin-concept.png"
+}],
+"ommm_fl": [{
+  "name": "`⬛` Oh My Girl **Mimi** - Fall in Love",
+  "idol": "Mimi",
+  "group": "Oh My Girl",
+  "theme": "Fall in Love",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/999539087197351967/999539427342827550/omgmimi-concept.png"
+}],
+"omyo_fl": [{
+  "name": "`⬛` Oh My Girl **YooA** - Fall in Love",
+  "idol": "YooA",
+  "group": "Oh My Girl",
+  "theme": "Fall in Love",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/999539087197351967/999539645165613086/omgyooa-concept.png"
+}],
+"omsg_fl": [{
+  "name": "`⬛` Oh My Girl **Seunghee** - Fall in Love",
+  "idol": "Seunghee",
+  "group": "Oh My Girl",
+  "theme": "Fall in Love",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/999539087197351967/999539745992491048/omgseunghee-concept.png"
+}],
+"omji_fl": [{
+  "name": "`⬛` Oh My Girl **Jiho** - Fall in Love",
+  "idol": "Jiho",
+  "group": "Oh My Girl",
+  "theme": "Fall in Love",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/999539087197351967/999539910782484531/omgjiho-concept.png"
+}],
+"ioeu_iz": [{
+  "name": "`⬛` IZ * ONE **Eunbi** - COLOR * IZ `v2`",
+  "idol": "Eunbi",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147843100375531590/izeunbiv2.png"
+}],
+"iosk_iz": [{
+  "name": "`⬛` IZ * ONE **Sakura** - COLOR * IZ `v2`",
+  "idol": "Sakura",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147843123498721370/izsakurav2.png"
+}],
+"iohw_iz": [{
+  "name": "`⬛` IZ * ONE **Hyewon** - COLOR * IZ `v2`",
+  "idol": "Hyewon",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147843867413065788/izhyewonv2.png"
+}],
+"ioye_iz": [{
+  "name": "`⬛` IZ * ONE **Yena** - COLOR * IZ `v2`",
+  "idol": "Yena",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147843901076557864/izyenav2.png"
+}],
+"iocy_iz": [{
+  "name": "`⬛` IZ * ONE **Chaeyeon** - COLOR * IZ `v2`",
+  "idol": "Chaeyeon",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147844817531961415/izchaeyeonv2.png"
+}],
+"iocw_iz": [{
+  "name": "`⬛` IZ * ONE **Chaewon** - COLOR * IZ `v2`",
+  "idol": "Chaewon",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147844844920774677/izchaewonv2.png"
+}],
+"iomi_iz": [{
+  "name": "`⬛` IZ * ONE **Minju** - COLOR * IZ `v2`",
+  "idol": "Minju",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147844871596552232/izminjuv2.png"
+}],
+"iona_iz": [{
+  "name": "`⬛` IZ * ONE **Nako** - COLOR * IZ `v2`",
+  "idol": "Nako",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147844897907429386/iznakov2.png"
+}],
+"iohi_iz": [{
+  "name": "`⬛` IZ * ONE **Hitomi** - COLOR * IZ `v2`",
+  "idol": "Hitomi",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147847373775716453/izhitomiv2.png"
+}],
+"ioyu_iz": [{
+  "name": "`⬛` IZ * ONE **Yuri** - COLOR * IZ `v2`",
+  "idol": "Yuri",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147847401235820635/izyuriv2.png"
+}],
+"ioyj_iz": [{
+  "name": "`⬛` IZ * ONE **Yujin** - COLOR * IZ `v2`",
+  "idol": "Yujin",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147849778005299281/izyujinv2.png"
+}],
+"iowy_iz": [{
+  "name": "`⬛` IZ * ONE **Wonyoung** - COLOR * IZ `v2`",
+  "idol": "Wonyoung",
+  "group": "IZ * ONE",
+  "theme": "COLOR * IZ `v2`",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1147843013922541679/1147849800205746207/izwonyoungv2.png"
+}],
+"tple_oo": [{
+  "name": "`⬛` TEMPEST **Lew** - On and On",
+  "idol": "Lew",
+  "group": "TEMPEST",
+  "theme": "On and On",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1148013572731981885/1148013666218811442/Tempest_On_and_On_-_Lew.png"
+}],
+"tpha_oo": [{
+  "name": "`⬛` TEMPEST **Hanbin** - On and On",
+  "idol": "Hanbin",
+  "group": "TEMPEST",
+  "theme": "On and On",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1148013572731981885/1148013721747210270/Tempest_On_and_On_-_Hanbin.png"
+}],
+"tphs_oo": [{
+  "name": "`⬛` TEMPEST **Hyeongseop** - On and On",
+  "idol": "Hyeongseop",
+  "group": "TEMPEST",
+  "theme": "On and On",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1148013572731981885/1148013752558563429/Tempest_On_and_On_-_Hyeongseop.png"
+}],
+"tphy_oo": [{
+  "name": "`⬛` TEMPEST **Hyuk** - On and On",
+  "idol": "Hyuk",
+  "group": "TEMPEST",
+  "theme": "On and On",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1148013572731981885/1148013680743677952/Tempest_On_and_On_-_Hyuk.png"
+}],
+"tpeu_oo": [{
+  "name": "`⬛` TEMPEST **Eunchan** - On and On",
+  "idol": "Eunchan",
+  "group": "TEMPEST",
+  "theme": "On and On",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1148013572731981885/1148013649210900631/Tempest_On_and_On_-_Eunchan.png"
+}],
+"tphw_oo": [{
+  "name": "`⬛` TEMPEST **Hwarang** - On and On",
+  "idol": "Hwarang",
+  "group": "TEMPEST",
+  "theme": "On and On",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1148013572731981885/1148013735991058432/Tempest_On_and_On_-_Hwarang.png"
+}],
+"tptr_oo": [{
+  "name": "`⬛` TEMPEST **Tae Rae** - On and On",
+  "idol": "Tae Rae",
+  "group": "TEMPEST",
+  "theme": "On and On",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1148013572731981885/1148013696933703721/Tempest_On_and_On_-_Taerae.png"
+}],
+"pmjk_mu": [{
+  "name": "`⬛` 2PM **Jun.K** - MUST",
+  "idol": "Jun.K",
+  "group": "2PM",
+  "theme": "MUST",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1000194404377710725/1002415157189824512/2pjk_mu.png"
+}],
+"pmnk_mu": [{
+  "name": "`⬛` 2PM **Nichkhun** - MUST",
+  "idol": "Nichkhun",
+  "group": "2PM",
+  "theme": "MUST",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1000194404377710725/1002415157596655656/2pnk_mu.png"
+}],
+"pmwy_mu": [{
+  "name": "`⬛` 2PM **Wooyoung** - MUST",
+  "idol": "Wooyoung",
+  "group": "2PM",
+  "theme": "MUST",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1000194404377710725/1002415157940605019/2ptc_mu.png"
+}],
+"pmtc_mu": [{
+  "name": "`⬛` 2PM **Taecyeon** - MUST",
+  "idol": "Taecyeon",
+  "group": "2PM",
+  "theme": "MUST",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1000194404377710725/1002415158330667190/2pwy_mu.png"
+}],
+"pmjh_mu": [{
+  "name": "`⬛` 2PM **Junho** - MUST",
+  "idol": "Junho",
+  "group": "2PM",
+  "theme": "MUST",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1000194404377710725/1002415158687191110/2pjh_mu.png"
+}],
+"pmcs_mu": [{
+  "name": "`⬛` 2PM **Chansung** - MUST",
+  "idol": "Chansung",
+  "group": "2PM",
+  "theme": "MUST",
+  "rarity": "`⬛`",
+  "image": "https://media.discordapp.net/attachments/1000194404377710725/1002415159110807642/2pcs_mu.png"
+}],
+"athj_tw": [{
+  "name": "`⬛` ATEEZ **Hongjoong** - The World EP.1 : Movement `v2`",
+  "idol": "Hongjoong",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141911890172321792/Ateez_-_The_World_EP1_Movement_2_Hongjoong.png"
+}],
+"atsh_tw": [{
+  "name": "`⬛` ATEEZ **Seonghwa** - The World EP.1 : Movement `v2`",
+  "idol": "Seonghwa",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141911921197592719/Ateez_-_The_World_EP1_Movement_2_Seonghwa.png"
+}],
+"atyu_tw": [{
+  "name": "`⬛` ATEEZ **Yunho** - The World EP.1 : Movement `v2`",
+  "idol": "Yunho",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141911949928575016/Ateez_-_The_World_EP1_Movement_2_Yunho.png"
+}],
+"atys_tw": [{
+  "name": "`⬛` ATEEZ **Yeosang** - The World EP.1 : Movement `v2`",
+  "idol": "Yeosang",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141911974935023706/Ateez_-_The_World_EP1_Movement_2_Yeosang.png"
+}],
+"atsa_tw": [{
+  "name": "`⬛` ATEEZ **San** - The World EP.1 : Movement `v2`",
+  "idol": "San",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141912007809966130/Ateez_-_The_World_EP1_Movement_2_San.png"
+}],
+"atmi_tw": [{
+  "name": "`⬛` ATEEZ **Mingi** - The World EP.1 : Movement `v2`",
+  "idol": "Mingi",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141912025707053288/Ateez_-_The_World_EP1_Movement_2_Mingi.png"
+}],
+"atwy_tw": [{
+  "name": "`⬛` ATEEZ **Wooyoung** - The World EP.1 : Movement `v2`",
+  "idol": "Wooyoung",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141912060117139528/Ateez_-_The_World_EP1_Movement_2_Wooyoung.png"
+}],
+"atjo_tw": [{
+  "name": "`⬛` ATEEZ **Jongho** - The World EP.1 : Movement `v2`",
+  "idol": "Jongho",
+  "group": "ATEEZ",
+  "theme": "The World EP.1 : Movement `v2`",
+  "rarity": "`⬛`",
+  "image": "https://cdn.discordapp.com/attachments/1141911794005323886/1141912086302183464/Ateez_-_The_World_EP1_Movement_2_Jongho.png"
+}],
+"izyu_bk": [{
     "name": "<:BB_barbie:1149164280374116362> ITZY **Yuna** - Barbie",
     "idol": "Yuna",
     "group": "ITZY",
     "theme": "Barbie",
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147675265527455766/Sans_titre_256_20230903002735.png"
-}
-],
-"bpro_bk": [
-  {
+}],
+"bpro_bk": [{
     "name": "<:BB_barbie:1149164280374116362> BLACKPINK **Rosé** - Barbie",
     "idol": "Rosé",
     "group": "BLACKPINK",
     "theme": "Barbie",
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147884818462412931/barbie_rose_20230903141819.png"
-}
-],
-"ivli_bk": [
-  {
+}],
+"ivli_bk": [{
     "name": "<:BB_barbie:1149164280374116362> IVE **Liz** - Barbie",
     "idol": "Liz",
     "group": "IVE",
     "theme": "Barbie",
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1148065855540822046/ive_liz_.png"
-}
-],
-"soty_bk": [
-  {
+}],
+"soty_bk": [{
     "name": "<:BB_barbie:1149164280374116362> Soloist **TAEYEON** - Barbie",
     "idol": "TAEYEON",
     "group": "Soloist",
     "theme": "Barbie",
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460225301164133/Barbie_-_Taeyeon.png"
-}
-],
-"vveu_bk": [
-  {
+}],
+"vveu_bk": [{
     "name": "<:BB_barbie:1149164280374116362> VIVIZ **Eunha** - Barbie",
     "idol": "Eunha",
     "group": "VIVIZ",
     "theme": "Barbie",
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460425600151562/Barbie_-_Viviz_Eunha.png"
-}
-],
-"k1ba_bk": [
-  {
+}],
+"k1ba_bk": [{
     "name": "<:BB_barbie:1149164280374116362> Kep1er **Huening Bahiyyih** - Barbie",
     "idol": "Huening Bahiyyih",
     "group": "Kep1er",
@@ -75,8 +400,7 @@
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149470946428731402/barbie_bahiyyih_2.png"
 }],
-"wjdy_bk": [
-  {
+"wjdy_bk": [{
     "name": "<:BB_barbie:1149164280374116362> WJSN **Dayoung** - Barbie",
     "idol": "Dayoung",
     "group": "WJSN",
@@ -84,8 +408,7 @@
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1150439876974612630/wjsn_dayoung.png"
 }],
-"apbo_bk": [
-  {
+"apbo_bk": [{
     "name": "<:BB_barbie:1149164280374116362> Apink **Bomi** - Barbie",
     "idol": "Bomi",
     "group": "Apink",
@@ -93,8 +416,7 @@
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1150439140870066236/apink_bomi.png"
 }],
-"sosm_bk": [
-  {
+"sosm_bk": [{
     "name": "<:BB_barbie:1149164280374116362> Soloist **JEON SOMI** - Barbie",
     "idol": "JEON SOMI",
     "group": "Soloist",
@@ -102,8 +424,7 @@
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149495739223900180/Barbie_-_Soloist_Jeon_Somi.png"
 }],
-"scsi_bk": [
-  {
+"scsi_bk": [{
     "name": "<:BB_barbie:1149164280374116362> STAYC **Sieun** - Barbie",
     "idol": "Sieun",
     "group": "STAYC",
@@ -111,8 +432,7 @@
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149497571409150003/BOOON.png"
 }],
-"spmr_bk": [
-  {
+"spmr_bk": [{
     "name": "<:BB_barbie:1149164280374116362> Special **Margot Robbie** - Barbie",
     "idol": "Margot Robbie",
     "group": "Special",
@@ -120,8 +440,7 @@
     "rarity": "<:BB_barbie:1149164280374116362>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460510807441448/Barbie_-_Margot_Robbie.png"
 }],
-"svvn_bk": [
-  {
+"svvn_bk": [{
     "name": "<:BB_ken:1149164094444798035> SEVENTEEN **Vernon** - Ken",
     "idol": "Vernon",
     "group": "SEVENTEEN",
@@ -129,8 +448,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147504355210174524/Barbie_and_Ken_20230902193635.png"
 }],
-"n1jw_bk": [
-  {
+"n1jw_bk": [{
     "name": "<:BB_ken:1149164094444798035> NCT 127 **Jungwoo** - Ken",
     "idol": "Jungwoo",
     "group": "NCT 127",
@@ -138,8 +456,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147697788549869568/ken_jungwoo_20230903015511.png"
 }],
- "tber_bk": [
-    {
+ "tber_bk": [{
       "name": "<:BB_ken:1149164094444798035> The Boyz **Eric** - Ken",
       "idol": "Eric",
       "group": "The Boyz",
@@ -147,8 +464,7 @@
       "rarity": "<:BB_ken:1149164094444798035>",
       "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1148066044905271369/eric_theboyz.png"
 }],
-"txhk_bk": [
-  {
+"txhk_bk": [{
     "name": "<:BB_ken:1149164094444798035> TXT **Huening Kai** - Ken",
     "idol": "Huening Kai",
     "group": "TXT",
@@ -156,8 +472,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1147874923214286928/ken_hkai_20230903133319.png"
 }],
-"atys_bk": [
-  {
+"atys_bk": [{
     "name": "<:BB_ken:1149164094444798035> ATEEZ **Yeosang** - Ken",
     "idol": "Yeosang",
     "group": "ATEEZ",
@@ -165,8 +480,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460352946417694/Barbie_-_Ateez_Yeosang.png"
 }],
-"vxke_bk": [
-  {
+"vxke_bk": [{
     "name": "<:BB_ken:1149164094444798035> VIXX **Ken** - Ken",
     "idol": "Ken",
     "group": "VIXX",
@@ -174,8 +488,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149460265667137577/Barbie_-_Vixx_Ken.png"
 }],
-"mxjo_bk": [
-  {
+"mxjo_bk": [{
     "name": "<:BB_ken:1149164094444798035> Monsta X **Joohoney** - Ken",
     "idol": "Joohoney",
     "group": "Monsta X",
@@ -183,8 +496,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://media.discordapp.net/attachments/1143350925205983325/1149460388316983490/Barbie_-_Monsta_X_Joohoney.png"
 }],
-"btji_bk": [
-  {
+"btji_bk": [{
     "name": "<:BB_ken:1149164094444798035> BTS **Jin** - Ken",
     "idol": "Jin",
     "group": "BTS",
@@ -192,8 +504,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://cdn.discordapp.com/attachments/1143350925205983325/1149489002106331217/Barbie_-_BTS_Jin.png"
 }],
-"skbc_bk": [
-  {
+"skbc_bk": [{
     "name": "<:BB_ken:1149164094444798035> Stray Kids **Bang Chan** - Ken",
     "idol": "Bang Chan",
     "group": "Stray Kids",
@@ -201,8 +512,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://media.discordapp.net/attachments/1143350925205983325/1149500725450244136/sigh.png"
 }],
-"tryo_bk": [
-  {
+"tryo_bk": [{
     "name": "<:BB_ken:1149164094444798035> TREASURE **Yoshi** - Ken",
     "idol": "Yoshi",
     "group": "TREASURE",
@@ -210,8 +520,7 @@
     "rarity": "<:BB_ken:1149164094444798035>",
     "image": "https://media.discordapp.net/attachments/955004001928216612/1149935474799038555/Barbie_and_Ken_20230909131112.png"
 }],
-"sprg_bk": [
-  {
+"sprg_bk": [{
     "name": "<:BB_ken:1149164094444798035> Special **Ryan Gosling** - Ken",
     "idol": "Ryan Gosling",
     "group": "Special",
