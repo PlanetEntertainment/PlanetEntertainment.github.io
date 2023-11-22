@@ -16,6 +16,26 @@
   "theme": "None",
   "rarity": "❌"
 }],
+  "spbv_au23": [
+    {
+      "name": "<:BB_Autumn23:1169073679221665812> Special **Bright Vachirawit** - Autumn 2023",
+      "idol": "Bright Vachirawit",
+      "group": "Special",
+      "theme": "Autumn 2023",
+      "rarity": "<:BB_Autumn23:1169073679221665812>",
+      "image": "https://cdn.discordapp.com/attachments/1160821843775729684/1176202403226325002/Bright_Vachirawit_Autumn_2023.png?ex=656e02d9&is=655b8dd9&hm=8489380c0e6f3139a06b6d57df3d609340ad0246e9237578419148ccf4ce928f&"
+    }
+  ],
+  "spwm_au23": [
+    {
+      "name": "<:BB_Autumn23:1169073679221665812> Special **Win Metawin** - Autumn 2023",
+      "idol": "Win Metawin",
+      "group": "Special",
+      "theme": "Autumn 2023",
+      "rarity": "<:BB_Autumn23:1169073679221665812>",
+      "image": "https://cdn.discordapp.com/attachments/1160821843775729684/1176014236967784559/Win_Metawin_Autumn_2023.png?ex=656d539b&is=655ade9b&hm=ad5afe23c35acf0790ae01c3b5cd46716cf79d6c8b6b004fece2230a762f85bf&"
+    }
+  ],
   "svww_au23": [
     {
       "name": "<:BB_Autumn23:1169074076623568946> SEVENTEEN **Wonwoo** - Autumn 2023",
