@@ -16,6 +16,876 @@
   "theme": "None",
   "rarity": "❌"
 }],
+  "bbek_co": [
+    {
+      "name": "`⬜` BTOB **Eunkwang** - Common",
+      "idol": "Eunkwang",
+      "group": "BTOB",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645438070341683/1176645513219674143/BTOB_Common_-_Eunkwang.png?ex=65948987&is=65821487&hm=923e92a74093d76a7c4d5edf3dd6851894652fd0c7c17976f00fcdc339269a79&"
+    }
+  ],
+  "bbmh_co": [
+    {
+      "name": "`⬜` BTOB **Minhyuk** - Common",
+      "idol": "Minhyuk",
+      "group": "BTOB",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645438070341683/1176645525597061150/BTOB_Common_-_Minhyuk.png?ex=6594898a&is=6582148a&hm=e383b1389ab35294372a49cda4bdbb8e09feaf0d04a9394db5d9b8f7f2c2e28f&"
+    }
+  ],
+  "bbch_co": [
+    {
+      "name": "`⬜` BTOB **Changsub** - Common",
+      "idol": "Changsub",
+      "group": "BTOB",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645438070341683/1176645539002064927/BTOB_Common_-_Changsub.png?ex=6594898d&is=6582148d&hm=51e2c643f9c4b7d62a93e753b77ea0f55bde70702c6df4eb1917025bf9ef78ec&"
+    }
+  ],
+  "bbhy_co": [
+    {
+      "name": "`⬜` BTOB **Hyunsik** - Common",
+      "idol": "Hyunsik",
+      "group": "BTOB",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645438070341683/1176645556404244601/BTOB_Common_-_Hyunsik.png?ex=65948991&is=65821491&hm=059ea58c2049dc170f1a5b0e36cefb2c7eb6c43837a690846283d87b4a52eb4b&"
+    }
+  ],
+  "bbpe_co": [
+    {
+      "name": "`⬜` BTOB **Peniel** - Common",
+      "idol": "Peniel",
+      "group": "BTOB",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645438070341683/1176645567959531591/BTOB_Common_-_Peniel.png?ex=65948994&is=65821494&hm=9411477a7af54ef0510d03cda7a8ce91b774c9e2d2c001d03463b7994dd92251&"
+    }
+  ],
+  "bbsj_co": [
+    {
+      "name": "`⬜` BTOB **Sungjae** - Common",
+      "idol": "Sungjae",
+      "group": "BTOB",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645438070341683/1176645581528113293/BTOB_Common_-_Sungjae.png?ex=65948997&is=65821497&hm=5d1806189dd5987ba208b1cf7f8ce378206b2f48bfc280fb1663ce06e6bf68e6&"
+    }
+  ],
+  "d6su_co": [
+    {
+      "name": "`⬜` DAY6 **Sungjin** - Common",
+      "idol": "Sungjin",
+      "group": "DAY6",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160587478353326181/1160587534519242894/Day6_Sungjin_Common.png?ex=65917d5e&is=657f085e&hm=28de5ce05253baf037a3df0e87cf5839d0b307c3347aae6a6cc05ca7ed96a4d0&"
+    }
+  ],
+  "d6yk_co": [
+    {
+      "name": "`⬜` DAY6 **Young K** - Common",
+      "idol": "Young K",
+      "group": "DAY6",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160587478353326181/1160587584083349555/Day6_Young_K_Common.png?ex=65917d6a&is=657f086a&hm=355c33574017b1827fd99fd22cbc03736709546e5fc407eed6e82b8ee39ce2b1&"
+    }
+  ],
+  "d6wp_co": [
+    {
+      "name": "`⬜` DAY6 **Wonpil** - Common",
+      "idol": "Wonpil",
+      "group": "DAY6",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160587478353326181/1160587544849821808/Day6_Wonpil_Common.png?ex=65917d61&is=657f0861&hm=ab38ede2fc21c7e97ed26e6eec4cbb3b703441a737bee3a1bf37dea6d4ddc740&"
+    }
+  ],
+  "d6do_co": [
+    {
+      "name": "`⬜` DAY6 **Dowoon** - Common",
+      "idol": "Dowoon",
+      "group": "DAY6",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160587478353326181/1160587570011443220/Day6_Dowoon_Common.png?ex=65917d67&is=657f0867&hm=6cc87dfeb624d95420ba4465780d399d95aa0b2e552efbfaac5039e023954043&"
+    }
+  ],
+  "oolo_co": [
+    {
+      "name": "`⬜` OnlyOneOf **Love** - Common",
+      "idol": "Love",
+      "group": "OnlyOneOf",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160357369461620748/1160545351036579900/onlyoneof_common_love.png?ex=65915615&is=657ee115&hm=3c843ffc8c3e985f5841f04bef7ed20f21ee85718735691213373decd1d90c52&"
+    }
+  ],
+  "ookb_co": [
+    {
+      "name": "`⬜` OnlyOneOf **KB** - Common",
+      "idol": "KB",
+      "group": "OnlyOneOf",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160357369461620748/1160545479474557018/onlyoneof_common_kb.png?ex=65915634&is=657ee134&hm=a940699bb7af40ac9625c12a1412d119a94dce57ef30ed34c57a01153d1d667a&"
+    }
+  ],
+  "oori_co": [
+    {
+      "name": "`⬜` OnlyOneOf **Rie** - Common",
+      "idol": "Rie",
+      "group": "OnlyOneOf",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160357369461620748/1160545410578915338/onlyoneof_common_rie.png?ex=65915623&is=657ee123&hm=dae246ed5407d62445034db6783d16a2d4cf10c3956bfc566ab5f91bf28ece91&"
+    }
+  ],
+  "ooyj_co": [
+    {
+      "name": "`⬜` OnlyOneOf **Yoojung** - Common",
+      "idol": "Yoojung",
+      "group": "OnlyOneOf",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160357369461620748/1160545545509675069/onlyoneof_common_yoojung.png?ex=65915643&is=657ee143&hm=04d1700364a98ff9afe776309ee7a10893cce6ea15a46272153ccf8ce55ab987&"
+    }
+  ],
+  "oojj_co": [
+    {
+      "name": "`⬜` OnlyOneOf **Junji** - Common",
+      "idol": "Junji",
+      "group": "OnlyOneOf",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160357369461620748/1160545148988575814/onlyoneof_common_junji_.png?ex=659155e5&is=657ee0e5&hm=81c89f093a553bf69727e6d6837594be720bb71047f7b846333336d4ddf36528&"
+    }
+  ],
+  "oomi_co": [
+    {
+      "name": "`⬜` OnlyOneOf **Mill** - Common",
+      "idol": "Mill",
+      "group": "OnlyOneOf",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160357369461620748/1160545215556354119/onlyoneof_common_mill.png?ex=659155f5&is=657ee0f5&hm=ae472c93059a83a0b9a9d7e7fb759d9cac374d3cb6c6f0786ee7ac834e52e515&"
+    }
+  ],
+  "ooni_co": [
+    {
+      "name": "`⬜` OnlyOneOf **Nine** - Common",
+      "idol": "Nine",
+      "group": "OnlyOneOf",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160357369461620748/1160545282661027921/onlyoneof_common_Nine.png?ex=65915605&is=657ee105&hm=6a9ccdbf20ed361cc1bca22ef7bbdc37dc64b37a051d559fc445cc4b87572bbf&"
+    }
+  ],
+  "rzsh_co": [
+    {
+      "name": "`⬜` RIIZE **Shotaro** - Common",
+      "idol": "Shotaro",
+      "group": "RIIZE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159099081981968434/1159099558077411388/riize_common_shotaro_2.png?ex=65954e15&is=6582d915&hm=461ca103260ce00e67aa59e20a92d12726091647aae73ad296b0246c33947c6d&"
+    }
+  ],
+  "rzes_co": [
+    {
+      "name": "`⬜` RIIZE **Eunseok** - Common",
+      "idol": "Eunseok",
+      "group": "RIIZE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159099081981968434/1159099442952155197/riize_common_eunseok.png?ex=65954dfa&is=6582d8fa&hm=03e27745ec5544e87781a50d20c795c63082ae5f7ffe77c4994e952af19498be&"
+    }
+  ],
+  "rzsc_co": [
+    {
+      "name": "`⬜` RIIZE **Sungchan** - Common",
+      "idol": "Sungchan",
+      "group": "RIIZE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159099081981968434/1159099606915887194/riize_common_sungchan_..png?ex=65954e21&is=6582d921&hm=c036bcb923d8c0ed0e9150d5ea3d00313909a20833edf4c66326f0836dcad2c2&"
+    }
+  ],
+  "rzwb_co": [
+    {
+      "name": "`⬜` RIIZE **Wonbin** - Common",
+      "idol": "Wonbin",
+      "group": "RIIZE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159099081981968434/1159099377617481759/riize_common_wonbin_1.png?ex=65954dea&is=6582d8ea&hm=7004037b7f0bf78e821bc0f5d4d28e0c14db5bcf42687b68acdce7ebbd4ba59a&"
+    }
+  ],
+  "rzse_co": [
+    {
+      "name": "`⬜` RIIZE **Seunghan** - Common",
+      "idol": "Seunghan",
+      "group": "RIIZE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159099081981968434/1159099172214034462/riize_common_seunghan.png?ex=65954db9&is=6582d8b9&hm=228b1a01d34d60ca8cff0fe8daf73fc15f48fb5c66e5998b8c5e734017bea339&"
+    }
+  ],
+  "rzso_co": [
+    {
+      "name": "`⬜` RIIZE **Sohee** - Common",
+      "idol": "Sohee",
+      "group": "RIIZE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159099081981968434/1159099505552138250/riize_common_sohee_1.png?ex=65954e09&is=6582d909&hm=0b779d89aa08d2e8f8b9a6d25fe5bf8077b008a98a1853bd87fd8e30cd3b2aaa&"
+    }
+  ],
+  "rzan_co": [
+    {
+      "name": "`⬜` RIIZE **Anton** - Common",
+      "idol": "Anton",
+      "group": "RIIZE",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159099081981968434/1159099255475142718/riize_common_anton.png?ex=65954dcd&is=6582d8cd&hm=856983dc6c5a0c7c13f2502e31557ae6b3685badcd7736b0c3cf6dd2cbb73ec8&"
+    }
+  ],
+  "s9yb_co": [
+    {
+      "name": "`⬜` SF9 **Youngbin** - Common",
+      "idol": "Youngbin",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465004867190804/Common2_20231008191354.png?ex=658fb552&is=657d4052&hm=8598ad191f16276d076bdbf071facf47fba6a9cc97a84e11d8a70354190e9a23&"
+    }
+  ],
+  "s9in_co": [
+    {
+      "name": "`⬜` SF9 **Inseong** - Common",
+      "idol": "Inseong",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465002363211776/Common2_20231008192651.png?ex=658fb551&is=657d4051&hm=cb9acebcd8b63e3d7c1c271479142d1d0ee4caeef74a3ed2e1b675f2f57541d7&"
+    }
+  ],
+  "s9jy_co": [
+    {
+      "name": "`⬜` SF9 **Jaeyoon** - Common",
+      "idol": "Jaeyoon",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185464999834046534/Common2_20231008194202.png?ex=658fb550&is=657d4050&hm=0a0302604e1d0c7e6cb22172570ff45791cd85acd38af66f2a958e5756934efa&"
+    }
+  ],
+  "s9da_co": [
+    {
+      "name": "`⬜` SF9 **Dawon** - Common",
+      "idol": "Dawon",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465003973816390/Common2_20231008192558.png?ex=658fb551&is=657d4051&hm=4e330f25bd6ab2dbd6e69f462fe625364a3dbd1f3de417bcf36851d1562dae79&"
+    }
+  ],
+  "s9zu_co": [
+    {
+      "name": "`⬜` SF9 **Zuho** - Common",
+      "idol": "Zuho",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465005789958194/Common2_20231008191103.png?ex=658fb552&is=657d4052&hm=74420a2a5aabf1e2448bcc8fa49a4abf036ff4e5e33236298882b5479bebe8cb&"
+    }
+  ],
+  "s9ro_co": [
+    {
+      "name": "`⬜` SF9 **Rowoon** - Common",
+      "idol": "Rowoon",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465000740007966/Common2_20231008193400.png?ex=658fb551&is=657d4051&hm=b9e6c67bf0cb532d2b62f36f2901f8a6ad1fd5cf63f8c72694e66b7f0beff43d&"
+    }
+  ],
+  "s9ty_co": [
+    {
+      "name": "`⬜` SF9 **Taeyang** - Common",
+      "idol": "Taeyang",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465003210440795/Common2_20231008191652.png?ex=658fb551&is=657d4051&hm=4e0169c8b5346cfd1a2c64df8f3b48d2192673192c004f14cb6d3038474ddfce&"
+    }
+  ],
+  "s9hy_co": [
+    {
+      "name": "`⬜` SF9 **Hwiyoung** - Common",
+      "idol": "Hwiyoung",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465006721085530/Common2_20231008190623.png?ex=658fb552&is=657d4052&hm=cbc22e74dd9a64709a6b54abe2463ac353d56b2086c802985feb8524b3ee1659&"
+    }
+  ],
+  "s9ch_co": [
+    {
+      "name": "`⬜` SF9 **Chani** - Common",
+      "idol": "Chani",
+      "group": "SF9",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185464792937406604/1185465001608216647/Common2_20231008193042.png?ex=658fb551&is=657d4051&hm=f4ae1c9b14f9b69c036b623fb69b961a397a0517e50068602c4d7f383ad597f0&"
+    }
+  ],
+  "wvku_co": [
+    {
+      "name": "`⬜` WayV **Kun** - Common",
+      "idol": "Kun",
+      "group": "WayV",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1163617594968920114/1163617782089396325/WayV_Common_-_Kun.png?ex=65934902&is=6580d402&hm=ee884fa21cadb2cdbc89a3a261ac7f73210a5e5de187025a0380a37be2ec5bd3&"
+    }
+  ],
+  "wvte_co": [
+    {
+      "name": "`⬜` WayV **Ten** - Common",
+      "idol": "Ten",
+      "group": "WayV",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1163617594968920114/1163617802897326180/WayV_Common_-_Ten.png?ex=65934907&is=6580d407&hm=e77b988f3559f08433f1f8bb162139a23542aa47d22da2478309069760a5b8fd&"
+    }
+  ],
+  "wvww_co": [
+    {
+      "name": "`⬜` WayV **Winwin** - Common",
+      "idol": "Winwin",
+      "group": "WayV",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1163617594968920114/1163617828662951936/WayV_Common_-_WinWin.png?ex=6593490d&is=6580d40d&hm=1d2f99a9f3c317509a3cea26e9c370f7ab5955be3b58a28744c1ed5edb983686&"
+    }
+  ],
+  "wvxj_co": [
+    {
+      "name": "`⬜` WayV **Xiaojun** - Common",
+      "idol": "Xiaojun",
+      "group": "WayV",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1163617594968920114/1163617852172029952/WayV_Common_-_Xiaojun.png?ex=65934912&is=6580d412&hm=72fbd3c5fc323e260c35d2f3c3f2ae131dd61b9cb06a26c1eb2eb9f7b55d9496&"
+    }
+  ],
+  "wvhe_co": [
+    {
+      "name": "`⬜` WayV **Hendery** - Common",
+      "idol": "Hendery",
+      "group": "WayV",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1163617594968920114/1163617903619362938/WayV_Common_-_Hendery.png?ex=6593491f&is=6580d41f&hm=b3e376e2518fc523613c262742ce732fd5b945baef3068279677cce43a8e254d&"
+    }
+  ],
+  "wvyy_co": [
+    {
+      "name": "`⬜` WayV **Yangyang** - Common",
+      "idol": "Yangyang",
+      "group": "WayV",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1163617594968920114/1163617928902623232/WayV_Common_-_YangYang.png?ex=65934925&is=6580d425&hm=b580826a37fe6fa424b1356244f7d9d96127541da297f96211526cef4cc2beda&"
+    }
+  ],
+  "necl_co": [
+    {
+      "name": "`⬜` 2NE1 **CL** - Common",
+      "idol": "CL",
+      "group": "2NE1",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1170839186404806676/1170839242914660372/2NE1_CL_Common.png?ex=6591df04&is=657f6a04&hm=b8bea3902d12338e5aa40db6681cb12ed650b11fac8893e1bc0f290aee03829f&"
+    }
+  ],
+  "nebo_co": [
+    {
+      "name": "`⬜` 2NE1 **Bom** - Common",
+      "idol": "Bom",
+      "group": "2NE1",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1170839186404806676/1170839256520990821/2NE1_Bom_Common.png?ex=6591df07&is=657f6a07&hm=63970fbeea8efb2f04797acd4630135faca904ff5c5e5d32229d0d2998b5c0d8&"
+    }
+  ],
+  "neda_co": [
+    {
+      "name": "`⬜` 2NE1 **Dara** - Common",
+      "idol": "Dara",
+      "group": "2NE1",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1170839186404806676/1170839272476123186/2NE1_Dara_Common.png?ex=6591df0b&is=657f6a0b&hm=94084ab2952a97feec71c252d9dfb9525a73ca014f8654a72507f58f69a53215&"
+    }
+  ],
+  "nemi_co": [
+    {
+      "name": "`⬜` 2NE1 **Minzy** - Common",
+      "idol": "Minzy",
+      "group": "2NE1",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1170839186404806676/1170839286057275409/2NE1_Minzy_Common.png?ex=6591df0e&is=657f6a0e&hm=0cb4c0f364b9d5449e645b1b3868cae208aedae4d974fa0f972f98efd2ead74c&"
+    }
+  ],
+  "apcr_co": [
+    {
+      "name": "`⬜` Apink **Chorong** - Common",
+      "idol": "Chorong",
+      "group": "Apink",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645606089969744/1176645655368835142/Apink_Common_-_Chorong.png?ex=659489a9&is=658214a9&hm=38e8a951f36f26f22eddc6d2741ca41a89a3aa045e339d66a546c005d8ce4126&"
+    }
+  ],
+  "apbo_co": [
+    {
+      "name": "`⬜` Apink **Bomi** - Common",
+      "idol": "Bomi",
+      "group": "Apink",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645606089969744/1176645669935648768/Apink_Common_-_Bomi.png?ex=659489ac&is=658214ac&hm=a06187c46e640aca82505d540f232fec1454a8cf8752acdd4215404d6491c3b4&"
+    }
+  ],
+  "apeu_co": [
+    {
+      "name": "`⬜` Apink **Eunji** - Common",
+      "idol": "Eunji",
+      "group": "Apink",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645606089969744/1176645687648211034/Apink_Common_-_Eunji.png?ex=659489b0&is=658214b0&hm=6806c2f06e287f86fbacad6f711bc0274cbccfc0540c399649743befe61c1e4b&"
+    }
+  ],
+  "apna_co": [
+    {
+      "name": "`⬜` Apink **Naeun** - Common",
+      "idol": "Naeun",
+      "group": "Apink",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645606089969744/1176645730253938759/Apink_Common_-_Naeun.png?ex=659489bb&is=658214bb&hm=4c6153c923710446da665e4ef4af6e2876a2a9ace7e43d41c71f25dc20adcb92&"
+    }
+  ],
+  "apnj_co": [
+    {
+      "name": "`⬜` Apink **Namjoo** - Common",
+      "idol": "Namjoo",
+      "group": "Apink",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645606089969744/1176645702294704278/Apink_Common_-_Namjoo.png?ex=659489b4&is=658214b4&hm=6370e4af1756bd636395a5971c7b2b5592c432999ee2669ae7c0f64c6211486d&"
+    }
+  ],
+  "aphy_co": [
+    {
+      "name": "`⬜` Apink **Hayoung** - Common",
+      "idol": "Hayoung",
+      "group": "Apink",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1176645606089969744/1176645716957986846/Apink_Common_-_Hayoung.png?ex=659489b7&is=658214b7&hm=22969b80e5b533a16c8487a3f6d465a2557ac8bb848c4106c3fdd6ebfb67221d&"
+    }
+  ],
+  "dnyo_co": [
+    {
+      "name": "`⬜` DreamNote **Youi** - Common",
+      "idol": "Youi",
+      "group": "DreamNote",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1157455011241009264/1160194847957860474/dreamnote_common_youi.png?ex=65900fa7&is=657d9aa7&hm=c4312032b2feb2cbc281593bd41707e8ac86b277bec2f22965c4192921485ce3&"
+    }
+  ],
+  "dnbo_co": [
+    {
+      "name": "`⬜` DreamNote **Boni** - Common",
+      "idol": "Boni",
+      "group": "DreamNote",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1157455011241009264/1160194915666505748/dreamnote_common_boni.png?ex=65900fb7&is=657d9ab7&hm=4e283a1b31b1aebdee870c9f93f3da9103d4240a4881e6383debb3afc3827128&"
+    }
+  ],
+  "dnla_co": [
+    {
+      "name": "`⬜` DreamNote **Lara** - Common",
+      "idol": "Lara",
+      "group": "DreamNote",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1157455011241009264/1160195166120980550/dreamnote_common_Lara.png?ex=65900ff2&is=657d9af2&hm=ac05e927ed5a203f8f32de1894093b8c9135444fbf6e2e13d124d7aa170cadc8&"
+    }
+  ],
+  "dnmi_co": [
+    {
+      "name": "`⬜` DreamNote **Miso** - Common",
+      "idol": "Miso",
+      "group": "DreamNote",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1157455011241009264/1160195307225755678/dreamnote_common_miso.png?ex=65901014&is=657d9b14&hm=8b35cd2ceeb72d1419dbea44ba958dfa641de814c206f2f8d92d0f6f48eba82d&"
+    }
+  ],
+  "dnsm_co": [
+    {
+      "name": "`⬜` DreamNote **Sumin** - Common",
+      "idol": "Sumin",
+      "group": "DreamNote",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1157455011241009264/1160194978191003658/dreamnote_common_sumin.png?ex=65900fc6&is=657d9ac6&hm=5cbffda8ccabc254ae7b0ba2e0a46368b94a1f1bb7a1acf82fec1dde69746aeb&"
+    }
+  ],
+  "dnej_co": [
+    {
+      "name": "`⬜` DreamNote **Eunjo** - Common",
+      "idol": "Eunjo",
+      "group": "DreamNote",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1157455011241009264/1160195082826293349/dreamnote_common_eunjo.png?ex=65900fdf&is=657d9adf&hm=b78a81f5a6e8958fd6edffb80051453bb0e91553d52a69e5acb23d7dafe3b930&"
+    }
+  ],
+  "ggty_co": [
+    {
+      "name": "`⬜` Girls' Generation **Taeyeon** - Common",
+      "idol": "Taeyeon",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1146459732652073122/SNSD_Taeyeon_Common.png?ex=659576d4&is=658301d4&hm=c3d19d47dd598932c61eee09e288d904da99827473c04b576d095697097dede1&"
+    }
+  ],
+  "ggsu_co": [
+    {
+      "name": "`⬜` Girls' Generation **Sunny** - Common",
+      "idol": "Sunny",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1146459882103521351/SNSD_Sunny_Common.png?ex=659576f8&is=658301f8&hm=42267e75137b234a311d3ccb0dedf3490f7501d3d16e12553ea0acd9ea6bf595&"
+    }
+  ],
+  "ggti_co": [
+    {
+      "name": "`⬜` Girls' Generation **Tiffany** - Common",
+      "idol": "Tiffany",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1146459982318018640/SNSD_Tiffany_Common.png?ex=6595770f&is=6583020f&hm=d65f355f42ef5eb77b6c8e6cf2ad9469f4bda3edb0c58341fc1edb3a96c041d4&"
+    }
+  ],
+  "gghy_co": [
+    {
+      "name": "`⬜` Girls' Generation **Hyoyeon** - Common",
+      "idol": "Hyoyeon",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1154212870255542322/SNSD_Hyoyeon_Common.png?ex=6595fc00&is=65838700&hm=e8f27c89532506e0428ab0462ef550bbbeb6ecc3684d2d4209b2004cbe0f07c1&"
+    }
+  ],
+  "ggyu_co": [
+    {
+      "name": "`⬜` Girls' Generation **Yuri** - Common",
+      "idol": "Yuri",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1146460039243124786/SNSD_Yuri_Common.png?ex=6595771d&is=6583021d&hm=77bc601aa203aed47efe229618c15b3e9d660cd330242c3bb5c094b3321e5913&"
+    }
+  ],
+  "ggsy_co": [
+    {
+      "name": "`⬜` Girls' Generation **Sooyoung** - Common",
+      "idol": "Sooyoung",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1146460105383096412/SNSD_Sooyoung_Common.png?ex=6595772d&is=6583022d&hm=2b2793637244ec7547fa375a89bbd374fcbe27f981afc19e397d5535b5fd9075&"
+    }
+  ],
+  "ggyo_co": [
+    {
+      "name": "`⬜` Girls' Generation **Yoona** - Common",
+      "idol": "Yoona",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1146460139143041064/SNSD_Yoona_Common.png?ex=65957735&is=65830235&hm=c01d718ee915a345106af61d937246eeb2585d57bde4c1e8bde1a34164e4defa&"
+    }
+  ],
+  "ggsh_co": [
+    {
+      "name": "`⬜` Girls' Generation **Seohyun** - Common",
+      "idol": "Seohyun",
+      "group": "Girls' Generation",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146459417236209704/1146460173695729694/SNSD_Seolhyun_Common.png?ex=6595773d&is=6583023d&hm=900c01682ecd77e46a23cf1b6abe401cc2d9c7784267057cd352ee7f9ec38f87&"
+    }
+  ],
+  "wmsy_co": [
+    {
+      "name": "`⬜` Weki Meki **Suyeon** - Common",
+      "idol": "Suyeon",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598739371134987/Weki_Meki_-_Common_Suyeon.png?ex=65941994&is=6581a494&hm=334b89fb8b09d752cec7ab6a0c47b92e6d6fd182d89a4a7a88d332889c44b957&"
+    }
+  ],
+  "wmel_co": [
+    {
+      "name": "`⬜` Weki Meki **Elly** - Common",
+      "idol": "Elly",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598752197316618/Weki_Meki_-_Common_Elly.png?ex=65941997&is=6581a497&hm=b7a6e6e1fc6ebd4137a4aaaa0c763428214ce0828b9c79b270155aa9c88c4d2d&"
+    }
+  ],
+  "wmyj_co": [
+    {
+      "name": "`⬜` Weki Meki **Yoojung** - Common",
+      "idol": "Yoojung",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598763568074782/Weki_Meki_-_Common_Yoojung.png?ex=6594199a&is=6581a49a&hm=83ecb4d5583b35c295475d411b5e7d6d1c8f4e7926febcba9bdd03836974c551&"
+    }
+  ],
+  "wmdy_co": [
+    {
+      "name": "`⬜` Weki Meki **Doyeon** - Common",
+      "idol": "Doyeon",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598777119879318/Weki_Meki_-_Common_Doyeon.png?ex=6594199d&is=6581a49d&hm=40a91332be378dbd05c78c00fdb7c2581a6690bc07a6b210500d948b212a4fa8&"
+    }
+  ],
+  "wmse_co": [
+    {
+      "name": "`⬜` Weki Meki **Sei** - Common",
+      "idol": "Sei",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598793326657627/Weki_Meki_-_Common_Sei.png?ex=659419a1&is=6581a4a1&hm=e14ebe9ffeb36fe512701c765f7f2987a6e764750000d5feb93dd1f40005fb23&"
+    }
+  ],
+  "wmlu_co": [
+    {
+      "name": "`⬜` Weki Meki **Lua** - Common",
+      "idol": "Lua",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598805515305030/Weki_Meki_-_Common_Lua.png?ex=659419a4&is=6581a4a4&hm=7abc9000db93cb5195922ffb3aa8f5323268e1bc5101fe5a279abda474c0361c&"
+    }
+  ],
+  "wmri_co": [
+    {
+      "name": "`⬜` Weki Meki **Rina** - Common",
+      "idol": "Rina",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598818928697415/Weki_Meki_-_Common_Rina.png?ex=659419a7&is=6581a4a7&hm=ad8044143c49f60875c3c03601c513ea4b03058b842e0a789e763f36477cd30f&"
+    }
+  ],
+  "wmlc_co": [
+    {
+      "name": "`⬜` Weki Meki **Lucy** - Common",
+      "idol": "Lucy",
+      "group": "Weki Meki",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1181598675701616640/1181598848200753242/Weki_Meki_-_Common_Lucy.png?ex=659419ae&is=6581a4ae&hm=09d55e421507caaf64c16653a35c30fced31e67a851077831c5887902fade900&"
+    }
+  ],
+  "wgye_co": [
+    {
+      "name": "`⬜` Wonder Girls **Yeeun** - Common",
+      "idol": "Yeeun",
+      "group": "Wonder Girls",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159256747479941190/1159256937247023134/Wonder_Girls_Yeeun_Common.png?ex=6595e0a7&is=65836ba7&hm=a41cbd5ffa37b138890b53417d7ae49c4a6c1ea5927a44945240b5e4794faf6d&"
+    }
+  ],
+  "wgyu_co": [
+    {
+      "name": "`⬜` Wonder Girls **Yubin** - Common",
+      "idol": "Yubin",
+      "group": "Wonder Girls",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159256747479941190/1159256899003367514/Wonder_Girls_Yubin_Common.png?ex=6595e09e&is=65836b9e&hm=fc4caec5c75cf4e52ec7e0dca72e444d9ccc4ab1da40f3c39e8a799633be768d&"
+    }
+  ],
+  "wgsn_co": [
+    {
+      "name": "`⬜` Wonder Girls **Sunmi** - Common",
+      "idol": "Sunmi",
+      "group": "Wonder Girls",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159256747479941190/1159256874055635128/Wonder_Girls_Sunmi_Common.png?ex=6595e098&is=65836b98&hm=dfa70d833c05b7dfaa2416fa9e1cdb50dc68ae792924a58d3daa8abb72755a08&"
+    }
+  ],
+  "wghl_co": [
+    {
+      "name": "`⬜` Wonder Girls **Hyelim** - Common",
+      "idol": "Hyelim",
+      "group": "Wonder Girls",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1159256747479941190/1159256918720786454/Wonder_Girls_Hyelim_Common.png?ex=6595e0a3&is=65836ba3&hm=c6073ec003db7034025c86ffdc3884906e09cd430475da0c7f4369913a881d8f&"
+    }
+  ],
+  "sobl_co": [
+    {
+      "name": "`⬜` Soloist **BLOO** - Common",
+      "idol": "BLOO",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160431696366276711/1160590871234891806/bloo_common_bloo_.png?ex=6591807a&is=657f0b7a&hm=09cc5cf3505d2dd7ac5136ebd552e22c2b205675188fe7f789b27afb10e74ea1&"
+    }
+  ],
+  "sohm_co": [
+    {
+      "name": "`⬜` Soloist **HWANG MIN HYUN** - Common",
+      "idol": "HWANG MIN HYUN",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1148316097351778336/1148316177362325514/Minhyun_common_card.png?ex=6592fd47&is=65808847&hm=c5e4ce8873007d9274491eef260016d54e46fcc9359bdc0c855af4a302debd9d&"
+    }
+  ],
+  "soji_co": [
+    {
+      "name": "`⬜` Soloist **JIN** - Common",
+      "idol": "JIN",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1143058035544182834/1143058081639575563/soji_co.png?ex=6592514b&is=657fdc4b&hm=37b24b208e0f16d7dfd961df3c0001ca9e6a77eee046d7e47f2947dd7a5dc14e&"
+    }
+  ],
+  "sojn_co": [
+    {
+      "name": "`⬜` Soloist **JOOHONEY** - Common",
+      "idol": "JOOHONEY",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1172739670027804792/1172739749354680361/Soloist_Joohoney_Common.png?ex=658f8e80&is=657d1980&hm=5f91cbf60736662df4baa3e7bcdf346015f332e31e8a1d0a27ce7aa3fde5f466&"
+    }
+  ],
+  "solo_co": [
+    {
+      "name": "`⬜` Soloist **LØREN** - Common",
+      "idol": "LØREN",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1150563989206605955/1150564051034849361/l.png?ex=6591f046&is=657f7b46&hm=290acc05a6fc38cf4d6ee7e3b9105a10f1211838295a81f3ff8219f224edf0a6&"
+    }
+  ],
+  "somd_co": [
+    {
+      "name": "`⬜` Soloist **Maddox** - Common",
+      "idol": "Maddox",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1160587739297751181/1160587780569714770/Maddox_Common.png?ex=65917d99&is=657f0899&hm=4834a1bad79c8435c00fc3dd7a39c9cf94ae0d0cee18b48452f0161cd6ee6e30&"
+    }
+  ],
+  "soar_co": [
+    {
+      "name": "`⬜` Soloist **ADORA** - Common",
+      "idol": "ADORA",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1145334124035452999/1145334232869257326/soao_co.png?ex=65915ea0&is=657ee9a0&hm=1673dad24d81215a7163db34580c49599ea6b745720bebf6b9ea196426161a15&"
+    }
+  ],
+  "sohz_co": [
+    {
+      "name": "`⬜` Soloist **HEIZE** - Common",
+      "idol": "HEIZE",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1148344326624120833/1148574593678848132/heize.png?ex=6593edf2&is=658178f2&hm=9a57113371d6f61344ac2f504c810d86f69c82ff193be5ab0a73980a1cc3b2a1&"
+    }
+  ],
+  "sohyo_co": [
+    {
+      "name": "`⬜` Soloist **HYO** - Common",
+      "idol": "HYO",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1146460243350536281/1146460285054504970/Hyo_Common.png?ex=65957758&is=65830258&hm=2af45ce7dfa73285c411870a865a06cb3d10df275f7b2580dd62917245299b2b&"
+    }
+  ],
+  "sojhy_co": [
+    {
+      "name": "`⬜` Soloist **JIHYO** - Common",
+      "idol": "JIHYO",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1148994796661260470/1148994853271765012/jj.png?ex=65957558&is=65830058&hm=3a93311d522a4e4702a3757704f19896f0e426bcd765fd49fa61913983303b05&"
+    }
+  ],
+  "sosy_co": [
+    {
+      "name": "`⬜` Soloist **SAAY** - Common",
+      "idol": "SAAY",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1185694079254790265/1185694111492214944/Common_20231217025242.png?ex=65908ab1&is=657e15b1&hm=9f26b6ba029cc30792349622f269f92dbc3cbd30f6512fdc7d9843707836339f&"
+    }
+  ],
+  "sosl_co": [
+    {
+      "name": "`⬜` Soloist **SEULGI** - Common",
+      "idol": "SEULGI",
+      "group": "Soloist",
+      "theme": "Common",
+      "rarity": "`⬜`",
+      "image": "https://cdn.discordapp.com/attachments/1148293169688104990/1148293212683907172/Soloist_Seulgi_Common.png?ex=6592e7e4&is=658072e4&hm=7d7f068314ef312ce565202f818ebd9c3f1bb80d76b440a393cd7c3c16aca7a2&"
+    }
+  ],
   "spbv_au23": [
     {
       "name": "<:BB_Autumn23:1169073679221665812> Special **Bright Vachirawit** - Autumn 2023",
