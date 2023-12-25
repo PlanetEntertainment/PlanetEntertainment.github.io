@@ -16,6 +16,76 @@
   "theme": "None",
   "rarity": "❌"
 }],
+"xgjr_sh": [
+    {
+  "name": "`<:BB_xgsh:1188715529616232480>` XG **Jurin** - Shooting Star",
+  "idol": "Jurin",
+  "group": "XG",
+  "theme": "Shooting Star",
+  "rarity": "`<:BB_xgsh:1188715529616232480>`",
+  "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1158771090189991986/XG_Shooting_Star_-_Jurin.png?ex=65941c2c&is=6581a72c&hm=eb1afa917dd937b3a3825cb1d59993a7778fc6ea08ade1965c133d7911e32e13&"
+}
+  ],
+"xgch_sh": [
+    {
+  "name": "`<:BB_xgsh:1188715529616232480>` XG **Chisa** - Shooting Star",
+  "idol": "Chisa",
+  "group": "XG",
+  "theme": "Shooting Star",
+  "rarity": "`<:BB_xgsh:1188715529616232480>`",
+  "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1158771106757484584/XG_Shooting_Star_-_Chisa.png?ex=65941c30&is=6581a730&hm=4c03571a2195242e4c122cc06ac42063e8c4c0118aa8ed777651dab0b8f045bd&"
+}
+  ],
+"xghi_sh": [
+    {
+  "name": "`<:BB_xgsh:1188715529616232480>` XG **Hinata** - Shooting Star",
+  "idol": "Hinata",
+  "group": "XG",
+  "theme": "Shooting Star",
+  "rarity": "`<:BB_xgsh:1188715529616232480>`",
+  "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1158771123077513226/XG_Shooting_Star_-_Hinata.png?ex=65941c34&is=6581a734&hm=e9aac9c98cdde5cc98a782a8b028bed9b3c731f8cc43e1f4f652d179e37f65ff&"
+}
+  ],
+"xghv_sh": [
+    {
+  "name": "`<:BB_xgsh:1188715529616232480>` XG **Harvey** - Shooting Star",
+  "idol": "Harvey",
+  "group": "XG",
+  "theme": "Shooting Star",
+  "rarity": "`<:BB_xgsh:1188715529616232480>`",
+  "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1158771141826060359/XG_Shooting_Star_-_Harvey.png?ex=65941c39&is=6581a739&hm=bf6e8440e242e6a82a209aac6b4e038a00e6ec65a44fa0577e55dddebf8751ef&"
+}
+  ],
+"xgju_sh": [
+    {
+  "name": "`<:BB_xgsh:1188715529616232480>` XG **Juria** - Shooting Star",
+  "idol": "Juria",
+  "group": "XG",
+  "theme": "Shooting Star",
+  "rarity": "`<:BB_xgsh:1188715529616232480>`",
+  "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1158771157785383012/XG_Shooting_Star_-_Juria.png?ex=65941c3c&is=6581a73c&hm=949a1e9209fc3069ff096ce92addb2f2d1bf5f4a82b5e0036b97679edac06fa4&"
+}
+  ],
+"xgma_sh": [
+    {
+  "name": "`<:BB_xgsh:1188715529616232480>` XG **Maya** - Shooting Star",
+  "idol": "Maya",
+  "group": "XG",
+  "theme": "Shooting Star",
+  "rarity": "`<:BB_xgsh:1188715529616232480>`",
+  "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1158771177452478595/XG_Shooting_Star_-_Maya.png?ex=65941c41&is=6581a741&hm=b2e46f38414d1367c40097014440c0a7f4ed8ba1dc7d00ee4172e55428f4c1b5&"
+}
+  ],
+"xgcc_sh": [
+    {
+  "name": "`<:BB_xgsh:1188715529616232480>` XG **Cocona** - Shooting Star",
+  "idol": "Cocona",
+  "group": "XG",
+  "theme": "Shooting Star",
+  "rarity": "`<:BB_xgsh:1188715529616232480>`",
+  "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1158771197677412372/XG_Shooting_Star_-_Cocona.png?ex=65941c46&is=6581a746&hm=4b5a1cb5841b20e823fa4bd1fea8f8041c1238cd5265f58ea46f355698133491&"
+}
+  ],
   "spnv_ws1": [
     {
       "name": "<:BB_spotlight:1188715118792552500> Spotlight **Nova** - Season 1 (Winner)",
