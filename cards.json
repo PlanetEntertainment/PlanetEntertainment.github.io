@@ -16,6 +16,26 @@
   "theme": "None",
   "rarity": "❌"
 }],
+  "spnv_ws1": [
+    {
+      "name": "<:BB_spotlight:1188715118792552500> Spotlight **Nova** - Season 1 (Winner)",
+      "idol": "Nova",
+      "group": "Spotlight",
+      "theme": "Season 1 (Winner)",
+      "rarity": "<:BB_spotlight:1188715118792552500>",
+      "image": "https://cdn.discordapp.com/attachments/1047025204758589470/1185769305414041660/Spotlight_Winner_S1_-_Nova_1.png?ex=659a0b38&is=65879638&hm=0f4752a8b0b07273e0470a7d557fff14b2d2053f5725fbb786873ce7155d9bd6&"
+    }
+  ],
+  "spza_ws2": [
+    {
+      "name": "<:BB_spotlight:1188715118792552500> Spotlight **Zayy** - Season 2 (Winner)",
+      "idol": "Zayy",
+      "group": "Spotlight",
+      "theme": "Season 2 (Winner)",
+      "rarity": "<:BB_spotlight:1188715118792552500>",
+      "image": "https://cdn.discordapp.com/attachments/1047025204758589470/1185769368680943748/Spotlight_Winner_S2_-_Zayy_1.png?ex=659a0b48&is=65879648&hm=25f9e60dc24d63ca967cfeb8735937b9ac158c6fcca75a86731f463523ac66a4&"
+    }
+  ],
 "thyh_xi": [{
 "name": "`⬛` 1THE9 **Yongha** - XIX",
 "idol": "Yongha",
