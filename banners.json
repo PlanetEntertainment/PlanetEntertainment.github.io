@@ -8,6 +8,20 @@
       "image": "https://cdn.discordapp.com/attachments/1057953820405137428/1058018745685131284/exo_dontmessupmytempo_banner.png"
     }
   ],
+        "XGSHSP": [{
+          "name": "<:BB_xgsh:1188715529616232480> XG - Shooting Star",
+          "group": "XG",
+          "theme": "Shooting Star",
+          "rarity": "<:BB_xgsh:1188715529616232480>",          
+          "image": "https://cdn.discordapp.com/attachments/1158771002428362912/1192470037605388368/XG_Shooting_Star_Special.png?ex=65a93143&is=6596bc43&hm=01cca4270f4e44488b384562c9c9c3ec8d23f91d7eb49d746dc075b06b4acfeb&"
+    }],
+      "TBCSSP": [{
+          "name": "<:BB_xmassy:1191890107695902802> The Boyz - Christmassy!",
+          "group": "The Boyz",
+          "theme": "Christmassy!",
+          "rarity": "<:BB_xmassy:1191890107695902802>",          
+          "image": "https://cdn.discordapp.com/attachments/1189936086345064468/1192110813511680061/bannera.png?ex=65a7e2b6&is=65956db6&hm=c44d1c96c10d4cc15dd35b3f7779412849a90221663638f12dddca8259a95e82&"
+    }],
   "SVFAB1": [
     {
       "name": "<:BB_ban1:1126097219985092683> **SEVENTEEN** - Face The Sun",
