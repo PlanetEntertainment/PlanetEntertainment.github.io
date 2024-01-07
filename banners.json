@@ -22,6 +22,186 @@
           "rarity": "<:BB_xmassy:1191890107695902802>",          
           "image": "https://cdn.discordapp.com/attachments/1189936086345064468/1192110813511680061/bannera.png?ex=65a7e2b6&is=65956db6&hm=c44d1c96c10d4cc15dd35b3f7779412849a90221663638f12dddca8259a95e82&"
     }],
+  "G7G7B1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **GOT7** - GOT7",
+      "group": "GOT7",
+      "theme": "GOT7",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058008954149552169/1058008996788846693/GOT7_GOT7_Banner.png?ex=65a92329&is=6596ae29&hm=290a9a04c2fa73a42aa934164bb7a17bfd63b73e352c3ce424b1685e5e1cfcb9&"
+    }
+  ],
+  "P1DHB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **P1Harmony** - DISHARMONY : STAND OUT",
+      "group": "P1Harmony",
+      "theme": "DISHARMONY : STAND OUT",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058030668933779499/1058030716077735997/P1harmony_DISHARMONY_-_STAND_OUT_banner.png?ex=65a93763&is=6596c263&hm=e2607933537b5e15521a2e8cd63c4e4fbe4c9693aa0144d6260e5eddedbbe020&"
+    }
+  ],
+  "WOTBB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **Wanna One** - 1×1=1 (TO BE ONE)",
+      "group": "Wanna One",
+      "theme": "1×1=1 (TO BE ONE)",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1142467029786447922/1142467064032927874/Wanna_One_-_To_Be_One_Banner.png?ex=65abda5e&is=6599655e&hm=a5b6dbf9d65bc965d3144b15ebfadcd293259fc30060cd84ae5ceb3ec264cb66&"
+    }
+  ],
+  "TBDLB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **The Boyz** - Dreamlike",
+      "group": "The Boyz",
+      "theme": "Dreamlike",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1142479687801634816/1142479943587086346/The_Boyz_-_Dreamlike_Banner.png?ex=65abe65c&is=6599715c&hm=ea33a364bd2c56bc58084ab8c1978d608e754122ea0b182aed855cca2e8fc778&"
+    }
+  ],
+  "BTM7B1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **BTS** - Map of the Soul : 7",
+      "group": "BTS",
+      "theme": "Map of the Soul : 7",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159282276039917729/1159282326132494437/BTS_-_Map_of_the_Soul_7.png?ex=65a86d4c&is=6595f84c&hm=2f38ea6e73632a763c0fc520baf92ae1971c7d1381f38e013cddab14f4e47a16&"
+    }
+  ],
+  "CBCWB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **Cherry Bullet** - Cherry Wish",
+      "group": "Cherry Bullet",
+      "theme": "Cherry Wish",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1058031133452927078/1058031214612717568/cherry_wish.png?ex=65a937da&is=6596c2da&hm=47fba58b93092b3655c15ce9644f85a56d77f56f154e187ae796b0541cf39c9b&"
+    }
+  ],
+  "MMMTB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **MAMAMOO** - I SAY MAMAMOO : THE BEST",
+      "group": "MAMAMOO",
+      "theme": "I SAY MAMAMOO : THE BEST",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://media.discordapp.net/attachments/963756546213425152/1057930761619124265/SCREEN.png"
+    }
+  ],
+  "RVQDB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **Red Velvet** - Queendom",
+      "group": "Red Velvet",
+      "theme": "Queendom",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1146492209336696852/1146492237082021948/Red_Velvet_-_Queendom.png?ex=65a80a1a&is=6595951a&hm=5d43e416aa6d10b3dab844ab00b0c3e51df8fcf7a41170dd8198c18e16946281&"
+    }
+  ],
+  "BPHYB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **BLACKPINK** - The Album",
+      "group": "BLACKPINK",
+      "theme": "The Album",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159266529855143946/1159266562881106061/Blackpink_-_The_Album.png?ex=65a85e9e&is=6595e99e&hm=d999e49f6dd5bc4102e5cb7598e95ff5b5559d44a872d6494ca83713aea265d1&"
+    }
+  ],
+  "IOBOB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **IZ * ONE** - One-reeler / Act IV",
+      "group": "IZ * ONE",
+      "theme": "One-reeler / Act IV",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159268872017420359/1159268901234942063/IZ_ONE_-_One_Reeler.png?ex=65a860cc&is=6595ebcc&hm=daa201c3fd3b24038f4b91430c5cf1fc265f9b6324a846b2bf80be55ea3e5bbc&"
+    }
+  ],
+  "SYESLB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **YENA** - SMILEY",
+      "group": "YENA",
+      "theme": "SMILEY",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159510950630670378/1159511008033906768/Yena_-_Smiley_2.png?ex=65a94246&is=6596cd46&hm=40b6c6cb53c8a9dc6d6539c9f93c312a00ea46d18ec90da14985b318d1b667b1&"
+    }
+  ],
+  "SLSALB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **LEE SUHYUN** - ALIEN",
+      "group": "LEE SUHYUN",
+      "theme": "ALIEN",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159509600987521094/1159509637050155158/Lee_Suhyun_-_Alien_1.png?ex=65a94100&is=6596cc00&hm=92c5098b97317f79f4c454524a2746f32192bbb255f1ca548a0d5578a320e67c&"
+    }
+  ],
+  "SLILAB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **LISA** - LALISA",
+      "group": "LISA",
+      "theme": "LALISA",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159496138148302921/1185947438540922971/Soloist_Lisa_-_Money_1.png?ex=65a3eb9f&is=6591769f&hm=2a6b7c63d91efec78bcb1423f199988af68ef0eb29f7eec44ec8f82190ee6cc0&"
+    }
+  ],
+  "SSN16B1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **SUNMI** - 1/6",
+      "group": "SUNMI",
+      "theme": "1/6",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159504605126865009/1159504765890338966/Sunmi_-_1_6.png?ex=65a93c76&is=6596c776&hm=d8558ef87a8d4c3f18ac7cb818b6be737328ef43670b58ad7b176503b35edcc8&"
+    }
+  ],
+  "STYINB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **TAEYEON** - INVU",
+      "group": "TAEYEON",
+      "theme": "INVU",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159496493317759117/1159497462386524170/Soloist_Taeyeon_-_INVU_2.png?ex=65a935a9&is=6596c0a9&hm=cbdcc049f9cfe85cfe99db9a590f3fca13cdd726db47249247e43283200cd3a3&"
+    }
+  ],
+  "SMCDVB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **MAX CHANGMIN** - Devil",
+      "group": "MAX CHANGMIN",
+      "theme": "Devil",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159512410848243822/1159512512430084186/Max_Changmin_-_Devil_4.png?ex=65a943ad&is=6596cead&hm=c90fb8a8f78f5fc4ea2321bbef60cf7637766d47eb3bde56d88ce1c84a0636b6&"
+    }
+  ],
+  "SWOBLB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **WONHO** - Blue Letter",
+      "group": "WONHO",
+      "theme": "Blue Letter",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159505263326416969/1159505298818609173/Wonho_-_Blue_Letter_1.png?ex=65a93cf5&is=6596c7f5&hm=d58e901eee7645be5fa872065577094c5766ee37ef22e4c716308f5ebffaf5fb&"
+    }
+  ],
+  "SSUGSB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **SUHO** - Grey Suit",
+      "group": "SUHO",
+      "theme": "Grey Suit",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159502940940271747/1159503027678494760/Suho_-_Grey_Suit_4.png?ex=65a93ad8&is=6596c5d8&hm=361d2fce5968c7cd8908e6d00b886a81c6b730aaa48b5a9a9ab2b590378be1a4&"
+    }
+  ],
+  "SKIVYB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **KIHYUN** - VOYAGER",
+      "group": "KIHYUN",
+      "theme": "VOYAGER",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159498819713638440/1159498853603622992/Kihyun_-_Voyager.png?ex=65a936f5&is=6596c1f5&hm=f4f0eacdba8494add605d7528b302f18f24297e1635f2b7fce467408f6daca02&"
+    }
+  ],
+  "SKDYWB1": [
+    {
+      "name": "<:BB_ban1:1126097219985092683> **KANGDANIEL** - Yellow",
+      "group": "KANGDANIEL",
+      "theme": "Yellow",
+       "rarity": "<:BB_ban1:1126097219985092683>",      
+      "image": "https://cdn.discordapp.com/attachments/1159500046300106822/1159500098145894471/Kang_Daniel_-_Yellow_1.png?ex=65a9381d&is=6596c31d&hm=ff2758363a9986269529593ad3640416f1fa813aaf1c6997a093c42d7b56e391&"
+    }
+  ],  
   "SVFAB1": [
     {
       "name": "<:BB_ban1:1126097219985092683> **SEVENTEEN** - Face The Sun",
